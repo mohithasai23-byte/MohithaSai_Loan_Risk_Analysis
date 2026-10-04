@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Age,Education,Employment_Status,Marital_Status,Dependents,Annual_Income,Credit_Score,Existing_Loans,Loan_ID,Loan_Type,Loan_Amount,Loan_Term_Months,Interest_Rate,Monthly_Installment,Debt_to_Income_Ratio,Employment_Years,Previous_Defaults,Credit_History,Property_Ownership,Region,Loan_Status,Default_Status,Credit_Score_Group,Income_Group
+CUST0001,Male,32,Master,Employed,Single,4,37797.0,492.0,1,LOAN00001,Auto,77995,60,15.0,1494.9,0.408,12.2,0,0.54,Rent,North,Defaulted,Default,Poor,Low
+CUST0002,Female,36,High School,Employed,Married,1,79861.0,583.0,3,LOAN00002,Personal,32228,60,11.32,597.94,0.332,16.1,2,0.36,Other,West,Active/Closed,Non-Default,Fair,Very High
+CUST0003,Female,44,Bachelor,Employed,Married,1,75381.0,726.0,0,LOAN00003,Business,143953,60,5.6,2533.57,0.19,16.7,0,0.89,Own,North,Active/Closed,Non-Default,Good,High
+CUST0004,Female,39,Bachelor,Employed,Married,1,45575.0,520.0,2,LOAN00004,Business,70819,48,7.27,1582.66,0.437,11.0,0,0.64,Rent,South,Defaulted,Default,Poor,Low
+CUST0005,Male,28,High School,Employed,Single,1,97271.0,769.0,1,LOAN00005,Personal,26665,36,11.36,824.84,0.255,3.3,0,0.84,Rent,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0006,Male,51,Bachelor,Retired,Married,1,71864.0,758.0,1,LOAN00006,Personal,6998,120,4.0,60.65,0.297,39.6,2,0.74,Own,West,Active/Closed,Non-Default,Very Good,High
+CUST0007,Male,41,High School,Employed,Single,3,53830.0,683.0,5,LOAN00007,Business,167156,48,11.9,3896.82,0.295,7.4,0,0.88,Own,East,Defaulted,Default,Good,Medium
+CUST0008,Female,37,High School,Self-Employed,Widowed,1,29093.0,725.0,1,LOAN00008,Business,198181,360,7.04,589.26,0.286,14.1,0,0.68,Mortgage,West,Active/Closed,Non-Default,Good,Low
+CUST0009,Female,43,High School,Employed,Married,1,70041.0,720.0,1,LOAN00009,Business,93238,36,7.09,2773.57,0.348,13.3,0,0.8,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0010,Female,57,Doctorate,Self-Employed,Divorced,0,69016.0,686.0,3,LOAN00010,Business,21973,84,8.35,283.43,0.361,21.3,0,1.0,Own,South,Defaulted,Default,Good,High
+CUST0011,Male,36,Bachelor,Self-Employed,Single,4,47324.0,577.0,0,LOAN00011,Auto,25281,360,14.08,80.11,0.418,7.1,0,0.75,Mortgage,West,Active/Closed,Non-Default,Poor,Low
+CUST0012,Other,26,Doctorate,Employed,Married,0,42040.0,768.0,1,LOAN00012,Auto,68727,84,4.83,857.7,0.362,7.7,0,0.95,Rent,West,Defaulted,Default,Very Good,Low
+CUST0013,Female,28,Bachelor,Retired,Married,0,79107.0,786.0,1,LOAN00013,Auto,65087,240,6.85,289.77,0.715,31.4,0,1.0,Mortgage,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0014,Male,45,Diploma,Employed,Single,2,21975.0,589.0,1,LOAN00014,Personal,40454,180,13.42,254.91,0.396,25.3,0,0.72,Rent,East,Defaulted,Default,Fair,Low
+CUST0015,Male,38,Bachelor,Employed,Divorced,2,71914.0,574.0,2,LOAN00015,Education,24041,48,9.87,550.29,0.162,0.2,0,0.77,Rent,South,Active/Closed,Non-Default,Poor,High
+CUST0016,Male,45,Bachelor,Self-Employed,Widowed,1,65876.0,670.0,0,LOAN00016,Home,240908,60,14.78,4608.57,0.294,15.5,1,0.76,Mortgage,North,Active/Closed,Non-Default,Good,High
+CUST0017,Male,32,High School,Self-Employed,Divorced,1,80937.0,633.0,0,LOAN00017,Auto,71919,24,5.33,3156.35,0.305,10.0,1,0.71,Other,West,Defaulted,Default,Fair,Very High
+CUST0018,Female,35,Bachelor,Employed,Married,2,58525.0,691.0,2,LOAN00018,Home,130704,60,9.85,2392.97,0.296,12.7,2,0.6,Own,East,Defaulted,Default,Good,Medium
+CUST0019,Male,46,Diploma,Employed,Single,0,71452.0,771.0,1,LOAN00019,Home,186372,36,12.52,5825.16,0.354,25.3,0,0.91,Own,South,Defaulted,Default,Very Good,High
+CUST0020,Male,61,Bachelor,Employed,Single,3,48659.0,512.0,1,LOAN00020,Personal,11627,120,9.53,106.13,0.268,0.2,1,0.49,Mortgage,South,Active/Closed,Non-Default,Poor,Low
+CUST0021,Female,65,Bachelor,Employed,Widowed,2,63917.0,799.0,2,LOAN00021,Personal,25365,60,8.37,458.13,0.41,0.0,2,0.73,Rent,Central,Defaulted,Default,Very Good,High
+CUST0022,Male,46,High School,Self-Employed,Single,1,80760.0,649.0,1,LOAN00022,Personal,44654,48,10.9,1031.69,0.116,13.2,0,0.69,Rent,West,Active/Closed,Non-Default,Fair,Very High
+CUST0023,Male,52,High School,Employed,Married,1,68319.0,718.0,2,LOAN00023,Personal,23954,36,8.08,719.15,0.507,1.0,0,0.78,Mortgage,Central,Active/Closed,Non-Default,Good,High
+CUST0024,Male,30,Master,Employed,Married,0,73367.0,734.0,0,LOAN00024,Business,171122,360,10.27,524.16,0.131,11.7,1,0.74,Own,East,Active/Closed,Non-Default,Good,High
+CUST0025,Male,36,Bachelor,Employed,Married,2,44586.0,735.0,3,LOAN00025,Personal,31561,12,12.18,2950.43,0.363,4.0,0,0.79,Own,East,Defaulted,Default,Good,Low
+CUST0026,Female,27,High School,Employed,Widowed,1,52005.0,685.0,0,LOAN00026,Personal,13634,12,9.1,1239.56,0.232,4.3,1,0.67,Rent,South,Defaulted,Default,Good,Medium
+CUST0027,Male,37,Doctorate,Employed,Single,1,52387.0,717.0,3,LOAN00027,Auto,62300,36,12.79,1951.89,0.432,1.2,0,0.83,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0028,Female,43,High School,Self-Employed,Married,2,63917.0,702.0,0,LOAN00028,Auto,55538,360,11.68,172.29,0.298,13.1,0,0.86,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0029,Female,46,Bachelor,Retired,Single,4,89889.0,633.0,2,LOAN00029,Personal,22939,360,8.75,69.29,0.4,27.6,0,0.84,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0030,Male,41,Doctorate,Unemployed,Married,1,39208.0,528.0,1,LOAN00030,Education,13972,84,16.88,194.41,0.598,0.1,0,0.62,Rent,South,Active/Closed,Non-Default,Poor,Low
+CUST0031,Female,42,Diploma,Employed,Single,3,39842.0,589.0,0,LOAN00031,Education,36253,240,11.28,168.09,0.412,8.0,1,0.73,Own,West,Defaulted,Default,Fair,Low
+CUST0032,Male,27,High School,Unemployed,Married,1,58916.0,637.0,0,LOAN00032,Personal,8274,36,13.07,259.87,0.444,0.8,1,0.74,Mortgage,North,Active/Closed,Non-Default,Fair,Medium
+CUST0033,Male,34,High School,Self-Employed,Married,0,99626.0,621.0,0,LOAN00033,Personal,9445,360,8.33,28.42,0.375,15.8,0,0.79,Rent,South,Defaulted,Default,Fair,Very High
+CUST0034,Female,35,Diploma,Self-Employed,Divorced,0,42253.0,621.0,1,LOAN00034,Business,94865,24,9.55,4330.19,0.58,3.5,0,0.76,Mortgage,North,Active/Closed,Non-Default,Fair,Low
+CUST0035,Other,27,High School,Employed,Single,1,108402.0,815.0,1,LOAN00035,Education,27904,24,8.21,1258.12,0.442,4.9,0,0.97,Own,South,Active/Closed,Non-Default,Excellent,Very High
+CUST0036,Female,29,Bachelor,Employed,Married,0,74134.0,744.0,0,LOAN00036,Auto,93299,24,11.52,4335.29,0.285,10.9,0,0.97,Other,North,Defaulted,Default,Very Good,High
+CUST0037,Male,28,High School,Employed,Divorced,0,87746.0,661.0,0,LOAN00037,Personal,21907,60,4.0,379.72,0.473,7.9,0,0.89,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0038,Male,43,Bachelor,Employed,Single,3,97276.0,730.0,1,LOAN00038,Home,239465,120,11.87,2232.41,0.392,24.8,1,0.87,Own,South,Active/Closed,Non-Default,Good,Very High
+CUST0039,Female,49,Doctorate,Employed,Single,3,86398.0,663.0,0,LOAN00039,Auto,57722,48,10.19,1325.08,0.204,30.0,1,0.7,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0040,Male,38,Master,Employed,Single,2,62568.0,696.0,3,LOAN00040,Personal,36684,360,11.36,113.48,0.373,9.8,0,0.87,Rent,East,Defaulted,Default,Good,Medium
+CUST0041,Male,51,Bachelor,Employed,Married,0,91789.0,713.0,0,LOAN00041,Home,115029,48,12.01,2684.25,0.143,23.0,1,0.85,Own,South,Defaulted,Default,Good,Very High
+CUST0042,Female,50,Diploma,Self-Employed,Single,0,75601.0,649.0,1,LOAN00042,Auto,94771,24,11.68,4410.01,0.071,3.5,0,0.73,Mortgage,East,Defaulted,Default,Fair,High
+CUST0043,Male,59,Bachelor,Employed,Widowed,0,88991.0,629.0,1,LOAN00043,Home,182522,60,4.48,3178.32,0.231,15.4,0,0.73,Mortgage,East,Defaulted,Default,Fair,Very High
+CUST0044,Female,55,Bachelor,Employed,Married,2,91397.0,772.0,1,LOAN00044,Education,67349,84,5.52,846.03,0.36,28.3,0,0.9,Mortgage,South,Active/Closed,Non-Default,Very Good,Very High
+CUST0045,Male,38,Bachelor,Retired,Married,3,36000.0,726.0,3,LOAN00045,Education,32378,180,11.5,200.56,0.41,30.1,1,0.83,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0046,Female,62,High School,Retired,Single,1,77475.0,511.0,2,LOAN00046,Home,75053,48,14.1,1784.07,0.201,34.1,0,0.71,Mortgage,East,Defaulted,Default,Poor,High
+CUST0047,Male,59,Master,Self-Employed,Married,0,65998.0,638.0,3,LOAN00047,Education,55528,60,8.13,1000.71,0.11,26.1,0,0.75,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0048,Female,37,Bachelor,Retired,Married,1,63040.0,621.0,2,LOAN00048,Personal,5349,36,12.71,167.47,0.546,25.1,1,0.53,Own,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0049,Female,34,Diploma,Employed,Married,1,67796.0,633.0,1,LOAN00049,Education,40647,84,9.73,530.98,0.356,14.0,0,0.78,Own,West,Defaulted,Default,Fair,High
+CUST0050,Male,51,Bachelor,Retired,Married,1,61913.0,745.0,3,LOAN00050,Personal,13676,360,13.16,42.99,0.582,29.2,0,0.8,Mortgage,Central,Defaulted,Default,Very Good,Medium
+CUST0051,Other,44,Bachelor,Employed,Married,2,98518.0,681.0,0,LOAN00051,Personal,33232,12,14.13,3160.64,0.5,5.5,0,0.69,Rent,West,Defaulted,Default,Good,Very High
+CUST0052,Female,55,Master,Employed,Divorced,2,34938.0,584.0,2,LOAN00052,Auto,98148,240,14.33,467.55,0.458,30.3,0,0.61,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0053,Female,64,Master,Employed,Married,0,27108.0,659.0,0,LOAN00053,Home,166101,60,12.17,3105.26,0.327,14.6,0,0.82,Rent,South,Active/Closed,Non-Default,Fair,Low
+CUST0054,Female,65,Master,Employed,Married,0,22468.0,729.0,2,LOAN00054,Business,167150,36,8.67,5045.61,0.322,26.3,0,0.97,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0055,Female,54,High School,Employed,Single,4,88521.0,664.0,1,LOAN00055,Home,176946,360,13.18,556.3,0.431,19.2,0,0.8,Own,Central,Defaulted,Default,Fair,Very High
+CUST0056,Female,23,Bachelor,Self-Employed,Single,0,52984.0,632.0,1,LOAN00056,Personal,27313,60,11.15,505.97,0.326,1.9,0,0.78,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0057,Male,57,Bachelor,Self-Employed,Single,0,72908.0,705.0,0,LOAN00057,Home,282606,36,9.62,8605.35,0.249,28.3,1,0.83,Rent,Central,Defaulted,Default,Good,High
+CUST0058,Male,63,High School,Employed,Married,0,62476.0,801.0,1,LOAN00058,Home,272491,36,5.04,7950.68,0.093,20.5,0,0.81,Mortgage,South,Active/Closed,Non-Default,Excellent,Medium
+CUST0059,Male,60,Diploma,Employed,Married,0,45500.0,715.0,0,LOAN00059,Home,246450,36,9.04,7464.7,0.31,13.7,0,0.89,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0060,Male,46,Master,Self-Employed,Married,1,88732.0,786.0,1,LOAN00060,Auto,36663,180,5.37,214.62,0.477,3.1,0,0.92,Rent,Central,Defaulted,Default,Very Good,Very High
+CUST0061,Male,43,High School,Self-Employed,Divorced,3,67196.0,637.0,2,LOAN00061,Education,45876,60,12.78,862.32,0.521,22.4,1,0.71,Other,West,Active/Closed,Non-Default,Fair,High
+CUST0062,Male,64,Bachelor,Employed,Divorced,1,59770.0,679.0,1,LOAN00062,Business,60302,240,14.16,286.84,0.351,1.2,1,0.67,Mortgage,Central,Active/Closed,Non-Default,Good,Medium
+CUST0063,Female,59,Diploma,Self-Employed,Divorced,1,75123.0,678.0,0,LOAN00063,Business,99905,36,13.25,3142.84,0.213,30.2,0,0.74,Mortgage,West,Active/Closed,Non-Default,Good,High
+CUST0064,Male,35,High School,Employed,Single,2,80857.0,689.0,1,LOAN00064,Personal,26790,24,17.96,1316.73,0.453,6.1,2,0.63,Mortgage,South,Defaulted,Default,Good,Very High
+CUST0065,Male,24,Diploma,Employed,Married,1,43903.0,713.0,2,LOAN00065,Auto,84848,12,9.12,7715.51,0.368,3.8,0,0.97,Own,East,Active/Closed,Non-Default,Good,Low
+CUST0066,Female,49,Doctorate,Unemployed,Single,3,66204.0,591.0,0,LOAN00066,Home,274007,60,15.29,5265.04,0.396,1.8,0,0.79,Mortgage,Central,Active/Closed,Non-Default,Fair,High
+CUST0067,Male,42,Master,Employed,Single,3,96897.0,737.0,0,LOAN00067,Auto,47316,360,6.96,140.58,0.145,3.6,0,0.83,Mortgage,East,Active/Closed,Non-Default,Good,Very High
+CUST0068,Female,45,Doctorate,Employed,Single,0,33625.0,573.0,1,LOAN00068,Home,54426,84,12.91,731.58,0.597,15.3,0,0.6,Own,South,Defaulted,Default,Poor,Low
+CUST0069,Male,33,Bachelor,Unemployed,Married,2,53123.0,545.0,1,LOAN00069,Business,175119,36,9.07,5305.62,0.554,1.5,0,0.54,Mortgage,South,Active/Closed,Non-Default,Poor,Medium
+CUST0070,Other,38,High School,Self-Employed,Married,1,63292.0,840.0,2,LOAN00070,Education,18071,240,10.4,83.13,0.472,15.2,0,1.0,Own,East,Defaulted,Default,Excellent,Medium
+CUST0071,Female,53,Bachelor,Employed,Married,4,80383.0,642.0,2,LOAN00071,Business,131939,120,9.43,1203.17,0.266,18.4,0,0.7,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0072,Male,36,Bachelor,Employed,Single,1,38233.0,735.0,1,LOAN00072,Education,6873,12,4.34,597.61,0.355,11.2,0,0.84,Own,West,Defaulted,Default,Good,Low
+CUST0073,Male,65,Master,Employed,Married,4,100837.0,815.0,1,LOAN00073,Business,91911,180,6.64,544.52,0.335,26.5,1,0.95,Own,North,Defaulted,Default,Excellent,Very High
+CUST0074,Female,62,High School,Self-Employed,Married,2,34626.0,506.0,4,LOAN00074,Education,78947,36,18.88,2607.01,0.514,29.4,0,0.51,Rent,South,Active/Closed,Non-Default,Poor,Low
+CUST0075,Female,64,Bachelor,Employed,Single,0,59626.0,764.0,3,LOAN00075,Home,75173,24,9.93,3443.24,0.558,26.7,0,1.0,Rent,West,Active/Closed,Non-Default,Very Good,Medium
+CUST0076,Female,22,High School,Employed,Married,2,74555.0,729.0,2,LOAN00076,Personal,24066,36,12.81,754.13,0.198,1.4,0,0.84,Own,East,Active/Closed,Non-Default,Good,High
+CUST0077,Female,55,Diploma,Retired,Single,4,44901.0,803.0,1,LOAN00077,Home,126787,60,9.08,2304.99,0.216,39.9,1,0.74,Mortgage,West,Active/Closed,Non-Default,Excellent,Low
+CUST0078,Male,62,Master,Employed,Married,3,46445.0,599.0,0,LOAN00078,Personal,45729,48,12.96,1076.16,0.397,15.2,1,0.61,Own,South,Defaulted,Default,Fair,Low
+CUST0079,Male,54,Bachelor,Employed,Married,0,69889.0,789.0,0,LOAN00079,Auto,88241,36,8.75,2665.61,0.259,0.9,0,0.86,Mortgage,Central,Defaulted,Default,Very Good,High
+CUST0080,Male,50,Bachelor,Employed,Single,2,66711.0,625.0,1,LOAN00080,Home,109425,24,11.24,5071.85,0.443,11.6,0,0.79,Mortgage,South,Active/Closed,Non-Default,Fair,High
+CUST0081,Female,33,Bachelor,Self-Employed,Single,1,70131.0,759.0,2,LOAN00081,Auto,17307,120,5.41,152.03,0.325,1.9,1,0.74,Own,North,Active/Closed,Non-Default,Very Good,High
+CUST0082,Female,33,Bachelor,Employed,Married,0,83891.0,677.0,1,LOAN00082,Business,132885,360,12.79,416.34,0.195,1.8,0,0.65,Rent,Central,Active/Closed,Non-Default,Good,Very High
+CUST0083,Male,38,Master,Employed,Divorced,1,56322.0,746.0,0,LOAN00083,Business,80546,120,13.87,764.31,0.109,5.6,1,0.76,Own,West,Active/Closed,Non-Default,Very Good,Medium
+CUST0084,Male,52,Master,Self-Employed,Married,0,77031.0,692.0,3,LOAN00084,Personal,35244,36,9.91,1076.02,0.453,1.8,2,0.51,Own,South,Active/Closed,Non-Default,Good,High
+CUST0085,Male,52,Doctorate,Employed,Married,3,53855.0,557.0,1,LOAN00085,Home,58030,36,11.93,1804.25,0.406,23.4,0,0.7,Rent,Central,Active/Closed,Non-Default,Poor,Medium
+CUST0086,Male,55,Master,Employed,Married,1,46315.0,454.0,0,LOAN00086,Home,83350,36,11.27,2576.21,0.436,2.6,0,0.49,Rent,East,Defaulted,Default,Poor,Low
+CUST0087,Female,59,Diploma,Employed,Divorced,3,58735.0,696.0,0,LOAN00087,Home,221593,24,15.78,10690.02,0.359,7.1,0,0.79,Mortgage,Central,Active/Closed,Non-Default,Good,Medium
+CUST0088,Female,49,Bachelor,Employed,Married,0,54027.0,660.0,0,LOAN00088,Education,20928,60,9.14,380.68,0.05,2.9,2,0.6,Mortgage,East,Active/Closed,Non-Default,Fair,Medium
+CUST0089,Female,49,Bachelor,Employed,Married,1,55126.0,710.0,1,LOAN00089,Auto,87183,60,12.46,1634.1,0.405,2.0,0,0.82,Mortgage,East,Active/Closed,Non-Default,Good,Medium
+CUST0090,Male,64,Diploma,Employed,Married,0,90637.0,661.0,2,LOAN00090,Auto,15273,84,9.93,199.88,0.195,9.4,0,0.81,Mortgage,South,Active/Closed,Non-Default,Fair,Very High
+CUST0091,Male,36,Master,Employed,Divorced,0,59410.0,839.0,0,LOAN00091,Business,58787,84,7.97,755.62,0.096,10.3,1,0.92,Mortgage,South,Active/Closed,Non-Default,Excellent,Medium
+CUST0092,Female,64,High School,Employed,Married,0,50416.0,697.0,1,LOAN00092,Education,79892,36,8.21,2401.42,0.106,33.8,1,0.63,Mortgage,East,Active/Closed,Non-Default,Good,Medium
+CUST0093,Female,30,Master,Unemployed,Married,0,47618.0,619.0,2,LOAN00093,Personal,24488,36,7.59,731.85,0.24,1.8,1,0.64,Mortgage,East,Defaulted,Default,Fair,Low
+CUST0094,Female,50,Bachelor,Retired,Single,2,62293.0,705.0,1,LOAN00094,Auto,73267,84,12.72,983.17,0.378,37.5,0,0.57,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0095,Female,45,Bachelor,Self-Employed,Married,1,43889.0,648.0,1,LOAN00095,Home,95666,36,7.52,2857.22,0.257,4.8,0,0.8,Rent,South,Defaulted,Default,Fair,Low
+CUST0096,Female,59,Bachelor,Unemployed,Married,1,40435.0,652.0,0,LOAN00096,Personal,32444,36,11.89,1008.38,0.258,0.5,1,0.66,Mortgage,South,Defaulted,Default,Fair,Low
+CUST0097,Female,40,Master,Employed,Single,1,57549.0,597.0,0,LOAN00097,Personal,37675,48,13.77,892.98,0.323,1.7,0,0.65,Mortgage,Central,Defaulted,Default,Fair,Medium
+CUST0098,Male,25,Bachelor,Retired,Married,3,56213.0,679.0,1,LOAN00098,Home,128619,36,12.76,4028.63,0.212,35.6,0,0.83,Mortgage,East,Defaulted,Default,Good,Medium
+CUST0099,Male,21,Bachelor,Employed,Married,3,80962.0,644.0,0,LOAN00099,Home,257224,24,8.67,11646.89,0.438,0.2,0,0.87,Mortgage,West,Defaulted,Default,Fair,Very High
+CUST0100,Male,50,High School,Retired,Single,1,63007.0,596.0,3,LOAN00100,Personal,32154,180,16.74,208.54,0.569,31.1,0,0.69,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0101,Male,23,Bachelor,Retired,Widowed,1,87015.0,828.0,2,LOAN00101,Auto,45021,180,8.28,270.83,0.344,25.0,0,0.88,Rent,West,Defaulted,Default,Excellent,Very High
+CUST0102,Female,65,High School,Self-Employed,Single,0,69743.0,599.0,2,LOAN00102,Education,46823,36,21.28,1577.41,0.535,8.5,0,0.74,Rent,Central,Active/Closed,Non-Default,Fair,High
+CUST0103,Male,34,Master,Retired,Single,4,99074.0,689.0,0,LOAN00103,Personal,30954,12,5.66,2725.5,0.485,39.8,0,0.71,Rent,South,Defaulted,Default,Good,Very High
+CUST0104,Female,50,Bachelor,Employed,Married,0,54863.0,620.0,1,LOAN00104,Personal,12449,120,17.79,122.2,0.355,24.2,0,0.7,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0105,Female,24,Bachelor,Employed,Married,1,48070.0,702.0,3,LOAN00105,Education,35205,36,10.12,1076.88,0.603,5.0,1,0.83,Other,South,Defaulted,Default,Good,Low
+CUST0106,Male,38,High School,Employed,Single,1,77041.0,584.0,0,LOAN00106,Personal,20454,48,14.17,486.51,0.245,11.4,0,0.72,Rent,East,Defaulted,Default,Fair,High
+CUST0107,Male,57,High School,Employed,Married,1,95010.0,743.0,2,LOAN00107,Business,92162,12,8.69,8347.57,0.135,30.5,0,0.72,Other,Central,Defaulted,Default,Very Good,Very High
+CUST0108,Female,45,Master,Employed,Married,0,34666.0,841.0,1,LOAN00108,Auto,78500,36,4.0,2267.78,0.158,17.4,0,0.83,Own,East,Active/Closed,Non-Default,Excellent,Low
+CUST0109,Male,21,High School,Self-Employed,Single,2,65666.0,617.0,0,LOAN00109,Home,170635,120,8.91,1548.65,0.24,2.8,0,0.76,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0110,Male,35,High School,Retired,Single,0,46563.0,771.0,0,LOAN00110,Personal,47314,180,7.6,282.83,0.384,25.6,1,0.87,Mortgage,West,Defaulted,Default,Very Good,Low
+CUST0111,Male,29,High School,Employed,Married,2,68143.0,651.0,0,LOAN00111,Personal,18215,36,11.05,561.88,0.181,6.5,0,0.65,Other,East,Active/Closed,Non-Default,Fair,High
+CUST0112,Male,35,Doctorate,Self-Employed,Single,0,70220.0,808.0,0,LOAN00112,Personal,23707,36,12.06,737.95,0.239,11.7,0,0.97,Mortgage,North,Defaulted,Default,Excellent,High
+CUST0113,Female,44,Master,Unemployed,Divorced,0,76598.0,817.0,1,LOAN00113,Personal,40413,24,9.27,1839.97,0.315,0.8,0,1.0,Own,East,Active/Closed,Non-Default,Excellent,High
+CUST0114,Female,24,Bachelor,Retired,Married,3,57615.0,662.0,2,LOAN00114,Auto,59142,12,11.12,5476.55,0.292,37.6,2,0.74,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0115,Female,32,Diploma,Retired,Widowed,0,90245.0,566.0,3,LOAN00115,Personal,29616,360,14.65,94.32,0.556,39.6,0,0.72,Rent,West,Defaulted,Default,Poor,Very High
+CUST0116,Female,57,Diploma,Employed,Single,3,58068.0,751.0,0,LOAN00116,Auto,14801,84,4.0,183.25,0.363,17.3,1,0.82,Mortgage,East,Defaulted,Default,Very Good,Medium
+CUST0117,Female,57,Master,Retired,Widowed,2,80383.0,705.0,4,LOAN00117,Auto,45874,60,5.51,806.69,0.351,27.8,0,0.66,Rent,South,Active/Closed,Non-Default,Good,Very High
+CUST0118,Male,63,Bachelor,Self-Employed,Married,0,75031.0,718.0,1,LOAN00118,Personal,17183,120,6.01,151.8,0.491,16.5,1,0.92,Other,North,Defaulted,Default,Good,High
+CUST0119,Female,26,Diploma,Employed,Married,4,103057.0,655.0,0,LOAN00119,Personal,49970,180,9.38,303.65,0.323,6.8,0,0.74,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0120,Female,59,High School,Employed,Single,0,32506.0,614.0,1,LOAN00120,Personal,18876,180,4.88,109.98,0.361,22.6,1,0.57,Own,West,Defaulted,Default,Fair,Low
+CUST0121,Female,44,High School,Self-Employed,Single,3,44395.0,767.0,2,LOAN00121,Personal,44802,12,6.63,3981.03,0.507,1.2,1,0.78,Mortgage,South,Active/Closed,Non-Default,Very Good,Low
+CUST0122,Female,31,Bachelor,Employed,Married,0,105296.0,704.0,3,LOAN00122,Education,55718,36,6.4,1646.78,0.354,7.0,0,0.95,Mortgage,South,Active/Closed,Non-Default,Good,Very High
+CUST0123,Male,33,Master,Self-Employed,Married,3,53868.0,580.0,1,LOAN00123,Home,135229,84,14.96,1850.71,0.455,0.3,0,0.89,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0124,Male,54,Diploma,Self-Employed,Single,0,55264.0,732.0,1,LOAN00124,Education,45765,48,11.81,1066.04,0.446,27.2,0,0.87,Own,West,Active/Closed,Non-Default,Good,Medium
+CUST0125,Male,45,High School,Employed,Married,1,45734.0,716.0,1,LOAN00125,Home,260134,360,9.6,791.96,0.328,8.9,0,0.93,Rent,West,Defaulted,Default,Good,Low
+CUST0126,Male,27,High School,Employed,Single,2,90266.0,656.0,1,LOAN00126,Home,270842,84,4.8,3379.08,0.177,4.2,1,0.69,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0127,Female,24,Doctorate,Self-Employed,Married,3,42424.0,816.0,2,LOAN00127,Home,90098,360,7.99,270.27,0.372,4.8,1,0.76,Rent,North,Defaulted,Default,Excellent,Low
+CUST0128,Female,28,Diploma,Employed,Married,3,65494.0,634.0,0,LOAN00128,Auto,40562,36,11.49,1256.18,0.456,0.5,1,0.78,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0129,Male,40,Master,Employed,Married,3,59156.0,675.0,3,LOAN00129,Personal,20085,240,12.93,94.51,0.493,3.5,0,0.76,Own,East,Active/Closed,Non-Default,Good,Medium
+CUST0130,Female,49,Bachelor,Employed,Married,3,87803.0,738.0,0,LOAN00130,Personal,6892,36,15.76,221.62,0.525,12.3,0,0.99,Other,North,Active/Closed,Non-Default,Good,Very High
+CUST0131,Male,65,Bachelor,Employed,Married,0,52599.0,686.0,4,LOAN00131,Auto,63841,360,13.86,201.91,0.361,8.0,0,0.92,Rent,West,Defaulted,Default,Good,Medium
+CUST0132,Male,30,Diploma,Retired,Married,1,69136.0,576.0,1,LOAN00132,Home,263705,24,13.99,12524.89,0.439,26.8,0,0.76,Mortgage,Central,Active/Closed,Non-Default,Poor,High
+CUST0133,Male,63,High School,Employed,Married,1,39233.0,694.0,1,LOAN00133,Home,145394,60,9.64,2656.83,0.224,34.9,0,0.97,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0134,Male,54,Bachelor,Self-Employed,Married,1,120027.0,649.0,0,LOAN00134,Auto,76603,120,8.27,691.15,0.344,28.9,3,0.66,Mortgage,East,Active/Closed,Non-Default,Fair,Very High
+CUST0135,Female,46,Master,Employed,Married,1,59729.0,752.0,2,LOAN00135,Home,206925,48,12.77,4861.44,0.503,24.7,2,0.67,Mortgage,West,Defaulted,Default,Very Good,Medium
+CUST0136,Male,61,Bachelor,Employed,Single,2,65193.0,691.0,2,LOAN00136,Auto,43808,60,11.0,810.45,0.479,32.8,0,0.76,Rent,Central,Defaulted,Default,Good,High
+CUST0137,Female,23,Bachelor,Unemployed,Single,0,83405.0,652.0,2,LOAN00137,Auto,22695,360,12.39,70.85,0.502,0.7,0,0.63,Own,Central,Defaulted,Default,Fair,Very High
+CUST0138,Female,26,High School,Self-Employed,Married,2,57093.0,601.0,1,LOAN00138,Education,58199,48,8.73,1318.33,0.313,2.4,0,0.91,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0139,Male,25,Doctorate,Employed,Married,0,101682.0,678.0,3,LOAN00139,Auto,86911,60,6.78,1546.73,0.276,1.6,0,0.77,Own,North,Active/Closed,Non-Default,Good,Very High
+CUST0140,Other,25,Master,Employed,Divorced,1,55948.0,761.0,3,LOAN00140,Auto,71727,12,7.5,6425.54,0.368,5.8,0,0.98,Own,West,Active/Closed,Non-Default,Very Good,Medium
+CUST0141,Other,43,Diploma,Employed,Single,1,79777.0,622.0,2,LOAN00141,Auto,11609,180,9.59,70.68,0.213,17.0,1,0.59,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0142,Male,29,Doctorate,Employed,Married,2,52401.0,693.0,1,LOAN00142,Business,58922,84,11.08,779.17,0.304,2.6,0,0.95,Mortgage,North,Active/Closed,Non-Default,Good,Medium
+CUST0143,Female,55,Bachelor,Self-Employed,Married,2,40167.0,610.0,1,LOAN00143,Home,67370,48,8.29,1519.9,0.128,13.2,1,0.58,Mortgage,East,Active/Closed,Non-Default,Fair,Low
+CUST0144,Male,40,Bachelor,Employed,Married,2,74121.0,591.0,1,LOAN00144,Home,192597,12,13.57,18227.7,0.187,11.1,1,0.53,Own,West,Active/Closed,Non-Default,Fair,High
+CUST0145,Male,62,Master,Employed,Married,0,79078.0,682.0,1,LOAN00145,Education,61736,60,14.03,1173.29,0.447,18.5,0,0.8,Rent,South,Active/Closed,Non-Default,Good,Very High
+CUST0146,Male,55,Master,Employed,Married,2,36051.0,701.0,0,LOAN00146,Auto,19952,12,5.48,1753.78,0.409,31.1,0,0.79,Rent,Central,Active/Closed,Non-Default,Good,Low
+CUST0147,Female,38,Bachelor,Unemployed,Single,0,40245.0,795.0,3,LOAN00147,Personal,42725,12,4.0,3702.83,0.48,0.8,0,0.97,Own,North,Active/Closed,Non-Default,Very Good,Low
+CUST0148,Female,37,High School,Retired,Divorced,1,86417.0,646.0,3,LOAN00148,Business,119992,60,14.24,2284.65,0.403,38.2,0,0.77,Mortgage,West,Defaulted,Default,Fair,Very High
+CUST0149,Male,44,Diploma,Employed,Single,1,78203.0,676.0,3,LOAN00149,Personal,36049,36,6.11,1062.54,0.419,11.5,0,0.86,Mortgage,East,Defaulted,Default,Good,High
+CUST0150,Male,23,Master,Self-Employed,Divorced,0,61305.0,594.0,0,LOAN00150,Education,77855,36,12.36,2429.94,0.375,3.7,1,0.6,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0151,Female,52,Diploma,Employed,Married,0,51854.0,726.0,1,LOAN00151,Education,11276,84,12.33,150.79,0.387,31.6,0,0.8,Rent,West,Active/Closed,Non-Default,Good,Medium
+CUST0152,Male,55,Bachelor,Employed,Married,4,107861.0,710.0,0,LOAN00152,Business,182220,12,10.32,16752.09,0.16,31.8,0,0.79,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0153,Male,58,Bachelor,Self-Employed,Single,4,38167.0,792.0,0,LOAN00153,Personal,10675,36,8.48,321.67,0.05,2.0,1,0.99,Rent,Central,Defaulted,Default,Very Good,Low
+CUST0154,Female,33,Bachelor,Unemployed,Married,1,45698.0,728.0,1,LOAN00154,Auto,45366,24,10.72,2092.88,0.343,0.4,0,0.88,Own,South,Active/Closed,Non-Default,Good,Low
+CUST0155,Other,45,Bachelor,Retired,Married,0,27777.0,706.0,1,LOAN00155,Home,262860,60,18.06,5172.21,0.326,29.5,0,0.68,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0156,Male,29,Master,Employed,Single,0,93926.0,653.0,1,LOAN00156,Home,276564,84,15.84,3813.95,0.46,4.7,0,0.74,Mortgage,East,Defaulted,Default,Fair,Very High
+CUST0157,Female,24,Diploma,Employed,Married,1,64843.0,695.0,0,LOAN00157,Personal,27787,120,8.42,251.06,0.348,3.8,0,0.83,Other,East,Active/Closed,Non-Default,Good,High
+CUST0158,Female,34,High School,Self-Employed,Widowed,3,73920.0,672.0,2,LOAN00158,Auto,63469,36,13.65,2003.68,0.434,15.1,0,0.95,Own,Central,Defaulted,Default,Good,High
+CUST0159,Male,57,Diploma,Employed,Married,0,125916.0,752.0,1,LOAN00159,Home,227037,24,10.22,10426.67,0.237,3.9,0,0.96,Mortgage,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0160,Female,54,Master,Employed,Married,2,51944.0,750.0,3,LOAN00160,Personal,42474,12,10.44,3909.02,0.387,15.8,1,0.71,Rent,South,Active/Closed,Non-Default,Very Good,Medium
+CUST0161,Male,31,Bachelor,Employed,Single,0,103469.0,658.0,1,LOAN00161,Auto,20936,48,7.78,470.1,0.353,2.5,1,0.88,Own,East,Defaulted,Default,Fair,Very High
+CUST0162,Female,61,Diploma,Self-Employed,Married,4,61404.0,570.0,2,LOAN00162,Education,65755,360,14.85,209.78,0.279,31.3,0,0.7,Rent,North,Defaulted,Default,Poor,Medium
+CUST0163,Female,23,Master,Employed,Single,1,59863.0,788.0,1,LOAN00163,Education,41096,36,7.78,1230.37,0.217,4.8,0,1.0,Rent,Central,Defaulted,Default,Very Good,Medium
+CUST0164,Female,48,Master,Employed,Married,2,123040.0,732.0,1,LOAN00164,Business,101112,36,9.36,3071.56,0.318,14.4,0,0.77,Own,West,Defaulted,Default,Good,Very High
+CUST0165,Male,49,Master,Unemployed,Divorced,1,43456.0,629.0,1,LOAN00165,Home,155975,24,8.2,7031.87,0.544,0.2,0,0.57,Rent,East,Defaulted,Default,Fair,Low
+CUST0166,Female,29,Master,Employed,Married,2,34764.0,729.0,2,LOAN00166,Business,111658,60,13.5,2112.2,0.261,8.6,0,0.75,Mortgage,West,Defaulted,Default,Good,Low
+CUST0167,Male,23,Diploma,Employed,Single,0,71202.0,686.0,1,LOAN00167,Business,190109,84,8.2,2448.78,0.32,3.5,1,0.46,Own,East,Defaulted,Default,Good,High
+CUST0168,Male,45,Master,Employed,Married,0,61200.0,787.0,1,LOAN00168,Personal,29669,84,6.42,375.88,0.508,9.6,1,0.99,Other,East,Defaulted,Default,Very Good,Medium
+CUST0169,Male,54,Bachelor,Employed,Married,3,73076.0,535.0,2,LOAN00169,Personal,47893,240,15.83,231.14,0.308,31.1,0,0.68,Rent,North,Defaulted,Default,Poor,High
+CUST0170,Female,32,Master,Employed,Married,3,62061.0,658.0,2,LOAN00170,Home,95073,60,10.07,1744.11,0.371,13.7,0,0.71,Own,South,Defaulted,Default,Fair,Medium
+CUST0171,Female,62,Master,Employed,Married,3,113742.0,808.0,0,LOAN00171,Home,231034,24,8.35,10430.22,0.307,19.5,0,0.97,Mortgage,North,Active/Closed,Non-Default,Excellent,Very High
+CUST0172,Male,29,Master,Unemployed,Married,2,59248.0,695.0,2,LOAN00172,Auto,83102,36,13.6,2622.33,0.467,1.1,0,0.84,Mortgage,West,Active/Closed,Non-Default,Good,Medium
+CUST0173,Female,35,Bachelor,Employed,Married,3,41351.0,813.0,0,LOAN00173,Auto,71122,84,12.64,953.71,0.52,5.1,0,0.99,Rent,East,Defaulted,Default,Excellent,Low
+CUST0174,Male,60,High School,Retired,Married,0,62740.0,588.0,0,LOAN00174,Education,50519,60,7.12,901.93,0.357,31.7,1,0.71,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0175,Female,45,Bachelor,Employed,Single,1,47408.0,760.0,1,LOAN00175,Home,191203,60,8.31,3451.53,0.157,11.9,0,0.87,Mortgage,East,Active/Closed,Non-Default,Very Good,Low
+CUST0176,Male,25,Doctorate,Employed,Single,1,59550.0,771.0,2,LOAN00176,Personal,43742,84,4.47,544.02,0.553,2.1,0,0.83,Rent,South,Active/Closed,Non-Default,Very Good,Medium
+CUST0177,Female,31,Master,Employed,Married,2,44970.0,562.0,1,LOAN00177,Business,167896,60,12.34,3143.57,0.378,0.9,0,0.76,Mortgage,Central,Defaulted,Default,Poor,Low
+CUST0178,Male,54,High School,Employed,Married,1,111357.0,658.0,1,LOAN00178,Home,80572,240,10.48,370.9,0.3,8.8,1,0.75,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0179,Female,44,High School,Self-Employed,Married,0,54790.0,672.0,2,LOAN00179,Business,172746,60,9.44,3150.89,0.532,5.1,1,0.71,Rent,Central,Defaulted,Default,Good,Medium
+CUST0180,Male,35,High School,Employed,Married,2,80126.0,559.0,0,LOAN00180,Personal,23633,120,10.42,217.46,0.227,9.2,0,0.86,Mortgage,East,Defaulted,Default,Poor,Very High
+CUST0181,Male,58,Master,Employed,Single,3,57883.0,667.0,1,LOAN00181,Business,65665,36,7.27,1956.63,0.551,21.1,1,0.66,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0182,Male,28,Master,Unemployed,Married,1,21515.0,718.0,2,LOAN00182,Personal,44140,84,12.68,592.11,0.501,1.2,0,0.78,Rent,South,Defaulted,Default,Good,Low
+CUST0183,Female,25,Diploma,Retired,Single,0,64348.0,651.0,3,LOAN00183,Personal,24441,240,15.1,117.21,0.516,27.8,0,0.81,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0184,Female,46,Bachelor,Unemployed,Single,0,55815.0,663.0,0,LOAN00184,Personal,41376,48,4.32,899.24,0.808,0.8,0,0.74,Mortgage,South,Active/Closed,Non-Default,Fair,Medium
+CUST0185,Male,38,Master,Employed,Married,0,77290.0,707.0,0,LOAN00185,Auto,33706,120,9.52,307.62,0.342,16.7,1,0.78,Rent,East,Active/Closed,Non-Default,Good,High
+CUST0186,Female,26,Master,Self-Employed,Single,1,18000.0,687.0,1,LOAN00186,Business,20707,120,12.7,194.47,0.333,3.8,1,0.65,Rent,Central,Defaulted,Default,Good,Low
+CUST0187,Female,57,Bachelor,Employed,Married,2,37833.0,627.0,1,LOAN00187,Home,173865,12,10.4,15995.58,0.217,34.6,0,0.72,Rent,Central,Defaulted,Default,Fair,Low
+CUST0188,Female,33,Bachelor,Employed,Single,2,86066.0,729.0,1,LOAN00188,Business,38041,60,7.16,679.41,0.331,6.6,0,1.0,Own,East,Defaulted,Default,Good,Very High
+CUST0189,Female,48,Bachelor,Employed,Divorced,2,44681.0,561.0,0,LOAN00189,Auto,77894,24,12.07,3637.33,0.196,19.5,2,0.46,Mortgage,Central,Defaulted,Default,Poor,Low
+CUST0190,Male,25,Diploma,Employed,Married,1,69465.0,681.0,1,LOAN00190,Auto,34847,360,11.41,107.84,0.323,0.4,0,0.75,Other,West,Active/Closed,Non-Default,Good,High
+CUST0191,Male,33,Bachelor,Employed,Single,3,37323.0,784.0,1,LOAN00191,Education,38273,180,7.78,229.17,0.692,9.8,0,1.0,Mortgage,South,Active/Closed,Non-Default,Very Good,Low
+CUST0192,Female,37,Bachelor,Employed,Married,0,81095.0,646.0,1,LOAN00192,Personal,8917,24,10.36,410.03,0.359,16.2,0,0.69,Own,South,Active/Closed,Non-Default,Fair,Very High
+CUST0193,Female,60,Master,Unemployed,Married,1,67488.0,598.0,0,LOAN00193,Home,121665,24,13.44,5750.7,0.374,1.9,0,0.67,Mortgage,South,Active/Closed,Non-Default,Fair,High
+CUST0194,Female,65,Bachelor,Employed,Widowed,3,81102.0,734.0,0,LOAN00194,Business,160668,60,8.93,2916.93,0.295,34.9,0,0.91,Mortgage,South,Defaulted,Default,Good,Very High
+CUST0195,Male,52,Master,Employed,Single,0,87716.0,700.0,2,LOAN00195,Business,47286,36,12.95,1483.6,0.321,9.6,0,0.91,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0196,Male,49,High School,Employed,Divorced,0,99406.0,736.0,0,LOAN00196,Business,136489,12,9.07,12405.71,0.446,17.8,1,0.86,Rent,East,Active/Closed,Non-Default,Good,Very High
+CUST0197,Female,23,Bachelor,Retired,Divorced,3,34170.0,683.0,1,LOAN00197,Business,185137,60,7.48,3316.42,0.334,29.0,1,0.65,Other,North,Defaulted,Default,Good,Low
+CUST0198,Female,60,High School,Employed,Divorced,1,47649.0,501.0,2,LOAN00198,Personal,35593,48,20.19,891.23,0.563,19.7,0,0.68,Mortgage,Central,Active/Closed,Non-Default,Poor,Low
+CUST0199,Female,54,Diploma,Employed,Married,2,84746.0,768.0,0,LOAN00199,Education,65827,24,8.47,2975.11,0.282,5.5,0,0.86,Rent,South,Active/Closed,Non-Default,Very Good,Very High
+CUST0200,Female,60,Master,Self-Employed,Married,0,94865.0,843.0,2,LOAN00200,Home,77243,180,4.0,446.29,0.34,30.0,0,0.92,Rent,Central,Defaulted,Default,Excellent,Very High
+CUST0201,Female,47,Doctorate,Self-Employed,Married,2,55164.0,791.0,1,LOAN00201,Business,65132,240,12.46,305.2,0.237,26.4,0,1.0,Rent,Central,Active/Closed,Non-Default,Very Good,Medium
+CUST0202,Male,33,High School,Employed,Married,1,48635.0,415.0,0,LOAN00202,Home,273635,120,17.25,2673.64,0.274,6.7,1,0.4,Own,Central,Active/Closed,Non-Default,Poor,Low
+CUST0203,Male,65,Bachelor,Self-Employed,Married,0,55651.0,714.0,1,LOAN00203,Auto,74360,180,11.87,462.15,0.137,9.8,2,0.67,Own,West,Defaulted,Default,Good,Medium
+CUST0204,Female,53,Master,Self-Employed,Married,2,34688.0,653.0,2,LOAN00204,Auto,67560,36,12.39,2109.19,0.114,4.9,1,0.7,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0205,Female,26,Diploma,Self-Employed,Married,0,42029.0,599.0,0,LOAN00205,Home,215942,36,19.98,7196.87,0.395,5.5,1,0.54,Own,East,Defaulted,Default,Fair,Low
+CUST0206,Male,44,Bachelor,Employed,Married,1,37560.0,689.0,1,LOAN00206,Personal,23639,36,7.61,706.61,0.136,8.1,1,0.8,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0207,Male,39,Master,Unemployed,Married,0,40530.0,642.0,1,LOAN00207,Business,28020,120,10.9,258.95,0.514,1.8,0,0.82,Mortgage,South,Defaulted,Default,Fair,Low
+CUST0208,Female,36,Bachelor,Employed,Single,0,70958.0,718.0,1,LOAN00208,Education,63833,360,16.41,206.41,0.285,12.1,0,0.69,Own,East,Defaulted,Default,Good,High
+CUST0209,Male,60,Diploma,Employed,Married,1,74536.0,684.0,0,LOAN00209,Personal,35542,84,17.04,495.22,0.433,22.6,0,0.84,Own,North,Active/Closed,Non-Default,Good,High
+CUST0210,Male,48,Bachelor,Employed,Married,0,53812.0,596.0,0,LOAN00210,Education,40460,240,12.4,189.49,0.113,16.8,0,0.66,Mortgage,Central,Defaulted,Default,Fair,Medium
+CUST0211,Female,53,Master,Employed,Divorced,3,54352.0,645.0,0,LOAN00211,Auto,90978,60,16.53,1766.94,0.392,1.6,0,0.86,Own,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0212,Female,61,Bachelor,Employed,Married,0,67721.0,625.0,1,LOAN00212,Home,134040,48,12.91,3153.01,0.385,32.6,1,0.54,Rent,South,Active/Closed,Non-Default,Fair,High
+CUST0213,Female,33,High School,Self-Employed,Married,1,37088.0,551.0,0,LOAN00213,Personal,18244,48,17.99,448.46,0.364,9.4,0,0.65,Own,East,Defaulted,Default,Poor,Low
+CUST0214,Male,63,Master,Employed,Divorced,0,86108.0,585.0,0,LOAN00214,Business,177103,12,15.81,17091.92,0.455,34.8,0,0.74,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0215,Female,65,High School,Employed,Single,1,93278.0,664.0,3,LOAN00215,Auto,81729,12,11.42,7588.54,0.352,18.8,0,0.8,Other,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0216,Male,45,Master,Employed,Divorced,3,51237.0,795.0,1,LOAN00216,Auto,56348,84,15.33,773.64,0.051,19.2,0,0.99,Rent,West,Defaulted,Default,Very Good,Medium
+CUST0217,Male,62,Diploma,Employed,Married,0,56234.0,640.0,2,LOAN00217,Auto,21766,48,8.91,493.86,0.424,2.0,1,0.55,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0218,Female,56,Doctorate,Retired,Married,4,87353.0,638.0,0,LOAN00218,Personal,14678,60,16.21,284.29,0.358,32.6,0,0.9,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0219,Female,47,Bachelor,Employed,Single,0,62293.0,591.0,0,LOAN00219,Home,214057,60,19.68,4269.72,0.291,22.2,0,0.76,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0220,Female,58,Diploma,Employed,Married,2,77941.0,682.0,2,LOAN00220,Personal,22327,36,14.59,710.68,0.269,27.2,0,0.92,Other,Central,Active/Closed,Non-Default,Good,High
+CUST0221,Female,27,High School,Employed,Married,2,62969.0,768.0,0,LOAN00221,Personal,42641,60,8.48,770.95,0.277,6.9,0,0.97,Rent,North,Active/Closed,Non-Default,Very Good,Medium
+CUST0222,Female,25,Diploma,Employed,Single,3,99239.0,830.0,2,LOAN00222,Auto,95496,60,9.43,1741.69,0.545,1.6,1,0.86,Rent,North,Active/Closed,Non-Default,Excellent,Very High
+CUST0223,Male,63,Master,Employed,Single,2,75782.0,709.0,1,LOAN00223,Business,165015,48,6.68,3667.46,0.235,34.1,0,0.74,Mortgage,Central,Active/Closed,Non-Default,Good,High
+CUST0224,Male,65,Doctorate,Self-Employed,Single,2,82048.0,705.0,3,LOAN00224,Home,144386,180,9.14,875.46,0.186,34.8,0,0.79,Mortgage,Central,Defaulted,Default,Good,Very High
+CUST0225,Male,51,Bachelor,Retired,Widowed,0,72459.0,639.0,2,LOAN00225,Personal,40491,48,12.36,947.83,0.194,21.5,0,0.9,Rent,Central,Active/Closed,Non-Default,Fair,High
+CUST0226,Male,43,Bachelor,Employed,Widowed,0,52787.0,652.0,1,LOAN00226,Auto,41630,60,6.22,736.99,0.341,23.4,1,0.79,Rent,East,Defaulted,Default,Fair,Medium
+CUST0227,Other,62,Master,Self-Employed,Married,3,59809.0,735.0,2,LOAN00227,Business,50078,240,9.61,228.71,0.571,10.1,0,0.82,Rent,West,Active/Closed,Non-Default,Good,Medium
+CUST0228,Male,30,Master,Self-Employed,Married,1,86923.0,664.0,1,LOAN00228,Education,7504,240,16.33,36.37,0.61,8.3,1,0.47,Own,East,Active/Closed,Non-Default,Fair,Very High
+CUST0229,Female,52,Bachelor,Unemployed,Married,1,49781.0,633.0,1,LOAN00229,Business,89429,240,10.04,410.03,0.543,0.7,1,0.65,Mortgage,North,Active/Closed,Non-Default,Fair,Medium
+CUST0230,Female,63,Bachelor,Employed,Married,2,39093.0,678.0,0,LOAN00230,Auto,91320,36,13.6,2881.65,0.202,33.9,0,0.78,Mortgage,East,Defaulted,Default,Good,Low
+CUST0231,Female,50,Bachelor,Employed,Married,1,106208.0,636.0,1,LOAN00231,Education,22924,12,12.2,2143.39,0.24,3.2,2,0.55,Own,North,Active/Closed,Non-Default,Fair,Very High
+CUST0232,Female,59,Bachelor,Employed,Widowed,4,86518.0,674.0,1,LOAN00232,Personal,14293,36,9.58,435.06,0.45,17.4,1,0.75,Own,South,Defaulted,Default,Good,Very High
+CUST0233,Female,51,High School,Self-Employed,Married,2,70828.0,529.0,2,LOAN00233,Home,292455,36,13.03,9182.27,0.53,14.1,0,0.73,Own,Central,Active/Closed,Non-Default,Poor,High
+CUST0234,Female,38,Bachelor,Self-Employed,Married,2,63983.0,721.0,0,LOAN00234,Home,56251,240,11.0,260.16,0.243,6.5,0,0.93,Mortgage,South,Active/Closed,Non-Default,Good,High
+CUST0235,Male,56,Bachelor,Employed,Single,3,69371.0,850.0,2,LOAN00235,Home,246446,84,4.0,3051.24,0.541,22.6,0,1.0,Mortgage,Central,Active/Closed,Non-Default,Excellent,High
+CUST0236,Female,22,Master,Employed,Widowed,0,76385.0,647.0,1,LOAN00236,Business,77847,24,13.34,3676.32,0.317,0.5,1,0.53,Own,South,Defaulted,Default,Fair,High
+CUST0237,Male,34,High School,Unemployed,Single,0,18000.0,673.0,1,LOAN00237,Business,26748,24,10.14,1227.51,0.551,1.4,0,0.78,Other,South,Active/Closed,Non-Default,Good,Low
+CUST0238,Male,33,Bachelor,Self-Employed,Married,1,116472.0,744.0,0,LOAN00238,Personal,46301,24,13.45,2188.69,0.457,14.7,1,0.96,Rent,East,Active/Closed,Non-Default,Very Good,Very High
+CUST0239,Female,49,Bachelor,Retired,Married,0,42623.0,776.0,0,LOAN00239,Personal,11284,60,9.86,206.61,0.142,36.1,0,0.94,Rent,West,Active/Closed,Non-Default,Very Good,Low
+CUST0240,Male,32,Bachelor,Self-Employed,Married,2,69958.0,660.0,0,LOAN00240,Home,187945,120,10.01,1722.99,0.374,12.0,0,0.82,Own,East,Active/Closed,Non-Default,Fair,High
+CUST0241,Female,59,High School,Employed,Single,3,65767.0,545.0,0,LOAN00241,Personal,17332,180,14.09,109.86,0.491,12.6,0,0.7,Rent,Central,Defaulted,Default,Poor,High
+CUST0242,Female,22,Bachelor,Employed,Divorced,1,108931.0,700.0,1,LOAN00242,Auto,15867,360,11.1,48.97,0.278,1.3,1,0.76,Mortgage,North,Active/Closed,Non-Default,Good,Very High
+CUST0243,Female,52,Bachelor,Self-Employed,Single,1,63562.0,690.0,0,LOAN00243,Business,28986,36,14.93,925.38,0.193,17.6,0,0.63,Other,Central,Active/Closed,Non-Default,Good,Medium
+CUST0244,Male,33,Bachelor,Employed,Married,4,99947.0,654.0,0,LOAN00244,Business,40800,36,10.69,1254.49,0.379,0.7,1,0.66,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0245,Male,47,Bachelor,Employed,Single,1,73948.0,670.0,2,LOAN00245,Auto,16423,36,11.36,508.02,0.386,27.4,0,0.8,Mortgage,Central,Active/Closed,Non-Default,Good,High
+CUST0246,Female,61,Bachelor,Self-Employed,Single,1,48839.0,691.0,1,LOAN00246,Education,62042,36,6.71,1839.03,0.306,5.0,1,0.82,Rent,South,Defaulted,Default,Good,Medium
+CUST0247,Male,37,Master,Employed,Married,1,67964.0,715.0,1,LOAN00247,Auto,53701,240,10.36,246.94,0.345,17.2,0,0.85,Own,West,Active/Closed,Non-Default,Good,High
+CUST0248,Other,60,Diploma,Self-Employed,Married,3,67393.0,704.0,3,LOAN00248,Personal,20430,60,14.86,391.1,0.195,2.9,0,0.7,Own,West,Defaulted,Default,Good,High
+CUST0249,Other,51,Master,Employed,Single,2,41150.0,672.0,2,LOAN00249,Auto,47653,120,11.79,443.93,0.419,27.1,0,0.84,Rent,North,Active/Closed,Non-Default,Good,Low
+CUST0250,Female,54,Bachelor,Retired,Single,2,67870.0,709.0,1,LOAN00250,Auto,93605,60,7.26,1673.35,0.536,23.0,0,0.77,Own,Central,Active/Closed,Non-Default,Good,High
+CUST0251,Male,44,High School,Employed,Married,3,65486.0,659.0,0,LOAN00251,Education,73306,12,7.58,6571.88,0.234,1.0,0,0.69,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0252,Male,65,High School,Employed,Married,1,77241.0,728.0,0,LOAN00252,Personal,37205,12,8.28,3357.13,0.221,25.2,1,0.69,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0253,Female,55,Diploma,Employed,Divorced,1,69254.0,633.0,1,LOAN00253,Home,271171,60,13.5,5129.65,0.366,9.8,0,0.81,Own,West,Defaulted,Default,Fair,High
+CUST0254,Male,26,Master,Employed,Single,3,50676.0,693.0,1,LOAN00254,Home,129912,84,13.13,1749.64,0.687,5.7,1,0.82,Rent,North,Defaulted,Default,Good,Medium
+CUST0255,Male,39,Bachelor,Self-Employed,Married,1,86903.0,558.0,1,LOAN00255,Business,88600,36,4.0,2559.56,0.477,11.7,1,0.63,Rent,South,Defaulted,Default,Poor,Very High
+CUST0256,Female,50,Master,Self-Employed,Single,2,56263.0,660.0,1,LOAN00256,Home,203428,120,10.26,1869.16,0.334,3.5,0,0.84,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0257,Female,27,Bachelor,Employed,Single,3,18000.0,723.0,0,LOAN00257,Education,51772,180,10.94,319.09,0.325,8.4,1,0.79,Own,West,Active/Closed,Non-Default,Good,Low
+CUST0258,Female,30,Bachelor,Employed,Married,2,67830.0,602.0,1,LOAN00258,Education,41127,48,7.61,922.02,0.489,5.4,1,0.64,Own,North,Defaulted,Default,Fair,High
+CUST0259,Female,61,High School,Employed,Married,2,52810.0,656.0,2,LOAN00259,Personal,23030,120,9.33,209.82,0.261,25.7,0,0.84,Own,East,Active/Closed,Non-Default,Fair,Medium
+CUST0260,Male,52,Diploma,Employed,Single,3,73407.0,500.0,2,LOAN00260,Auto,98756,48,17.49,2417.26,0.443,17.0,0,0.44,Own,West,Defaulted,Default,Poor,High
+CUST0261,Female,54,Bachelor,Retired,Single,3,103975.0,577.0,2,LOAN00261,Business,167802,84,14.73,2291.9,0.236,32.1,0,0.72,Own,Central,Active/Closed,Non-Default,Poor,Very High
+CUST0262,Other,48,High School,Self-Employed,Single,1,114610.0,597.0,0,LOAN00262,Home,158745,120,12.0,1481.62,0.431,9.1,1,0.54,Mortgage,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0263,Male,35,Diploma,Self-Employed,Married,0,66367.0,688.0,2,LOAN00263,Business,150913,360,9.94,460.87,0.335,3.4,1,0.81,Mortgage,West,Defaulted,Default,Good,High
+CUST0264,Female,50,Bachelor,Self-Employed,Widowed,1,51817.0,705.0,0,LOAN00264,Personal,17130,36,9.82,522.56,0.344,17.4,0,0.82,Rent,West,Defaulted,Default,Good,Medium
+CUST0265,Female,57,Master,Employed,Single,2,77863.0,684.0,1,LOAN00265,Personal,9508,48,11.35,220.57,0.302,15.4,0,0.82,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0266,Female,49,Doctorate,Retired,Single,1,51855.0,666.0,2,LOAN00266,Business,83438,24,6.21,3692.48,0.454,27.8,0,0.68,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0267,Female,42,Master,Self-Employed,Divorced,2,78619.0,660.0,3,LOAN00267,Education,35223,36,8.49,1061.48,0.374,16.1,0,0.87,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0268,Female,24,Bachelor,Self-Employed,Divorced,1,55461.0,734.0,2,LOAN00268,Business,22977,84,13.61,310.76,0.629,4.1,0,0.91,Own,Central,Defaulted,Default,Good,Medium
+CUST0269,Male,40,Bachelor,Unemployed,Married,2,52515.0,661.0,0,LOAN00269,Auto,83331,240,10.28,382.91,0.61,0.1,0,0.84,Rent,West,Active/Closed,Non-Default,Fair,Medium
+CUST0270,Male,52,Bachelor,Employed,Single,0,47137.0,655.0,0,LOAN00270,Business,84655,48,7.95,1903.86,0.163,11.5,1,0.62,Mortgage,North,Defaulted,Default,Fair,Low
+CUST0271,Female,56,Master,Self-Employed,Single,2,96054.0,785.0,2,LOAN00271,Education,48531,24,6.27,2148.91,0.393,14.4,0,0.85,Own,East,Active/Closed,Non-Default,Very Good,Very High
+CUST0272,Female,24,High School,Employed,Married,2,52020.0,826.0,2,LOAN00272,Education,10547,36,10.86,324.79,0.458,0.6,0,0.97,Rent,East,Active/Closed,Non-Default,Excellent,Medium
+CUST0273,Female,47,Bachelor,Employed,Married,0,79544.0,587.0,1,LOAN00273,Auto,25750,48,11.95,600.57,0.29,6.8,0,0.66,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0274,Female,37,Master,Employed,Single,1,37175.0,727.0,1,LOAN00274,Home,272423,36,12.03,8477.65,0.49,1.0,0,0.89,Own,West,Active/Closed,Non-Default,Good,Low
+CUST0275,Female,32,Bachelor,Retired,Married,2,77186.0,850.0,1,LOAN00275,Business,129564,36,6.82,3844.45,0.352,39.9,0,0.81,Rent,East,Active/Closed,Non-Default,Excellent,High
+CUST0276,Female,42,Bachelor,Unemployed,Single,1,25740.0,666.0,0,LOAN00276,Home,287571,120,7.11,2566.81,0.43,1.5,0,0.76,Rent,South,Defaulted,Default,Fair,Low
+CUST0277,Female,37,Bachelor,Self-Employed,Married,0,75746.0,689.0,1,LOAN00277,Auto,99888,12,11.23,9258.79,0.463,1.7,1,0.86,Mortgage,Central,Defaulted,Default,Good,High
+CUST0278,Female,30,Diploma,Self-Employed,Single,4,92510.0,676.0,1,LOAN00278,Home,142965,60,10.21,2626.03,0.056,0.2,0,0.84,Mortgage,West,Active/Closed,Non-Default,Good,Very High
+CUST0279,Female,21,Bachelor,Employed,Single,2,60600.0,717.0,1,LOAN00279,Auto,36892,120,12.56,346.05,0.508,2.2,0,0.86,Mortgage,South,Active/Closed,Non-Default,Good,Medium
+CUST0280,Female,42,Diploma,Retired,Married,4,37358.0,737.0,1,LOAN00280,Home,264589,36,13.15,8316.18,0.451,28.8,1,0.93,Rent,South,Defaulted,Default,Good,Low
+CUST0281,Female,46,High School,Employed,Married,1,75930.0,587.0,3,LOAN00281,Personal,49938,60,12.43,935.75,0.264,22.0,2,0.33,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0282,Male,38,High School,Employed,Widowed,1,46498.0,678.0,1,LOAN00282,Business,133335,84,11.55,1770.66,0.375,18.5,1,0.64,Rent,Central,Defaulted,Default,Good,Low
+CUST0283,Male,34,Master,Employed,Married,3,56107.0,518.0,1,LOAN00283,Home,248785,84,12.33,3326.91,0.102,9.6,0,0.62,Other,South,Defaulted,Default,Poor,Medium
+CUST0284,Male,49,Diploma,Self-Employed,Single,1,75840.0,664.0,2,LOAN00284,Auto,80357,48,12.4,1881.69,0.278,5.8,0,0.86,Own,North,Active/Closed,Non-Default,Fair,High
+CUST0285,Female,32,Bachelor,Self-Employed,Married,2,99935.0,612.0,1,LOAN00285,Personal,20990,36,11.2,648.36,0.476,11.0,0,0.81,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0286,Male,56,Diploma,Employed,Single,0,65584.0,705.0,3,LOAN00286,Personal,30842,180,8.63,186.13,0.393,33.5,0,0.77,Other,South,Defaulted,Default,Good,High
+CUST0287,Male,55,Master,Employed,Divorced,1,65503.0,677.0,0,LOAN00287,Personal,42488,120,11.38,394.36,0.312,20.3,0,0.77,Own,East,Active/Closed,Non-Default,Good,High
+CUST0288,Female,32,Diploma,Self-Employed,Married,0,86225.0,642.0,2,LOAN00288,Auto,71930,36,11.31,2224.04,0.375,9.5,0,0.74,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0289,Male,27,Bachelor,Employed,Married,0,63562.0,752.0,2,LOAN00289,Personal,5952,24,12.19,278.23,0.361,3.0,1,0.88,Own,West,Defaulted,Default,Very Good,Medium
+CUST0290,Female,49,Master,Self-Employed,Single,0,83982.0,637.0,0,LOAN00290,Business,80607,12,13.2,7603.93,0.438,11.8,0,0.68,Rent,West,Active/Closed,Non-Default,Fair,Very High
+CUST0291,Male,31,Master,Retired,Married,0,83728.0,545.0,0,LOAN00291,Personal,11501,24,10.67,530.34,0.246,34.7,1,0.57,Rent,North,Active/Closed,Non-Default,Poor,Very High
+CUST0292,Male,53,Diploma,Employed,Married,4,57790.0,699.0,2,LOAN00292,Personal,15484,60,7.99,278.69,0.42,32.5,1,0.69,Own,North,Defaulted,Default,Good,Medium
+CUST0293,Female,26,Master,Employed,Married,0,18000.0,644.0,3,LOAN00293,Personal,45747,12,8.43,4133.62,0.258,5.0,0,0.86,Rent,South,Active/Closed,Non-Default,Fair,Low
+CUST0294,Male,35,Bachelor,Self-Employed,Single,2,52006.0,666.0,1,LOAN00294,Personal,6660,36,8.71,201.11,0.434,13.4,0,0.75,Rent,North,Defaulted,Default,Fair,Medium
+CUST0295,Male,52,Bachelor,Self-Employed,Single,3,96591.0,625.0,2,LOAN00295,Education,21485,120,5.05,188.08,0.331,5.8,0,0.75,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0296,Female,31,High School,Employed,Married,2,64257.0,828.0,1,LOAN00296,Business,75722,36,11.07,2336.23,0.34,2.8,1,0.9,Own,West,Active/Closed,Non-Default,Excellent,High
+CUST0297,Female,43,High School,Retired,Divorced,0,52539.0,563.0,1,LOAN00297,Auto,65520,120,12.13,612.23,0.302,30.6,0,0.74,Own,West,Defaulted,Default,Poor,Medium
+CUST0298,Male,46,Master,Employed,Single,2,90669.0,850.0,1,LOAN00298,Personal,29035,120,10.09,266.37,0.317,4.9,1,0.95,Mortgage,West,Active/Closed,Non-Default,Excellent,Very High
+CUST0299,Female,54,Bachelor,Employed,Married,2,62771.0,651.0,0,LOAN00299,Personal,14822,36,9.55,451.04,0.199,22.2,1,0.7,Other,West,Active/Closed,Non-Default,Fair,Medium
+CUST0300,Male,54,Bachelor,Self-Employed,Married,2,23964.0,694.0,1,LOAN00300,Home,91060,120,10.43,837.98,0.385,10.2,1,0.69,Rent,West,Defaulted,Default,Good,Low
+CUST0301,Male,49,Master,Unemployed,Divorced,2,18000.0,610.0,0,LOAN00301,Business,62624,120,8.44,565.91,0.507,1.6,0,0.71,Mortgage,West,Active/Closed,Non-Default,Fair,Low
+CUST0302,Female,24,Master,Employed,Single,4,74210.0,642.0,1,LOAN00302,Personal,27614,48,10.42,635.24,0.185,4.8,1,0.67,Mortgage,South,Defaulted,Default,Fair,High
+CUST0303,Female,37,High School,Self-Employed,Single,2,68528.0,621.0,0,LOAN00303,Education,25338,36,7.89,759.37,0.248,8.8,0,0.77,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0304,Female,55,Bachelor,Employed,Married,1,97002.0,725.0,1,LOAN00304,Home,286901,60,10.44,5280.89,0.349,6.3,0,0.84,Own,North,Active/Closed,Non-Default,Good,Very High
+CUST0305,Female,33,High School,Employed,Single,2,48868.0,574.0,3,LOAN00305,Personal,25874,360,17.87,84.72,0.323,9.7,1,0.61,Mortgage,South,Active/Closed,Non-Default,Poor,Medium
+CUST0306,Other,61,Master,Employed,Married,0,58191.0,715.0,0,LOAN00306,Home,64699,60,12.06,1208.36,0.293,34.7,1,0.62,Mortgage,South,Active/Closed,Non-Default,Good,Medium
+CUST0307,Female,59,Bachelor,Unemployed,Married,3,27541.0,481.0,0,LOAN00307,Personal,37817,24,14.37,1802.14,0.634,1.2,1,0.56,Mortgage,Central,Active/Closed,Non-Default,Poor,Low
+CUST0308,Male,35,Doctorate,Employed,Married,0,53547.0,716.0,3,LOAN00308,Education,29663,84,6.54,376.23,0.273,0.6,0,0.86,Other,Central,Active/Closed,Non-Default,Good,Medium
+CUST0309,Female,49,High School,Employed,Married,1,23378.0,744.0,0,LOAN00309,Personal,34407,48,12.2,804.26,0.05,0.5,0,0.95,Rent,West,Active/Closed,Non-Default,Very Good,Low
+CUST0310,Male,49,High School,Employed,Married,3,56515.0,584.0,1,LOAN00310,Education,25970,60,15.49,499.88,0.273,9.9,0,0.71,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0311,Male,31,Diploma,Unemployed,Single,2,45859.0,696.0,0,LOAN00311,Personal,30683,120,11.3,284.58,0.401,0.4,0,0.69,Own,East,Active/Closed,Non-Default,Good,Low
+CUST0312,Male,52,Diploma,Self-Employed,Married,1,67001.0,684.0,3,LOAN00312,Business,158987,60,11.14,2944.97,0.336,27.6,0,0.79,Other,Central,Defaulted,Default,Good,High
+CUST0313,Male,22,Diploma,Self-Employed,Married,1,117290.0,800.0,2,LOAN00313,Personal,46760,180,8.28,281.29,0.402,3.4,0,0.91,Rent,West,Active/Closed,Non-Default,Excellent,Very High
+CUST0314,Other,34,Bachelor,Employed,Married,3,105337.0,624.0,2,LOAN00314,Business,67003,120,12.45,627.87,0.247,4.1,0,0.81,Rent,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0315,Female,40,Diploma,Self-Employed,Single,1,53480.0,850.0,4,LOAN00315,Education,30114,60,12.89,566.59,0.279,7.2,0,0.81,Mortgage,South,Active/Closed,Non-Default,Excellent,Medium
+CUST0316,Female,42,Diploma,Employed,Single,3,20033.0,501.0,0,LOAN00316,Business,103568,24,14.49,4940.63,0.239,5.7,0,0.63,Mortgage,South,Active/Closed,Non-Default,Poor,Low
+CUST0317,Male,31,Master,Self-Employed,Single,0,67818.0,663.0,1,LOAN00317,Home,281794,180,7.58,1684.19,0.267,11.8,0,0.83,Mortgage,Central,Defaulted,Default,Fair,High
+CUST0318,Male,47,Bachelor,Unemployed,Married,2,55283.0,518.0,2,LOAN00318,Education,72604,360,10.81,223.48,0.745,1.0,1,0.5,Own,North,Defaulted,Default,Poor,Medium
+CUST0319,Male,23,Master,Employed,Married,3,46069.0,827.0,1,LOAN00319,Home,72470,24,10.88,3348.11,0.531,3.3,0,0.96,Rent,Central,Defaulted,Default,Excellent,Low
+CUST0320,Male,37,High School,Self-Employed,Married,0,52159.0,660.0,2,LOAN00320,Personal,10937,60,7.61,196.16,0.17,7.9,0,0.74,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0321,Female,64,Bachelor,Employed,Single,1,99816.0,667.0,2,LOAN00321,Home,173877,36,11.1,5366.04,0.138,22.1,0,0.74,Own,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0322,Female,48,High School,Employed,Single,0,59334.0,713.0,0,LOAN00322,Personal,9798,120,9.46,89.37,0.31,11.6,1,0.71,Own,South,Active/Closed,Non-Default,Good,Medium
+CUST0323,Female,49,High School,Employed,Married,2,79570.0,680.0,2,LOAN00323,Business,82205,120,7.28,734.91,0.599,10.5,0,0.75,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0324,Male,41,Master,Employed,Married,2,44533.0,643.0,0,LOAN00324,Personal,11677,24,13.0,549.79,0.4,14.6,1,0.73,Own,East,Active/Closed,Non-Default,Fair,Low
+CUST0325,Female,36,High School,Employed,Single,2,63747.0,586.0,2,LOAN00325,Auto,67244,240,15.62,323.95,0.366,10.6,0,0.66,Rent,East,Active/Closed,Non-Default,Fair,High
+CUST0326,Female,57,Bachelor,Self-Employed,Married,0,62601.0,693.0,0,LOAN00326,Auto,95455,36,6.43,2822.02,0.265,10.3,0,0.75,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0327,Female,40,Bachelor,Employed,Single,0,50142.0,708.0,2,LOAN00327,Auto,99706,120,11.94,930.09,0.499,3.3,0,0.98,Mortgage,Central,Defaulted,Default,Good,Medium
+CUST0328,Female,26,Diploma,Self-Employed,Divorced,0,95417.0,732.0,1,LOAN00328,Auto,43772,48,11.51,1016.88,0.366,2.9,1,0.84,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0329,Male,39,Master,Employed,Divorced,1,34445.0,831.0,2,LOAN00329,Personal,31956,36,11.21,987.17,0.578,8.7,2,0.61,Mortgage,South,Active/Closed,Non-Default,Excellent,Low
+CUST0330,Male,25,High School,Employed,Single,2,71601.0,517.0,3,LOAN00330,Auto,87064,24,14.0,4135.54,0.192,4.4,0,0.59,Rent,Central,Active/Closed,Non-Default,Poor,High
+CUST0331,Male,23,Bachelor,Self-Employed,Single,3,62187.0,675.0,1,LOAN00331,Personal,10286,24,14.78,491.93,0.396,4.6,0,0.82,Rent,South,Active/Closed,Non-Default,Good,Medium
+CUST0332,Female,21,Doctorate,Employed,Married,2,74126.0,784.0,1,LOAN00332,Business,144122,84,8.32,1858.49,0.277,0.1,0,0.94,Rent,South,Active/Closed,Non-Default,Very Good,High
+CUST0333,Male,58,Bachelor,Employed,Single,1,57485.0,671.0,1,LOAN00333,Education,35663,60,9.68,651.92,0.395,8.5,0,0.68,Own,North,Defaulted,Default,Good,Medium
+CUST0334,Male,35,Master,Self-Employed,Married,4,89078.0,513.0,1,LOAN00334,Business,57106,24,10.58,2631.16,0.375,3.3,0,0.74,Own,Central,Defaulted,Default,Poor,Very High
+CUST0335,Male,54,High School,Employed,Married,2,44327.0,583.0,3,LOAN00335,Personal,23124,24,10.7,1066.59,0.456,17.6,0,0.78,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0336,Male,55,Bachelor,Employed,Married,3,90466.0,705.0,1,LOAN00336,Personal,8418,12,7.43,753.62,0.462,15.0,1,0.77,Mortgage,South,Defaulted,Default,Good,Very High
+CUST0337,Female,45,Diploma,Employed,Married,1,64366.0,702.0,0,LOAN00337,Personal,36293,120,11.16,336.19,0.487,19.7,0,0.94,Rent,Central,Defaulted,Default,Good,High
+CUST0338,Female,44,Master,Retired,Married,0,30773.0,738.0,2,LOAN00338,Personal,16373,84,9.69,213.8,0.604,24.8,1,0.8,Mortgage,West,Defaulted,Default,Good,Low
+CUST0339,Male,32,Doctorate,Self-Employed,Single,0,84965.0,636.0,2,LOAN00339,Personal,19013,12,11.49,1766.47,0.372,8.3,0,0.8,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0340,Male,38,Diploma,Self-Employed,Married,2,65625.0,699.0,0,LOAN00340,Auto,20897,60,6.87,372.21,0.255,17.7,0,0.95,Mortgage,West,Active/Closed,Non-Default,Good,High
+CUST0341,Female,35,Bachelor,Self-Employed,Married,0,32428.0,609.0,1,LOAN00341,Personal,43910,24,7.93,1974.67,0.198,15.5,0,0.83,Mortgage,Central,Defaulted,Default,Fair,Low
+CUST0342,Male,64,Diploma,Employed,Married,1,72314.0,699.0,0,LOAN00342,Home,173361,240,7.88,779.26,0.372,33.6,0,0.76,Rent,North,Active/Closed,Non-Default,Good,High
+CUST0343,Male,36,Bachelor,Employed,Single,2,87145.0,684.0,1,LOAN00343,Business,122986,240,17.01,599.61,0.445,13.9,0,0.86,Mortgage,West,Active/Closed,Non-Default,Good,Very High
+CUST0344,Male,47,Bachelor,Self-Employed,Single,2,98207.0,618.0,1,LOAN00344,Auto,61249,84,10.0,802.07,0.183,26.3,0,0.69,Rent,East,Defaulted,Default,Fair,Very High
+CUST0345,Male,28,Doctorate,Employed,Widowed,2,56676.0,812.0,1,LOAN00345,Home,152623,360,8.5,459.99,0.482,2.3,1,0.88,Own,West,Defaulted,Default,Excellent,Medium
+CUST0346,Female,45,Bachelor,Employed,Single,0,68197.0,552.0,3,LOAN00346,Home,98132,180,13.27,617.52,0.383,5.3,0,0.72,Other,East,Active/Closed,Non-Default,Poor,High
+CUST0347,Female,37,Diploma,Employed,Widowed,1,66112.0,669.0,0,LOAN00347,Home,236283,180,15.16,1511.69,0.169,0.1,0,0.69,Mortgage,West,Active/Closed,Non-Default,Fair,High
+CUST0348,Male,49,High School,Employed,Widowed,2,97776.0,617.0,1,LOAN00348,Personal,10718,60,5.66,188.74,0.243,21.9,0,0.74,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0349,Male,28,High School,Retired,Married,4,42169.0,818.0,3,LOAN00349,Auto,19349,36,8.52,583.26,0.282,38.7,0,0.97,Own,West,Active/Closed,Non-Default,Excellent,Low
+CUST0350,Female,35,Diploma,Employed,Married,2,54777.0,725.0,0,LOAN00350,Home,227536,36,5.63,6676.29,0.209,3.2,1,0.72,Mortgage,North,Defaulted,Default,Good,Medium
+CUST0351,Female,47,Diploma,Employed,Married,3,46636.0,631.0,1,LOAN00351,Business,57591,36,4.0,1663.74,0.413,18.5,0,0.79,Rent,East,Defaulted,Default,Fair,Low
+CUST0352,Female,27,Master,Employed,Divorced,2,33119.0,667.0,0,LOAN00352,Education,28008,60,8.3,505.54,0.424,6.7,0,0.86,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0353,Female,23,Bachelor,Retired,Single,2,65451.0,820.0,1,LOAN00353,Auto,52770,24,9.94,2417.31,0.549,38.6,0,0.95,Own,West,Active/Closed,Non-Default,Excellent,High
+CUST0354,Male,49,Bachelor,Employed,Married,0,100229.0,609.0,1,LOAN00354,Home,162338,36,8.11,4875.1,0.261,20.1,0,0.76,Mortgage,South,Active/Closed,Non-Default,Fair,Very High
+CUST0355,Male,64,Bachelor,Employed,Married,2,60633.0,548.0,4,LOAN00355,Personal,36886,60,14.69,705.08,0.461,34.0,0,0.79,Mortgage,East,Active/Closed,Non-Default,Poor,Medium
+CUST0356,Female,44,Master,Self-Employed,Married,2,50598.0,710.0,1,LOAN00356,Education,51757,36,10.82,1593.25,0.267,9.0,0,0.88,Own,South,Defaulted,Default,Good,Medium
+CUST0357,Male,23,Master,Self-Employed,Married,2,74111.0,712.0,0,LOAN00357,Home,211099,60,10.08,3872.96,0.322,1.7,0,0.86,Rent,West,Active/Closed,Non-Default,Good,High
+CUST0358,Female,40,High School,Employed,Married,1,77961.0,730.0,1,LOAN00358,Personal,37132,360,14.29,117.88,0.167,11.9,0,0.78,Own,East,Defaulted,Default,Good,High
+CUST0359,Female,35,Bachelor,Employed,Married,1,61560.0,730.0,1,LOAN00359,Personal,18168,120,8.71,164.59,0.21,6.5,0,0.91,Mortgage,West,Active/Closed,Non-Default,Good,Medium
+CUST0360,Female,45,Bachelor,Employed,Divorced,1,95878.0,813.0,1,LOAN00360,Personal,19505,84,9.84,255.05,0.441,0.0,0,0.97,Rent,North,Active/Closed,Non-Default,Excellent,Very High
+CUST0361,Male,50,High School,Employed,Single,1,47128.0,551.0,0,LOAN00361,Education,37850,60,8.09,681.87,0.142,23.4,1,0.68,Mortgage,North,Active/Closed,Non-Default,Poor,Low
+CUST0362,Female,34,Bachelor,Employed,Divorced,0,58687.0,590.0,0,LOAN00362,Personal,18836,60,13.8,357.26,0.394,12.0,1,0.62,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0363,Male,27,Bachelor,Employed,Married,3,71512.0,730.0,0,LOAN00363,Auto,98644,36,9.73,3006.72,0.239,6.7,0,0.71,Other,Central,Active/Closed,Non-Default,Good,High
+CUST0364,Female,37,High School,Employed,Married,0,73645.0,597.0,0,LOAN00364,Home,253513,240,9.95,1161.41,0.089,6.6,0,0.59,Own,North,Active/Closed,Non-Default,Fair,High
+CUST0365,Female,64,Master,Employed,Married,0,66039.0,579.0,1,LOAN00365,Auto,24819,36,14.7,790.76,0.05,18.3,0,0.77,Rent,North,Active/Closed,Non-Default,Poor,High
+CUST0366,Male,40,Master,Self-Employed,Married,1,41875.0,828.0,1,LOAN00366,Business,21007,24,6.48,932.01,0.521,7.9,0,0.91,Own,North,Active/Closed,Non-Default,Excellent,Low
+CUST0367,Other,56,Bachelor,Retired,Single,2,111436.0,559.0,2,LOAN00367,Business,27701,120,18.7,274.01,0.141,20.3,0,0.72,Mortgage,West,Active/Closed,Non-Default,Poor,Very High
+CUST0368,Female,29,Bachelor,Employed,Married,1,59809.0,654.0,1,LOAN00368,Home,111016,24,4.0,4810.69,0.337,6.2,1,0.69,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0369,Male,58,Bachelor,Employed,Single,0,67426.0,676.0,1,LOAN00369,Personal,10143,48,11.24,235.06,0.387,4.3,0,0.79,Own,West,Active/Closed,Non-Default,Good,High
+CUST0370,Male,42,Bachelor,Employed,Divorced,2,78569.0,778.0,2,LOAN00370,Home,183335,12,8.83,16626.96,0.212,1.9,0,0.9,Mortgage,North,Defaulted,Default,Very Good,High
+CUST0371,Male,22,Bachelor,Employed,Widowed,1,45997.0,540.0,1,LOAN00371,Auto,87220,24,12.66,4094.25,0.279,35.1,1,0.5,Mortgage,North,Defaulted,Default,Poor,Low
+CUST0372,Male,44,High School,Employed,Single,3,66252.0,711.0,2,LOAN00372,Auto,76308,24,8.91,3462.79,0.427,0.2,0,0.84,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0373,Male,28,Bachelor,Employed,Single,3,50102.0,613.0,0,LOAN00373,Auto,29405,12,10.71,2712.86,0.355,9.6,1,0.6,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0374,Female,31,Master,Employed,Married,1,74142.0,735.0,2,LOAN00374,Personal,22968,84,13.69,310.86,0.315,6.7,0,0.84,Other,West,Active/Closed,Non-Default,Good,High
+CUST0375,Male,33,Bachelor,Self-Employed,Single,1,63928.0,612.0,0,LOAN00375,Auto,55710,180,5.48,326.46,0.348,14.7,0,0.72,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0376,Male,37,High School,Self-Employed,Divorced,2,75912.0,798.0,2,LOAN00376,Personal,41459,48,6.28,917.97,0.358,1.1,3,0.61,Own,Central,Defaulted,Default,Very Good,High
+CUST0377,Female,28,Master,Employed,Single,0,41976.0,620.0,1,LOAN00377,Education,67934,240,7.35,303.86,0.229,5.8,1,0.72,Mortgage,South,Active/Closed,Non-Default,Fair,Low
+CUST0378,Male,41,Diploma,Employed,Single,1,46764.0,495.0,1,LOAN00378,Home,277430,36,10.21,8493.21,0.489,8.0,0,0.61,Mortgage,West,Defaulted,Default,Poor,Low
+CUST0379,Female,38,Diploma,Retired,Widowed,1,29967.0,621.0,3,LOAN00379,Auto,55832,36,11.53,1729.71,0.42,36.9,0,0.83,Mortgage,East,Active/Closed,Non-Default,Fair,Low
+CUST0380,Male,50,High School,Employed,Married,3,49368.0,660.0,0,LOAN00380,Personal,36242,24,12.27,1695.37,0.099,11.6,0,0.91,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0381,Male,38,Diploma,Self-Employed,Divorced,0,18000.0,761.0,1,LOAN00381,Home,77950,60,11.9,1453.77,0.408,5.2,0,0.96,Mortgage,West,Defaulted,Default,Very Good,Low
+CUST0382,Female,51,Master,Self-Employed,Married,2,63244.0,594.0,2,LOAN00382,Auto,60876,48,15.32,1462.55,0.296,28.3,0,0.77,Mortgage,West,Defaulted,Default,Fair,Medium
+CUST0383,Female,58,Bachelor,Employed,Married,2,53247.0,587.0,0,LOAN00383,Personal,16191,60,15.56,311.84,0.285,13.1,1,0.64,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0384,Female,52,Diploma,Employed,Married,1,68320.0,752.0,0,LOAN00384,Education,37379,120,4.46,325.38,0.321,0.6,0,0.95,Own,East,Active/Closed,Non-Default,Very Good,High
+CUST0385,Female,31,Master,Employed,Married,0,65981.0,585.0,3,LOAN00385,Auto,67065,60,17.95,1318.39,0.3,5.1,1,0.62,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0386,Female,65,Master,Employed,Married,4,92656.0,675.0,1,LOAN00386,Auto,33129,60,9.87,606.65,0.561,22.9,0,0.88,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0387,Male,45,Master,Unemployed,Married,1,104075.0,641.0,0,LOAN00387,Home,63046,360,13.6,198.95,0.261,0.5,0,0.82,Rent,South,Defaulted,Default,Fair,Very High
+CUST0388,Male,53,Diploma,Retired,Married,2,85026.0,696.0,1,LOAN00388,Home,52558,36,6.37,1552.94,0.352,28.6,0,0.8,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0389,Female,58,Bachelor,Employed,Single,0,55032.0,624.0,0,LOAN00389,Auto,11994,36,9.78,365.75,0.366,2.0,0,0.83,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0390,Female,61,Doctorate,Employed,Married,1,54145.0,625.0,2,LOAN00390,Home,52087,84,13.33,702.74,0.375,20.6,0,0.76,Mortgage,North,Active/Closed,Non-Default,Fair,Medium
+CUST0391,Other,28,Master,Retired,Single,1,79111.0,713.0,1,LOAN00391,Auto,19932,60,10.58,367.35,0.322,35.1,1,0.73,Own,South,Active/Closed,Non-Default,Good,Very High
+CUST0392,Male,31,High School,Self-Employed,Married,0,32966.0,613.0,4,LOAN00392,Home,109872,24,8.24,4955.23,0.375,5.4,0,0.7,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0393,Male,42,High School,Unemployed,Single,0,40066.0,543.0,1,LOAN00393,Personal,14955,48,17.43,365.87,0.369,0.8,0,0.69,Mortgage,East,Active/Closed,Non-Default,Poor,Low
+CUST0394,Female,44,Bachelor,Employed,Married,3,59761.0,772.0,1,LOAN00394,Personal,49406,60,5.19,866.17,0.246,2.3,0,0.98,Own,South,Defaulted,Default,Very Good,Medium
+CUST0395,Male,61,Master,Employed,Married,0,77851.0,725.0,1,LOAN00395,Personal,18770,48,10.44,431.87,0.484,7.1,0,0.93,Rent,West,Active/Closed,Non-Default,Good,High
+CUST0396,Female,37,Bachelor,Self-Employed,Single,0,83505.0,813.0,2,LOAN00396,Home,81855,24,10.62,3772.83,0.317,2.9,1,0.87,Own,South,Active/Closed,Non-Default,Excellent,Very High
+CUST0397,Female,32,Bachelor,Self-Employed,Single,1,53620.0,739.0,1,LOAN00397,Education,45917,360,16.79,148.96,0.601,6.7,0,0.92,Own,West,Active/Closed,Non-Default,Good,Medium
+CUST0398,Male,52,High School,Employed,Single,2,55884.0,585.0,0,LOAN00398,Education,69347,120,12.12,647.93,0.4,18.0,1,0.72,Rent,East,Active/Closed,Non-Default,Fair,Medium
+CUST0399,Female,35,Bachelor,Employed,Married,0,74792.0,687.0,2,LOAN00399,Personal,35513,60,9.67,649.12,0.05,16.1,0,0.81,Rent,Central,Active/Closed,Non-Default,Good,High
+CUST0400,Female,36,Master,Employed,Divorced,2,47424.0,612.0,1,LOAN00400,Business,73295,84,9.17,952.57,0.451,1.3,0,0.65,Own,Central,Defaulted,Default,Fair,Low
+CUST0401,Male,42,Bachelor,Employed,Single,0,91535.0,556.0,0,LOAN00401,Home,190404,240,14.22,906.16,0.314,14.4,0,0.79,Own,Central,Active/Closed,Non-Default,Poor,Very High
+CUST0402,Female,48,Master,Employed,Married,0,78402.0,654.0,2,LOAN00402,Business,148674,24,12.26,6954.23,0.203,15.8,1,0.64,Rent,West,Defaulted,Default,Fair,High
+CUST0403,Female,40,Doctorate,Retired,Married,0,63773.0,769.0,1,LOAN00403,Auto,75529,36,11.98,2349.37,0.502,30.3,0,0.84,Mortgage,South,Defaulted,Default,Very Good,High
+CUST0404,Female,53,Diploma,Employed,Married,3,73601.0,701.0,1,LOAN00404,Education,54990,60,12.77,1033.54,0.293,30.6,1,0.59,Own,West,Defaulted,Default,Good,High
+CUST0405,Male,30,Bachelor,Self-Employed,Divorced,0,59728.0,576.0,0,LOAN00405,Personal,44186,120,12.01,412.44,0.257,2.5,1,0.65,Mortgage,Central,Active/Closed,Non-Default,Poor,Medium
+CUST0406,Female,60,Diploma,Employed,Married,0,51222.0,644.0,0,LOAN00406,Personal,44155,12,12.94,4155.72,0.365,1.4,0,0.64,Rent,North,Defaulted,Default,Fair,Medium
+CUST0407,Male,52,Master,Self-Employed,Married,1,60656.0,677.0,1,LOAN00407,Personal,31052,360,10.77,95.55,0.482,22.9,0,0.75,Own,East,Active/Closed,Non-Default,Good,Medium
+CUST0408,Male,53,Bachelor,Retired,Single,3,70999.0,553.0,3,LOAN00408,Auto,48687,48,15.74,1173.97,0.409,26.9,0,0.73,Rent,South,Defaulted,Default,Poor,High
+CUST0409,Female,22,Bachelor,Employed,Single,0,69422.0,733.0,1,LOAN00409,Home,210393,36,12.91,6598.74,0.35,0.1,3,0.62,Mortgage,East,Active/Closed,Non-Default,Good,High
+CUST0410,Male,53,Master,Employed,Single,1,55700.0,671.0,1,LOAN00410,Education,66366,36,15.39,2127.21,0.261,8.8,2,0.55,Mortgage,East,Active/Closed,Non-Default,Good,Medium
+CUST0411,Male,53,Bachelor,Employed,Single,0,81491.0,576.0,5,LOAN00411,Home,51413,24,12.44,2408.7,0.58,10.8,0,0.7,Rent,East,Active/Closed,Non-Default,Poor,Very High
+CUST0412,Female,61,Master,Employed,Married,1,61173.0,579.0,3,LOAN00412,Education,79400,120,11.86,740.14,0.41,21.6,1,0.54,Other,East,Defaulted,Default,Poor,Medium
+CUST0413,Female,33,Bachelor,Self-Employed,Married,2,54747.0,763.0,3,LOAN00413,Personal,13230,360,10.04,40.44,0.368,2.6,1,0.75,Own,Central,Defaulted,Default,Very Good,Medium
+CUST0414,Female,50,High School,Unemployed,Married,2,52596.0,616.0,2,LOAN00414,Personal,26161,48,14.05,621.6,0.448,0.8,1,0.67,Own,East,Active/Closed,Non-Default,Fair,Medium
+CUST0415,Female,53,Bachelor,Employed,Single,1,42713.0,769.0,2,LOAN00415,Home,268007,360,8.87,810.5,0.493,16.9,0,0.86,Rent,West,Defaulted,Default,Very Good,Low
+CUST0416,Male,33,Master,Employed,Single,1,27881.0,806.0,1,LOAN00416,Home,106260,180,12.44,663.77,0.314,6.9,1,0.82,Rent,South,Active/Closed,Non-Default,Excellent,Low
+CUST0417,Male,46,Diploma,Employed,Married,0,64888.0,757.0,1,LOAN00417,Home,169199,60,10.77,3123.7,0.469,27.3,0,0.77,Mortgage,South,Active/Closed,Non-Default,Very Good,High
+CUST0418,Male,42,Master,Self-Employed,Widowed,1,55537.0,648.0,0,LOAN00418,Education,14944,84,9.9,195.52,0.263,1.1,0,0.87,Mortgage,East,Active/Closed,Non-Default,Fair,Medium
+CUST0419,Female,59,Master,Employed,Single,0,59409.0,501.0,3,LOAN00419,Personal,22778,48,15.19,546.62,0.482,33.3,0,0.67,Rent,South,Defaulted,Default,Poor,Medium
+CUST0420,Female,22,Diploma,Employed,Divorced,2,43732.0,703.0,1,LOAN00420,Home,94284,60,9.2,1715.97,0.37,2.3,1,0.8,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0421,Female,58,Doctorate,Employed,Married,4,91597.0,850.0,1,LOAN00421,Education,32272,12,9.42,2942.67,0.231,27.9,0,1.0,Rent,East,Active/Closed,Non-Default,Excellent,Very High
+CUST0422,Female,59,High School,Self-Employed,Married,4,55447.0,677.0,1,LOAN00422,Personal,21806,84,7.28,278.49,0.335,15.1,0,0.74,Mortgage,East,Defaulted,Default,Good,Medium
+CUST0423,Male,46,Diploma,Employed,Married,3,55496.0,531.0,0,LOAN00423,Business,198771,12,13.3,18767.3,0.057,12.7,0,0.63,Own,West,Active/Closed,Non-Default,Poor,Medium
+CUST0424,Female,35,Diploma,Self-Employed,Single,2,78313.0,629.0,1,LOAN00424,Business,199066,180,13.5,1255.22,0.256,14.9,0,0.61,Rent,South,Active/Closed,Non-Default,Fair,High
+CUST0425,Male,54,Master,Employed,Single,2,34714.0,674.0,0,LOAN00425,Personal,10165,180,12.8,63.7,0.131,31.4,1,0.96,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0426,Female,62,Bachelor,Employed,Married,1,33088.0,598.0,3,LOAN00426,Personal,37669,36,15.36,1207.08,0.635,8.4,0,0.72,Rent,East,Defaulted,Default,Fair,Low
+CUST0427,Male,64,High School,Unemployed,Married,2,55381.0,453.0,3,LOAN00427,Home,62936,36,14.36,1999.27,0.327,0.4,0,0.67,Mortgage,North,Defaulted,Default,Poor,Medium
+CUST0428,Female,60,Bachelor,Self-Employed,Divorced,1,60211.0,673.0,3,LOAN00428,Education,7264,60,10.98,134.36,0.705,17.4,0,0.7,Own,South,Active/Closed,Non-Default,Good,Medium
+CUST0429,Male,31,Bachelor,Employed,Married,1,45167.0,621.0,0,LOAN00429,Auto,19480,60,6.7,346.42,0.382,11.7,1,0.73,Mortgage,North,Defaulted,Default,Fair,Low
+CUST0430,Male,23,High School,Employed,Single,2,78274.0,813.0,0,LOAN00430,Auto,96894,36,8.08,2908.97,0.258,1.6,0,1.0,Rent,North,Defaulted,Default,Excellent,High
+CUST0431,Male,26,Master,Employed,Married,1,47138.0,696.0,0,LOAN00431,Education,75565,60,11.05,1398.58,0.417,5.2,1,0.72,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0432,Female,29,Master,Employed,Single,1,58961.0,723.0,1,LOAN00432,Personal,13727,36,7.13,408.49,0.268,7.8,3,0.47,Mortgage,North,Defaulted,Default,Good,Medium
+CUST0433,Female,26,Bachelor,Employed,Married,3,45285.0,671.0,0,LOAN00433,Education,17125,12,5.24,1501.86,0.151,6.2,0,0.79,Own,South,Active/Closed,Non-Default,Good,Low
+CUST0434,Male,29,Doctorate,Employed,Married,0,71676.0,702.0,0,LOAN00434,Auto,31648,12,13.89,3003.66,0.329,6.2,0,0.65,Mortgage,West,Active/Closed,Non-Default,Good,High
+CUST0435,Male,59,Bachelor,Employed,Divorced,1,94306.0,556.0,0,LOAN00435,Auto,56399,24,13.65,2670.73,0.404,14.1,1,0.58,Rent,North,Active/Closed,Non-Default,Poor,Very High
+CUST0436,Female,51,Doctorate,Employed,Married,3,29057.0,617.0,0,LOAN00436,Business,122547,120,11.13,1134.89,0.473,31.9,0,0.81,Mortgage,South,Defaulted,Default,Fair,Low
+CUST0437,Male,52,Bachelor,Employed,Married,2,67478.0,762.0,2,LOAN00437,Auto,29943,360,10.37,91.8,0.43,20.8,0,0.89,Rent,Central,Active/Closed,Non-Default,Very Good,High
+CUST0438,Female,61,Bachelor,Self-Employed,Married,2,88845.0,696.0,1,LOAN00438,Personal,39048,48,7.55,874.92,0.281,25.5,1,0.7,Mortgage,West,Active/Closed,Non-Default,Good,Very High
+CUST0439,Female,32,High School,Employed,Widowed,0,55727.0,650.0,0,LOAN00439,Home,127388,60,9.29,2320.37,0.486,4.8,0,0.82,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0440,Male,28,Master,Retired,Single,1,35117.0,724.0,3,LOAN00440,Home,280533,24,15.01,13443.38,0.535,33.4,0,0.9,Rent,Central,Defaulted,Default,Good,Low
+CUST0441,Male,28,Bachelor,Self-Employed,Single,3,79261.0,718.0,0,LOAN00441,Personal,34553,60,9.03,627.89,0.352,2.6,1,0.62,Own,South,Defaulted,Default,Good,Very High
+CUST0442,Other,48,High School,Self-Employed,Single,2,92036.0,829.0,3,LOAN00442,Business,98543,24,7.9,4430.33,0.54,7.4,0,0.97,Mortgage,North,Active/Closed,Non-Default,Excellent,Very High
+CUST0443,Male,40,High School,Self-Employed,Single,1,89591.0,692.0,3,LOAN00443,Personal,40546,60,8.49,733.14,0.657,15.7,0,1.0,Own,Central,Active/Closed,Non-Default,Good,Very High
+CUST0444,Male,27,Bachelor,Retired,Married,0,68050.0,600.0,3,LOAN00444,Auto,83612,360,8.28,251.49,0.33,30.4,0,0.62,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0445,Female,31,Bachelor,Employed,Married,0,67154.0,671.0,2,LOAN00445,Home,122620,36,13.82,3876.84,0.262,8.9,0,0.79,Mortgage,East,Active/Closed,Non-Default,Good,High
+CUST0446,Female,40,Master,Employed,Married,4,45222.0,734.0,2,LOAN00446,Personal,20287,120,4.0,175.82,0.301,5.9,0,1.0,Mortgage,West,Active/Closed,Non-Default,Good,Low
+CUST0447,Other,36,Master,Employed,Single,1,84035.0,763.0,2,LOAN00447,Business,188472,12,7.33,16857.25,0.208,10.8,0,0.98,Rent,West,Defaulted,Default,Very Good,Very High
+CUST0448,Female,24,High School,Self-Employed,Married,2,87819.0,559.0,3,LOAN00448,Business,49653,48,14.18,1181.12,0.466,2.7,1,0.55,Rent,North,Active/Closed,Non-Default,Poor,Very High
+CUST0449,Male,26,Master,Self-Employed,Married,0,44963.0,707.0,1,LOAN00449,Auto,13794,24,15.59,664.35,0.152,4.8,0,0.85,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0450,Male,42,Diploma,Employed,Married,2,73019.0,613.0,1,LOAN00450,Personal,25432,36,7.09,756.53,0.497,7.0,1,0.64,Mortgage,East,Defaulted,Default,Fair,High
+CUST0451,Female,46,Master,Employed,Married,3,79362.0,646.0,2,LOAN00451,Personal,41054,24,6.58,1823.14,0.289,20.0,0,0.72,Rent,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0452,Female,23,Master,Employed,Married,2,84407.0,751.0,0,LOAN00452,Home,242917,48,6.12,5370.49,0.483,4.0,0,0.88,Mortgage,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0453,Male,61,Bachelor,Retired,Single,0,58350.0,736.0,2,LOAN00453,Personal,46379,48,12.61,1088.07,0.063,25.2,1,0.74,Mortgage,West,Active/Closed,Non-Default,Good,Medium
+CUST0454,Female,62,Master,Employed,Single,2,46134.0,637.0,3,LOAN00454,Home,183300,36,10.88,5645.64,0.349,10.5,0,0.78,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0455,Male,34,Diploma,Employed,Married,2,53953.0,668.0,1,LOAN00455,Business,38012,84,6.17,480.44,0.19,10.6,0,0.74,Other,East,Active/Closed,Non-Default,Fair,Medium
+CUST0456,Female,31,Bachelor,Employed,Divorced,1,42841.0,640.0,1,LOAN00456,Auto,62982,240,10.8,290.77,0.507,9.0,0,0.67,Own,West,Defaulted,Default,Fair,Low
+CUST0457,Male,38,Master,Employed,Married,3,63877.0,850.0,3,LOAN00457,Business,160111,48,13.35,3780.95,0.596,14.1,0,0.98,Rent,West,Defaulted,Default,Excellent,High
+CUST0458,Male,32,Bachelor,Unemployed,Single,2,41569.0,666.0,0,LOAN00458,Auto,18400,36,11.29,568.82,0.159,1.4,0,0.93,Own,North,Active/Closed,Non-Default,Fair,Low
+CUST0459,Male,43,Bachelor,Self-Employed,Married,3,117191.0,617.0,0,LOAN00459,Home,93164,36,10.99,2872.3,0.352,9.8,0,0.75,Mortgage,South,Defaulted,Default,Fair,Very High
+CUST0460,Male,32,Bachelor,Self-Employed,Married,2,89683.0,779.0,2,LOAN00460,Business,22212,180,9.37,134.96,0.498,5.5,0,0.88,Own,East,Active/Closed,Non-Default,Very Good,Very High
+CUST0461,Male,33,Master,Employed,Married,0,86330.0,790.0,3,LOAN00461,Home,198413,60,9.94,3635.59,0.434,3.8,0,0.98,Rent,North,Defaulted,Default,Very Good,Very High
+CUST0462,Female,45,Diploma,Self-Employed,Single,1,80370.0,814.0,2,LOAN00462,Business,179612,48,4.9,3925.27,0.441,4.2,0,0.93,Own,North,Defaulted,Default,Excellent,Very High
+CUST0463,Female,65,High School,Employed,Single,0,56919.0,837.0,0,LOAN00463,Personal,35180,24,8.0,1583.1,0.382,24.2,0,1.0,Rent,West,Defaulted,Default,Excellent,Medium
+CUST0464,Female,39,Master,Self-Employed,Married,3,63941.0,741.0,1,LOAN00464,Personal,49192,48,9.96,1126.91,0.449,2.0,0,0.87,Rent,East,Active/Closed,Non-Default,Very Good,High
+CUST0465,Other,56,Master,Employed,Married,2,60955.0,662.0,1,LOAN00465,Business,31346,36,9.05,949.52,0.214,32.8,0,0.85,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0466,Male,65,High School,Employed,Single,2,63562.0,665.0,1,LOAN00466,Auto,91270,360,12.56,285.37,0.489,28.9,1,0.63,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0467,Male,28,Diploma,Self-Employed,Single,1,78562.0,658.0,1,LOAN00467,Business,166532,240,8.6,753.56,0.37,8.6,1,0.73,Rent,Central,Defaulted,Default,Fair,High
+CUST0468,Female,49,High School,Retired,Married,0,60016.0,650.0,0,LOAN00468,Business,76563,24,9.42,3490.63,0.338,38.1,0,0.8,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0469,Male,52,Diploma,Employed,Divorced,2,58607.0,773.0,1,LOAN00469,Personal,48809,60,4.92,853.51,0.413,13.9,0,0.9,Mortgage,West,Active/Closed,Non-Default,Very Good,Medium
+CUST0470,Other,64,Bachelor,Self-Employed,Widowed,1,56929.0,680.0,1,LOAN00470,Home,121984,36,11.63,3782.52,0.193,29.6,1,0.67,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0471,Male,38,Master,Employed,Married,0,34362.0,761.0,3,LOAN00471,Home,272326,48,11.53,6327.61,0.209,3.2,0,0.84,Mortgage,North,Active/Closed,Non-Default,Very Good,Low
+CUST0472,Other,26,Bachelor,Employed,Married,2,93234.0,731.0,0,LOAN00472,Auto,89267,240,9.42,406.98,0.305,0.2,0,0.88,Rent,North,Active/Closed,Non-Default,Good,Very High
+CUST0473,Male,38,Bachelor,Employed,Single,0,113522.0,598.0,0,LOAN00473,Education,61824,60,15.92,1194.44,0.505,15.7,2,0.58,Mortgage,South,Active/Closed,Non-Default,Fair,Very High
+CUST0474,Female,39,Bachelor,Employed,Married,1,91385.0,551.0,0,LOAN00474,Personal,30356,36,13.06,953.35,0.178,1.6,0,0.67,Mortgage,West,Defaulted,Default,Poor,Very High
+CUST0475,Female,42,Master,Employed,Married,1,37301.0,595.0,0,LOAN00475,Auto,20800,36,5.92,611.98,0.341,23.7,0,0.75,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0476,Other,57,Bachelor,Employed,Married,0,82314.0,648.0,1,LOAN00476,Auto,57877,180,10.35,354.82,0.259,23.6,0,0.77,Mortgage,East,Active/Closed,Non-Default,Fair,Very High
+CUST0477,Male,52,Doctorate,Employed,Married,4,87523.0,705.0,1,LOAN00477,Personal,21056,60,9.97,385.92,0.243,25.6,0,0.84,Rent,South,Active/Closed,Non-Default,Good,Very High
+CUST0478,Female,61,Bachelor,Retired,Single,0,51124.0,631.0,1,LOAN00478,Education,64416,60,10.81,1189.66,0.405,24.9,1,0.64,Other,South,Defaulted,Default,Fair,Medium
+CUST0479,Other,23,High School,Employed,Single,0,75756.0,733.0,0,LOAN00479,Auto,78232,36,11.26,2417.8,0.411,3.4,0,0.86,Other,East,Active/Closed,Non-Default,Good,High
+CUST0480,Female,48,Bachelor,Self-Employed,Single,0,59961.0,640.0,1,LOAN00480,Business,183910,36,8.45,5540.29,0.25,1.3,0,0.99,Mortgage,West,Active/Closed,Non-Default,Fair,Medium
+CUST0481,Female,30,Diploma,Employed,Single,2,98636.0,699.0,0,LOAN00481,Home,53708,360,14.91,171.43,0.486,10.1,0,0.85,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0482,Female,55,Bachelor,Self-Employed,Single,1,78038.0,689.0,2,LOAN00482,Personal,41410,60,10.3,761.25,0.421,5.9,0,0.87,Own,West,Defaulted,Default,Good,High
+CUST0483,Male,49,High School,Employed,Widowed,2,44823.0,810.0,0,LOAN00483,Home,284616,48,8.1,6409.79,0.291,21.6,0,0.98,Rent,South,Defaulted,Default,Excellent,Low
+CUST0484,Female,35,High School,Employed,Married,0,79736.0,607.0,4,LOAN00484,Personal,40519,60,12.73,761.28,0.462,3.8,0,0.72,Own,West,Active/Closed,Non-Default,Fair,Very High
+CUST0485,Female,53,Master,Employed,Married,0,88293.0,850.0,0,LOAN00485,Business,43435,120,8.76,393.67,0.564,2.4,0,1.0,Own,South,Active/Closed,Non-Default,Excellent,Very High
+CUST0486,Female,27,Diploma,Employed,Divorced,1,69359.0,635.0,1,LOAN00486,Personal,8658,36,18.2,284.27,0.435,4.3,0,0.74,Rent,West,Active/Closed,Non-Default,Fair,High
+CUST0487,Male,32,Master,Employed,Widowed,3,75548.0,587.0,2,LOAN00487,Education,6563,24,12.87,308.65,0.286,2.4,1,0.7,Mortgage,Central,Active/Closed,Non-Default,Fair,High
+CUST0488,Male,50,Diploma,Self-Employed,Married,3,68465.0,664.0,4,LOAN00488,Auto,66587,60,11.56,1238.07,0.418,23.3,0,0.77,Own,North,Defaulted,Default,Fair,High
+CUST0489,Female,41,Bachelor,Unemployed,Married,0,22046.0,850.0,0,LOAN00489,Home,207418,84,6.45,2628.53,0.456,0.5,0,0.9,Rent,South,Defaulted,Default,Excellent,Low
+CUST0490,Female,51,Bachelor,Self-Employed,Married,2,66662.0,747.0,2,LOAN00490,Personal,49411,84,13.11,665.34,0.45,11.3,0,0.91,Mortgage,West,Defaulted,Default,Very Good,High
+CUST0491,Male,44,Bachelor,Self-Employed,Single,3,81507.0,725.0,1,LOAN00491,Auto,45824,240,11.43,212.76,0.374,14.8,2,0.57,Own,West,Defaulted,Default,Good,Very High
+CUST0492,Female,40,Diploma,Employed,Married,1,62183.0,740.0,0,LOAN00492,Auto,39872,48,9.48,909.41,0.547,6.3,1,0.81,Own,North,Defaulted,Default,Very Good,Medium
+CUST0493,Male,57,Diploma,Employed,Married,3,82617.0,622.0,1,LOAN00493,Personal,33099,12,7.88,2975.6,0.318,13.2,1,0.56,Own,Central,Defaulted,Default,Fair,Very High
+CUST0494,Male,24,High School,Employed,Married,0,56372.0,704.0,1,LOAN00494,Business,168610,360,6.57,499.13,0.137,4.9,0,0.81,Own,East,Defaulted,Default,Good,Medium
+CUST0495,Male,48,Diploma,Employed,Single,3,57815.0,680.0,1,LOAN00495,Home,284193,48,11.76,6616.96,0.371,5.4,0,0.7,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0496,Male,64,Bachelor,Employed,Single,2,83285.0,816.0,1,LOAN00496,Home,250781,60,4.54,4369.44,0.292,2.9,1,1.0,Mortgage,North,Active/Closed,Non-Default,Excellent,Very High
+CUST0497,Female,40,Master,Employed,Married,3,69881.0,680.0,0,LOAN00497,Auto,48401,84,14.43,659.35,0.14,7.2,1,0.58,Rent,West,Active/Closed,Non-Default,Good,High
+CUST0498,Male,44,Master,Employed,Single,2,55942.0,660.0,1,LOAN00498,Personal,33571,60,6.71,597.06,0.261,11.0,1,0.69,Own,North,Defaulted,Default,Fair,Medium
+CUST0499,Other,52,Master,Employed,Married,1,87744.0,601.0,2,LOAN00499,Business,174134,36,9.96,5318.83,0.327,18.5,1,0.72,Mortgage,North,Defaulted,Default,Fair,Very High
+CUST0500,Other,61,Master,Self-Employed,Married,3,54848.0,699.0,2,LOAN00500,Home,172652,120,7.86,1551.85,0.507,13.0,0,0.91,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0501,Female,56,Bachelor,Self-Employed,Married,0,54007.0,702.0,0,LOAN00501,Personal,14751,180,10.6,90.64,0.142,27.6,2,0.7,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0502,Female,54,Diploma,Employed,Married,1,18000.0,590.0,2,LOAN00502,Home,92431,60,13.58,1749.72,0.412,1.4,0,0.69,Rent,West,Defaulted,Default,Fair,Low
+CUST0503,Male,56,Master,Unemployed,Divorced,2,34813.0,687.0,1,LOAN00503,Auto,10014,60,11.83,186.64,0.731,0.9,0,0.93,Rent,South,Defaulted,Default,Good,Low
+CUST0504,Female,22,Bachelor,Retired,Married,2,88792.0,697.0,2,LOAN00504,Home,229559,24,5.92,10131.2,0.349,27.6,0,0.9,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0505,Female,35,Bachelor,Employed,Married,3,19410.0,756.0,1,LOAN00505,Auto,19999,24,6.41,886.71,0.32,11.0,0,0.9,Mortgage,Central,Active/Closed,Non-Default,Very Good,Low
+CUST0506,Male,54,High School,Employed,Married,0,44058.0,771.0,0,LOAN00506,Personal,15973,36,11.61,495.21,0.406,33.8,0,0.92,Rent,South,Active/Closed,Non-Default,Very Good,Low
+CUST0507,Female,56,Bachelor,Employed,Single,2,74660.0,687.0,2,LOAN00507,Personal,18404,36,12.48,575.02,0.433,17.9,0,0.79,Own,West,Active/Closed,Non-Default,Good,High
+CUST0508,Female,26,Bachelor,Retired,Single,2,18000.0,602.0,2,LOAN00508,Education,47028,360,4.0,135.86,0.54,39.7,1,0.56,Own,Central,Active/Closed,Non-Default,Fair,Low
+CUST0509,Female,59,Master,Unemployed,Single,0,35765.0,591.0,2,LOAN00509,Personal,22908,120,14.63,218.83,0.47,0.6,0,0.82,Own,West,Active/Closed,Non-Default,Fair,Low
+CUST0510,Female,62,Bachelor,Employed,Married,1,90099.0,812.0,5,LOAN00510,Business,141441,84,5.6,1778.12,0.529,1.1,0,1.0,Rent,West,Defaulted,Default,Excellent,Very High
+CUST0511,Female,32,Bachelor,Employed,Married,1,109947.0,692.0,2,LOAN00511,Personal,7504,60,8.72,135.97,0.456,2.3,0,0.75,Own,South,Active/Closed,Non-Default,Good,Very High
+CUST0512,Male,23,Doctorate,Employed,Divorced,1,71385.0,826.0,0,LOAN00512,Education,14295,24,8.02,643.39,0.28,2.0,0,0.94,Own,East,Active/Closed,Non-Default,Excellent,High
+CUST0513,Female,65,High School,Employed,Single,4,44618.0,717.0,2,LOAN00513,Home,174803,360,15.17,559.22,0.356,11.1,0,0.84,Mortgage,East,Active/Closed,Non-Default,Good,Low
+CUST0514,Female,38,Bachelor,Employed,Single,2,43877.0,737.0,3,LOAN00514,Auto,40327,48,7.37,902.06,0.394,1.9,0,0.86,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0515,Male,60,High School,Unemployed,Widowed,2,50188.0,715.0,1,LOAN00515,Personal,18312,24,6.29,810.99,0.316,0.9,0,0.85,Own,Central,Active/Closed,Non-Default,Good,Medium
+CUST0516,Male,41,Master,Self-Employed,Single,4,76181.0,596.0,0,LOAN00516,Personal,8016,60,14.85,153.44,0.273,7.8,0,0.8,Mortgage,North,Active/Closed,Non-Default,Fair,High
+CUST0517,Male,35,Master,Self-Employed,Married,1,110874.0,711.0,1,LOAN00517,Personal,45307,240,10.42,208.45,0.525,2.1,1,0.68,Rent,North,Defaulted,Default,Good,Very High
+CUST0518,Female,53,Diploma,Unemployed,Married,3,68358.0,552.0,3,LOAN00518,Personal,36132,240,17.12,176.32,0.64,0.6,0,0.61,Other,North,Defaulted,Default,Poor,High
+CUST0519,Other,55,Master,Self-Employed,Married,1,71850.0,667.0,0,LOAN00519,Home,80405,12,9.44,7332.94,0.25,31.0,0,0.9,Rent,West,Active/Closed,Non-Default,Fair,High
+CUST0520,Male,46,Diploma,Employed,Single,3,57625.0,728.0,0,LOAN00520,Home,66261,240,14.13,315.1,0.318,8.5,1,0.72,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0521,Female,28,Master,Employed,Single,0,131324.0,611.0,1,LOAN00521,Auto,97739,36,10.55,3001.4,0.462,7.1,1,0.54,Mortgage,East,Defaulted,Default,Fair,Very High
+CUST0522,Male,56,Master,Employed,Single,3,78785.0,730.0,0,LOAN00522,Education,56088,12,12.09,5239.09,0.373,21.4,1,0.72,Own,South,Active/Closed,Non-Default,Good,Very High
+CUST0523,Other,50,Master,Self-Employed,Married,0,55287.0,576.0,1,LOAN00523,Auto,47571,180,18.37,312.83,0.441,13.7,0,0.68,Mortgage,East,Defaulted,Default,Poor,Medium
+CUST0524,Female,43,High School,Employed,Married,1,60058.0,766.0,1,LOAN00524,Auto,73156,240,8.2,329.81,0.409,6.0,1,0.92,Rent,South,Defaulted,Default,Very Good,Medium
+CUST0525,Female,62,Doctorate,Self-Employed,Single,2,50696.0,645.0,0,LOAN00525,Home,239083,60,13.63,4527.83,0.346,12.9,0,0.85,Mortgage,Central,Defaulted,Default,Fair,Medium
+CUST0526,Male,64,Master,Employed,Married,1,18000.0,611.0,0,LOAN00526,Home,244991,60,8.66,4436.79,0.3,20.7,0,0.83,Rent,East,Active/Closed,Non-Default,Fair,Low
+CUST0527,Male,34,Diploma,Employed,Married,2,71878.0,572.0,1,LOAN00527,Home,169469,180,14.18,1075.0,0.202,5.6,0,0.77,Other,Central,Defaulted,Default,Poor,High
+CUST0528,Male,34,Master,Employed,Single,1,104214.0,645.0,3,LOAN00528,Education,37241,120,6.17,329.49,0.478,3.4,1,0.75,Own,East,Active/Closed,Non-Default,Fair,Very High
+CUST0529,Male,22,Diploma,Employed,Married,2,29128.0,537.0,1,LOAN00529,Personal,5496,240,11.99,25.65,0.318,0.5,1,0.51,Own,North,Defaulted,Default,Poor,Low
+CUST0530,Female,57,Master,Self-Employed,Married,0,71216.0,647.0,2,LOAN00530,Personal,46695,60,7.33,835.3,0.172,30.8,0,0.76,Own,North,Defaulted,Default,Fair,High
+CUST0531,Female,25,High School,Self-Employed,Single,0,54448.0,762.0,1,LOAN00531,Auto,64298,360,12.36,200.68,0.28,3.1,0,0.81,Mortgage,Central,Active/Closed,Non-Default,Very Good,Medium
+CUST0532,Other,58,Bachelor,Employed,Single,1,76473.0,666.0,0,LOAN00532,Personal,14142,360,15.72,45.46,0.422,21.9,1,0.68,Own,West,Active/Closed,Non-Default,Fair,High
+CUST0533,Other,65,Bachelor,Employed,Married,1,61209.0,592.0,0,LOAN00533,Business,185529,24,12.44,8692.03,0.09,17.2,2,0.58,Rent,North,Defaulted,Default,Fair,Medium
+CUST0534,Female,61,High School,Employed,Divorced,0,35079.0,697.0,1,LOAN00534,Business,184688,180,8.18,1109.97,0.221,30.5,1,0.74,Own,West,Defaulted,Default,Good,Low
+CUST0535,Female,34,Diploma,Employed,Married,1,43416.0,690.0,0,LOAN00535,Personal,49513,60,6.56,879.35,0.336,8.8,0,0.92,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0536,Female,59,High School,Employed,Married,1,46733.0,827.0,1,LOAN00536,Personal,44333,48,9.49,1011.25,0.514,16.8,1,0.77,Own,South,Defaulted,Default,Excellent,Low
+CUST0537,Female,45,Bachelor,Unemployed,Married,0,76575.0,704.0,1,LOAN00537,Home,299446,60,8.69,5424.46,0.585,1.8,0,0.87,Rent,North,Active/Closed,Non-Default,Good,High
+CUST0538,Male,40,Diploma,Employed,Married,2,93452.0,703.0,0,LOAN00538,Auto,32022,12,8.85,2904.66,0.5,15.8,0,0.73,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0539,Male,22,Bachelor,Employed,Married,3,58150.0,748.0,1,LOAN00539,Personal,42901,60,15.39,825.06,0.37,0.4,0,0.89,Rent,North,Defaulted,Default,Very Good,Medium
+CUST0540,Male,59,Diploma,Employed,Married,0,92012.0,670.0,1,LOAN00540,Auto,84073,240,9.61,383.97,0.32,6.2,0,0.86,Other,South,Active/Closed,Non-Default,Good,Very High
+CUST0541,Female,26,Diploma,Employed,Single,2,61190.0,674.0,1,LOAN00541,Auto,30785,36,12.26,959.98,0.446,6.3,0,0.79,Mortgage,South,Active/Closed,Non-Default,Good,Medium
+CUST0542,Female,37,Master,Employed,Married,2,63562.0,812.0,2,LOAN00542,Home,74609,48,8.86,1692.07,0.262,15.9,0,0.99,Own,North,Defaulted,Default,Excellent,Medium
+CUST0543,Male,45,High School,Employed,Married,1,66257.0,557.0,1,LOAN00543,Personal,49074,360,9.43,149.17,0.228,14.7,0,0.61,Own,East,Defaulted,Default,Poor,High
+CUST0544,Female,48,Master,Employed,Married,2,71266.0,761.0,1,LOAN00544,Education,27202,48,4.0,589.38,0.206,16.6,1,0.66,Own,North,Active/Closed,Non-Default,Very Good,High
+CUST0545,Female,22,Master,Employed,Divorced,1,52780.0,680.0,1,LOAN00545,Personal,44190,36,11.96,1374.31,0.476,2.5,0,0.85,Rent,South,Active/Closed,Non-Default,Good,Medium
+CUST0546,Male,55,Bachelor,Employed,Single,1,65481.0,658.0,2,LOAN00546,Education,5310,48,15.61,127.89,0.27,15.4,1,0.83,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0547,Male,57,Bachelor,Employed,Single,0,82321.0,639.0,2,LOAN00547,Home,55256,60,11.44,1026.29,0.49,23.8,1,0.59,Own,South,Defaulted,Default,Fair,Very High
+CUST0548,Female,25,Master,Employed,Single,2,67850.0,700.0,0,LOAN00548,Auto,51928,60,12.37,972.52,0.338,0.8,0,0.93,Rent,South,Defaulted,Default,Good,High
+CUST0549,Female,21,Diploma,Retired,Married,2,60941.0,677.0,3,LOAN00549,Business,62969,180,7.79,377.08,0.527,39.2,0,0.81,Rent,East,Defaulted,Default,Good,Medium
+CUST0550,Female,60,High School,Employed,Married,0,75872.0,649.0,0,LOAN00550,Business,144171,48,13.54,3410.24,0.187,26.3,0,0.67,Rent,East,Defaulted,Default,Fair,High
+CUST0551,Female,32,Diploma,Employed,Married,1,79668.0,627.0,1,LOAN00551,Home,191391,180,13.51,1206.93,0.27,8.8,0,0.67,Mortgage,West,Defaulted,Default,Fair,Very High
+CUST0552,Female,56,Master,Employed,Married,4,63622.0,545.0,0,LOAN00552,Personal,8487,60,11.41,157.59,0.374,11.1,0,0.68,Rent,North,Active/Closed,Non-Default,Poor,High
+CUST0553,Female,65,High School,Employed,Married,1,54568.0,626.0,0,LOAN00553,Education,17197,36,12.14,535.69,0.268,5.6,0,0.72,Mortgage,Central,Defaulted,Default,Fair,Medium
+CUST0554,Female,43,Bachelor,Employed,Married,1,69162.0,642.0,1,LOAN00554,Home,147012,84,5.2,1841.15,0.05,10.2,0,0.67,Own,West,Defaulted,Default,Fair,High
+CUST0555,Female,51,Doctorate,Self-Employed,Married,3,34933.0,706.0,0,LOAN00555,Personal,13352,84,12.67,179.09,0.155,21.8,0,0.7,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0556,Male,31,Master,Self-Employed,Married,2,65373.0,835.0,1,LOAN00556,Business,162600,60,6.98,2899.16,0.211,8.2,0,0.9,Other,North,Defaulted,Default,Excellent,High
+CUST0557,Male,30,Bachelor,Employed,Divorced,2,18000.0,634.0,0,LOAN00557,Personal,23723,12,6.82,2111.74,0.195,4.6,0,0.78,Own,North,Defaulted,Default,Fair,Low
+CUST0558,Male,23,High School,Employed,Single,2,28133.0,603.0,0,LOAN00558,Personal,9204,24,11.71,428.41,0.402,3.1,0,0.73,Mortgage,East,Defaulted,Default,Fair,Low
+CUST0559,Female,34,Master,Employed,Single,3,24824.0,634.0,1,LOAN00559,Personal,26795,36,5.18,782.86,0.385,13.0,0,0.72,Mortgage,Central,Defaulted,Default,Fair,Low
+CUST0560,Female,36,Bachelor,Unemployed,Married,1,70042.0,657.0,0,LOAN00560,Auto,18175,36,11.53,563.07,0.459,0.1,0,0.8,Own,East,Active/Closed,Non-Default,Fair,High
+CUST0561,Female,30,High School,Self-Employed,Widowed,1,70308.0,724.0,2,LOAN00561,Auto,21604,84,7.1,275.45,0.611,5.4,0,0.94,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0562,Male,49,High School,Employed,Married,1,37235.0,735.0,1,LOAN00562,Home,109902,12,6.46,9750.14,0.486,23.5,0,0.9,Own,North,Defaulted,Default,Good,Low
+CUST0563,Male,30,Master,Employed,Single,4,75803.0,750.0,1,LOAN00563,Home,264882,120,10.68,2443.09,0.441,6.6,0,0.87,Rent,West,Defaulted,Default,Very Good,High
+CUST0564,Male,32,Bachelor,Employed,Married,2,86750.0,753.0,0,LOAN00564,Home,281153,36,8.18,8448.65,0.141,9.1,1,0.86,Rent,West,Defaulted,Default,Very Good,Very High
+CUST0565,Male,50,Master,Employed,Married,0,76187.0,667.0,1,LOAN00565,Auto,84363,36,14.87,2691.88,0.352,16.5,0,0.72,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0566,Female,61,Master,Employed,Single,3,60848.0,842.0,2,LOAN00566,Personal,20033,60,4.85,350.08,0.406,34.7,1,0.85,Own,North,Active/Closed,Non-Default,Excellent,Medium
+CUST0567,Male,21,Bachelor,Employed,Married,1,70115.0,653.0,1,LOAN00567,Business,69040,36,14.63,2198.35,0.295,0.2,0,0.77,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0568,Male,25,Bachelor,Self-Employed,Widowed,0,89833.0,688.0,0,LOAN00568,Personal,29712,240,7.09,132.58,0.525,3.4,0,0.72,Own,East,Defaulted,Default,Good,Very High
+CUST0569,Female,40,Bachelor,Employed,Married,2,54677.0,777.0,2,LOAN00569,Business,149934,24,11.46,6963.18,0.376,2.0,1,0.77,Own,West,Defaulted,Default,Very Good,Medium
+CUST0570,Male,28,Diploma,Employed,Married,1,65657.0,722.0,4,LOAN00570,Personal,49702,48,13.82,1178.56,0.273,1.6,0,0.69,Mortgage,West,Active/Closed,Non-Default,Good,High
+CUST0571,Female,63,Bachelor,Unemployed,Married,3,41342.0,477.0,2,LOAN00571,Education,14868,180,14.46,94.54,0.37,0.8,0,0.76,Rent,East,Active/Closed,Non-Default,Poor,Low
+CUST0572,Female,32,Master,Employed,Single,0,29505.0,688.0,0,LOAN00572,Personal,7218,60,8.13,130.08,0.594,2.2,0,0.74,Mortgage,North,Active/Closed,Non-Default,Good,Low
+CUST0573,Male,21,Bachelor,Employed,Divorced,3,85164.0,745.0,4,LOAN00573,Personal,36246,36,5.93,1066.54,0.37,2.9,0,1.0,Rent,West,Defaulted,Default,Very Good,Very High
+CUST0574,Female,40,Master,Employed,Married,2,110260.0,587.0,0,LOAN00574,Business,169801,48,7.64,3807.79,0.071,20.8,1,0.62,Mortgage,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0575,Female,48,Bachelor,Employed,Married,0,45777.0,736.0,0,LOAN00575,Business,172343,84,16.06,2381.21,0.248,10.1,0,0.91,Rent,Central,Active/Closed,Non-Default,Good,Low
+CUST0576,Female,63,Bachelor,Self-Employed,Married,4,91179.0,709.0,0,LOAN00576,Home,219616,360,9.61,668.67,0.101,22.4,0,0.8,Other,Central,Active/Closed,Non-Default,Good,Very High
+CUST0577,Male,57,Bachelor,Employed,Married,1,46476.0,769.0,3,LOAN00577,Auto,95861,240,5.39,420.95,0.505,18.7,0,0.92,Own,South,Defaulted,Default,Very Good,Low
+CUST0578,Female,57,Bachelor,Employed,Married,1,67921.0,628.0,0,LOAN00578,Auto,55990,36,7.07,1665.24,0.085,28.5,1,0.71,Rent,West,Active/Closed,Non-Default,Fair,High
+CUST0579,Female,32,Bachelor,Employed,Single,1,98176.0,755.0,0,LOAN00579,Business,184487,360,9.2,559.61,0.152,8.8,0,0.94,Rent,Central,Defaulted,Default,Very Good,Very High
+CUST0580,Male,57,Diploma,Self-Employed,Married,3,58550.0,692.0,0,LOAN00580,Home,291953,12,9.32,26596.92,0.32,0.0,0,0.88,Rent,West,Active/Closed,Non-Default,Good,Medium
+CUST0581,Male,64,Bachelor,Self-Employed,Widowed,1,69677.0,812.0,1,LOAN00581,Auto,86244,12,4.0,7474.48,0.478,26.7,0,0.91,Rent,South,Defaulted,Default,Excellent,High
+CUST0582,Other,48,High School,Employed,Married,0,25367.0,850.0,0,LOAN00582,Home,127440,180,11.29,787.93,0.312,22.4,0,0.94,Mortgage,Central,Active/Closed,Non-Default,Excellent,Low
+CUST0583,Female,35,Bachelor,Employed,Widowed,0,50388.0,795.0,1,LOAN00583,Home,99054,36,9.7,3018.4,0.194,8.7,1,0.7,Own,East,Active/Closed,Non-Default,Very Good,Medium
+CUST0584,Male,26,Bachelor,Self-Employed,Single,1,28062.0,716.0,1,LOAN00584,Business,118662,12,16.02,11472.64,0.367,7.2,1,0.79,Own,North,Defaulted,Default,Good,Low
+CUST0585,Female,64,Bachelor,Employed,Married,2,74442.0,850.0,1,LOAN00585,Personal,25386,36,12.12,790.63,0.289,31.8,1,0.97,Mortgage,North,Active/Closed,Non-Default,Excellent,High
+CUST0586,Male,40,Doctorate,Self-Employed,Married,1,88296.0,740.0,1,LOAN00586,Personal,44499,48,4.0,964.14,0.481,11.5,0,1.0,Other,West,Defaulted,Default,Very Good,Very High
+CUST0587,Male,34,Bachelor,Self-Employed,Married,0,65124.0,612.0,2,LOAN00587,Auto,19003,120,14.75,181.72,0.473,9.7,1,0.67,Rent,South,Defaulted,Default,Fair,High
+CUST0588,Male,22,Master,Unemployed,Married,0,53290.0,650.0,2,LOAN00588,Auto,33197,60,14.12,631.41,0.426,2.0,1,0.62,Mortgage,North,Defaulted,Default,Fair,Medium
+CUST0589,Male,29,Bachelor,Employed,Married,1,57834.0,737.0,0,LOAN00589,Personal,38831,36,8.29,1168.06,0.414,3.3,0,0.73,Rent,West,Defaulted,Default,Good,Medium
+CUST0590,Male,57,Bachelor,Employed,Single,3,81292.0,742.0,1,LOAN00590,Home,73747,60,9.2,1342.2,0.378,11.4,1,0.86,Rent,West,Active/Closed,Non-Default,Very Good,Very High
+CUST0591,Male,40,High School,Self-Employed,Married,1,72848.0,596.0,0,LOAN00591,Business,77738,360,14.74,247.77,0.484,4.0,0,0.58,Own,West,Defaulted,Default,Fair,High
+CUST0592,Female,46,Diploma,Employed,Single,4,21315.0,598.0,1,LOAN00592,Personal,22422,180,10.46,137.6,0.433,25.1,0,0.7,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0593,Male,49,Bachelor,Employed,Married,1,85680.0,654.0,0,LOAN00593,Auto,66033,36,9.77,2013.46,0.386,23.1,0,0.77,Own,West,Active/Closed,Non-Default,Fair,Very High
+CUST0594,Male,21,Bachelor,Unemployed,Single,0,38430.0,685.0,2,LOAN00594,Education,16860,360,13.5,53.16,0.649,0.2,0,0.81,Rent,North,Active/Closed,Non-Default,Good,Low
+CUST0595,Female,55,High School,Unemployed,Single,3,19052.0,695.0,2,LOAN00595,Home,265151,84,12.05,3536.92,0.492,2.0,0,0.83,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0596,Male,26,High School,Employed,Married,1,55343.0,691.0,1,LOAN00596,Business,100558,12,8.5,9092.12,0.252,5.8,0,0.83,Own,South,Defaulted,Default,Good,Medium
+CUST0597,Female,57,Diploma,Employed,Married,2,23154.0,617.0,3,LOAN00597,Education,73777,12,13.57,6982.38,0.419,29.8,0,0.55,Own,West,Active/Closed,Non-Default,Fair,Low
+CUST0598,Male,25,Doctorate,Employed,Divorced,4,37502.0,825.0,2,LOAN00598,Home,166967,24,9.61,7625.52,0.327,0.3,0,0.96,Rent,South,Defaulted,Default,Excellent,Low
+CUST0599,Male,53,Diploma,Self-Employed,Married,0,73145.0,600.0,2,LOAN00599,Auto,34754,120,11.31,322.37,0.443,17.7,0,0.55,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0600,Male,34,Bachelor,Unemployed,Married,0,51988.0,743.0,2,LOAN00600,Auto,22765,36,8.96,689.02,0.497,1.4,1,0.83,Rent,South,Active/Closed,Non-Default,Very Good,Medium
+CUST0601,Male,32,Diploma,Employed,Married,2,71742.0,735.0,1,LOAN00601,Auto,10337,60,10.48,190.34,0.393,7.6,0,0.82,Rent,East,Active/Closed,Non-Default,Good,High
+CUST0602,Male,62,Bachelor,Employed,Married,1,65071.0,677.0,2,LOAN00602,Business,115788,24,6.38,5132.3,0.226,23.3,1,0.63,Own,Central,Defaulted,Default,Good,High
+CUST0603,Male,40,Diploma,Unemployed,Single,0,31757.0,612.0,1,LOAN00603,Home,76789,360,4.68,223.29,0.526,1.6,0,0.68,Mortgage,Central,Active/Closed,Non-Default,Fair,Low
+CUST0604,Male,44,Diploma,Employed,Married,0,63802.0,669.0,1,LOAN00604,Personal,22628,36,9.66,689.27,0.191,9.7,0,0.75,Own,North,Active/Closed,Non-Default,Fair,High
+CUST0605,Male,63,Bachelor,Employed,Divorced,0,55381.0,684.0,1,LOAN00605,Personal,31517,240,10.13,144.62,0.46,29.7,0,0.91,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0606,Male,54,High School,Retired,Married,2,24233.0,644.0,0,LOAN00606,Personal,17406,360,10.91,53.62,0.436,23.3,0,0.79,Mortgage,North,Defaulted,Default,Fair,Low
+CUST0607,Male,45,High School,Employed,Single,0,48007.0,697.0,0,LOAN00607,Personal,12885,12,14.14,1225.58,0.362,7.3,3,0.55,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0608,Male,49,Diploma,Self-Employed,Single,1,89570.0,798.0,0,LOAN00608,Business,159450,60,6.74,2836.62,0.357,1.3,0,1.0,Mortgage,North,Defaulted,Default,Very Good,Very High
+CUST0609,Female,59,High School,Employed,Single,2,99942.0,583.0,2,LOAN00609,Auto,95211,12,12.4,8918.1,0.343,12.8,1,0.61,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0610,Female,51,High School,Employed,Married,1,79328.0,631.0,3,LOAN00610,Auto,19040,240,12.8,89.49,0.323,12.5,0,0.82,Mortgage,East,Active/Closed,Non-Default,Fair,Very High
+CUST0611,Male,63,Diploma,Self-Employed,Married,0,103961.0,623.0,1,LOAN00611,Auto,24003,60,8.24,433.01,0.343,28.2,1,0.71,Mortgage,South,Defaulted,Default,Fair,Very High
+CUST0612,Female,43,Master,Employed,Single,2,66879.0,681.0,2,LOAN00612,Education,77001,12,10.96,7120.03,0.608,16.3,0,0.71,Rent,North,Defaulted,Default,Good,High
+CUST0613,Female,64,Bachelor,Retired,Divorced,0,98332.0,670.0,1,LOAN00613,Home,59446,24,9.28,2706.77,0.373,28.7,1,0.82,Own,South,Active/Closed,Non-Default,Good,Very High
+CUST0614,Male,58,Bachelor,Employed,Married,2,110199.0,738.0,2,LOAN00614,Business,195974,48,9.77,4481.68,0.209,22.8,0,0.75,Other,South,Defaulted,Default,Good,Very High
+CUST0615,Female,40,Diploma,Employed,Married,3,26864.0,683.0,1,LOAN00615,Home,51161,360,12.77,160.26,0.14,1.2,0,0.89,Mortgage,East,Defaulted,Default,Good,Low
+CUST0616,Female,43,Master,Employed,Married,1,69873.0,711.0,3,LOAN00616,Business,177260,84,9.38,2308.18,0.222,4.5,0,0.72,Mortgage,Central,Active/Closed,Non-Default,Good,High
+CUST0617,Male,65,Bachelor,Employed,Single,2,66901.0,710.0,0,LOAN00617,Auto,37659,240,12.87,177.11,0.275,21.9,0,0.89,Rent,North,Active/Closed,Non-Default,Good,High
+CUST0618,Male,36,High School,Employed,Married,1,55670.0,698.0,0,LOAN00618,Personal,47236,48,4.64,1029.74,0.472,11.5,0,0.98,Rent,South,Active/Closed,Non-Default,Good,Medium
+CUST0619,Female,62,Bachelor,Employed,Married,1,75822.0,733.0,0,LOAN00619,Auto,38525,12,6.21,3409.78,0.197,27.1,0,0.85,Mortgage,Central,Defaulted,Default,Good,High
+CUST0620,Female,28,High School,Employed,Married,3,65905.0,671.0,1,LOAN00620,Auto,68888,360,4.0,199.01,0.516,4.0,1,0.68,Rent,Central,Defaulted,Default,Good,High
+CUST0621,Male,41,Diploma,Employed,Married,3,48820.0,803.0,2,LOAN00621,Personal,8601,12,5.2,754.02,0.392,16.6,1,0.88,Own,South,Active/Closed,Non-Default,Excellent,Low
+CUST0622,Male,21,Bachelor,Self-Employed,Single,1,69415.0,850.0,0,LOAN00622,Auto,31810,360,14.27,100.97,0.378,2.1,0,0.95,Own,West,Active/Closed,Non-Default,Excellent,High
+CUST0623,Male,28,Master,Self-Employed,Widowed,2,96501.0,741.0,0,LOAN00623,Home,243420,48,10.45,5601.2,0.375,9.6,0,1.0,Rent,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0624,Female,49,Bachelor,Self-Employed,Single,3,74016.0,697.0,1,LOAN00624,Personal,28791,12,8.34,2599.35,0.416,6.7,0,0.84,Mortgage,West,Active/Closed,Non-Default,Good,High
+CUST0625,Female,52,Bachelor,Employed,Divorced,4,78793.0,727.0,0,LOAN00625,Business,187034,84,12.85,2512.71,0.271,18.8,1,0.73,Mortgage,Central,Defaulted,Default,Good,Very High
+CUST0626,Male,58,Doctorate,Employed,Widowed,1,58905.0,612.0,2,LOAN00626,Auto,48588,360,13.27,152.88,0.09,21.1,0,0.7,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0627,Male,25,High School,Self-Employed,Single,1,79945.0,694.0,1,LOAN00627,Business,176566,360,6.84,524.01,0.274,7.0,0,0.75,Mortgage,East,Active/Closed,Non-Default,Good,Very High
+CUST0628,Female,42,Diploma,Employed,Married,0,38397.0,625.0,2,LOAN00628,Auto,50406,24,17.99,2478.08,0.263,4.8,0,0.7,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0629,Male,54,Bachelor,Employed,Single,4,54006.0,718.0,1,LOAN00629,Home,294812,36,11.33,9117.06,0.382,18.3,0,0.82,Rent,West,Active/Closed,Non-Default,Good,Medium
+CUST0630,Male,21,Bachelor,Self-Employed,Married,0,67741.0,626.0,0,LOAN00630,Home,289959,60,11.71,5398.55,0.346,1.0,0,0.72,Other,East,Active/Closed,Non-Default,Fair,High
+CUST0631,Female,46,Bachelor,Self-Employed,Married,2,41921.0,654.0,1,LOAN00631,Auto,39622,60,11.99,739.54,0.312,14.7,0,0.73,Rent,West,Active/Closed,Non-Default,Fair,Low
+CUST0632,Female,63,Master,Employed,Married,1,46735.0,548.0,1,LOAN00632,Business,179466,120,14.99,1719.73,0.556,8.1,0,0.85,Own,North,Active/Closed,Non-Default,Poor,Low
+CUST0633,Female,30,Master,Employed,Divorced,0,71888.0,600.0,1,LOAN00633,Personal,43143,36,8.64,1301.96,0.268,0.6,0,0.65,Own,East,Defaulted,Default,Fair,High
+CUST0634,Female,50,Bachelor,Self-Employed,Married,1,72856.0,707.0,1,LOAN00634,Business,57922,360,16.84,187.99,0.078,18.3,0,0.85,Mortgage,East,Active/Closed,Non-Default,Good,High
+CUST0635,Male,38,Diploma,Employed,Married,4,82740.0,615.0,0,LOAN00635,Business,132372,60,9.64,2418.88,0.334,6.7,0,0.79,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0636,Male,37,Master,Self-Employed,Married,0,56789.0,768.0,3,LOAN00636,Auto,16541,180,11.57,102.53,0.538,3.5,0,0.95,Own,South,Active/Closed,Non-Default,Very Good,Medium
+CUST0637,Female,46,Doctorate,Self-Employed,Widowed,2,71267.0,623.0,0,LOAN00637,Business,170608,60,9.08,3101.65,0.354,9.1,1,0.65,Own,South,Active/Closed,Non-Default,Fair,High
+CUST0638,Male,28,Master,Self-Employed,Single,0,55219.0,722.0,2,LOAN00638,Home,93636,48,8.54,2117.34,0.327,0.5,1,0.73,Rent,West,Defaulted,Default,Good,Medium
+CUST0639,Male,60,High School,Employed,Widowed,0,80535.0,623.0,1,LOAN00639,Business,32747,360,16.21,105.71,0.374,33.3,1,0.69,Rent,East,Active/Closed,Non-Default,Fair,Very High
+CUST0640,Male,32,Bachelor,Employed,Single,1,91196.0,709.0,5,LOAN00640,Auto,46020,60,10.17,845.0,0.666,8.1,1,0.76,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0641,Male,47,High School,Self-Employed,Married,1,80633.0,565.0,1,LOAN00641,Personal,30961,240,13.4,146.29,0.24,23.6,0,0.67,Own,South,Active/Closed,Non-Default,Poor,Very High
+CUST0642,Male,28,Diploma,Self-Employed,Single,0,93346.0,646.0,1,LOAN00642,Business,173885,360,11.35,537.84,0.349,4.2,0,0.65,Rent,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0643,Male,45,High School,Self-Employed,Single,1,70715.0,617.0,1,LOAN00643,Home,293561,84,18.31,4134.67,0.425,24.4,0,0.71,Rent,West,Active/Closed,Non-Default,Fair,High
+CUST0644,Male,24,Bachelor,Employed,Married,0,82723.0,746.0,2,LOAN00644,Home,159873,60,17.01,3117.79,0.4,2.9,1,0.68,Own,South,Active/Closed,Non-Default,Very Good,Very High
+CUST0645,Male,53,Bachelor,Employed,Married,1,66659.0,715.0,1,LOAN00645,Auto,15440,12,14.35,1471.3,0.315,20.1,1,0.69,Mortgage,North,Active/Closed,Non-Default,Good,High
+CUST0646,Female,21,High School,Unemployed,Married,4,24452.0,553.0,1,LOAN00646,Personal,38710,12,22.06,3937.45,0.414,1.0,0,0.69,Rent,South,Defaulted,Default,Poor,Low
+CUST0647,Female,39,Bachelor,Self-Employed,Single,3,75428.0,665.0,1,LOAN00647,Home,191293,36,7.67,5721.25,0.311,15.4,0,0.82,Rent,Central,Defaulted,Default,Fair,High
+CUST0648,Female,51,Bachelor,Unemployed,Married,1,25103.0,587.0,0,LOAN00648,Education,38592,36,15.47,1237.84,0.504,1.1,1,0.76,Rent,South,Active/Closed,Non-Default,Fair,Low
+CUST0649,Female,36,Bachelor,Self-Employed,Divorced,2,121461.0,751.0,1,LOAN00649,Personal,18917,36,8.93,572.4,0.402,4.9,0,0.84,Mortgage,South,Active/Closed,Non-Default,Very Good,Very High
+CUST0650,Female,34,High School,Employed,Married,3,57650.0,775.0,1,LOAN00650,Personal,27608,36,4.0,797.56,0.596,2.3,0,0.97,Rent,North,Defaulted,Default,Very Good,Medium
+CUST0651,Male,25,Bachelor,Self-Employed,Single,0,84191.0,572.0,1,LOAN00651,Personal,20241,48,14.89,484.48,0.161,4.2,0,0.73,Mortgage,West,Defaulted,Default,Poor,Very High
+CUST0652,Female,61,Master,Unemployed,Married,3,46727.0,715.0,1,LOAN00652,Home,239253,48,9.03,5434.53,0.676,1.0,1,0.85,Own,South,Defaulted,Default,Good,Low
+CUST0653,Female,46,High School,Employed,Single,3,37861.0,618.0,1,LOAN00653,Education,45792,24,15.1,2196.11,0.32,2.7,0,0.79,Rent,South,Active/Closed,Non-Default,Fair,Low
+CUST0654,Female,48,High School,Self-Employed,Married,0,28232.0,661.0,2,LOAN00654,Education,70764,12,9.31,6446.01,0.359,11.9,0,0.71,Mortgage,South,Active/Closed,Non-Default,Fair,Low
+CUST0655,Male,22,Bachelor,Employed,Married,0,81478.0,682.0,0,LOAN00655,Business,117838,84,9.14,1531.05,0.423,2.1,1,0.57,Rent,South,Defaulted,Default,Good,Very High
+CUST0656,Male,26,Master,Employed,Married,4,99086.0,824.0,0,LOAN00656,Auto,31444,60,13.3,593.77,0.422,6.6,0,0.98,Own,South,Active/Closed,Non-Default,Excellent,Very High
+CUST0657,Male,29,Bachelor,Self-Employed,Married,2,53834.0,605.0,0,LOAN00657,Personal,43299,48,10.3,994.97,0.459,0.8,0,0.69,Rent,East,Defaulted,Default,Fair,Medium
+CUST0658,Male,53,Bachelor,Employed,Married,0,28553.0,743.0,0,LOAN00658,Business,120299,60,13.99,2285.48,0.485,12.2,0,0.79,Own,West,Active/Closed,Non-Default,Very Good,Low
+CUST0659,Female,61,Bachelor,Employed,Married,0,57846.0,592.0,0,LOAN00659,Education,20513,180,14.77,130.79,0.315,28.8,0,0.62,Rent,West,Active/Closed,Non-Default,Fair,Medium
+CUST0660,Female,45,Bachelor,Employed,Married,1,44383.0,587.0,1,LOAN00660,Auto,66116,48,14.81,1581.41,0.512,17.5,0,0.73,Own,West,Active/Closed,Non-Default,Fair,Low
+CUST0661,Male,33,High School,Employed,Married,2,50693.0,682.0,1,LOAN00661,Auto,42195,84,9.77,551.4,0.27,4.3,2,0.73,Rent,North,Defaulted,Default,Good,Medium
+CUST0662,Other,29,Bachelor,Employed,Married,2,78428.0,682.0,2,LOAN00662,Business,171993,360,12.01,535.14,0.333,9.3,1,0.68,Rent,West,Defaulted,Default,Good,High
+CUST0663,Female,33,Master,Employed,Married,4,63890.0,476.0,0,LOAN00663,Auto,50797,180,13.11,319.2,0.298,7.4,0,0.65,Mortgage,North,Active/Closed,Non-Default,Poor,High
+CUST0664,Male,51,Bachelor,Unemployed,Married,1,28751.0,677.0,0,LOAN00664,Home,231610,48,8.09,5215.57,0.377,1.0,0,0.85,Own,North,Defaulted,Default,Good,Low
+CUST0665,Male,61,Master,Employed,Widowed,2,77947.0,528.0,0,LOAN00665,Auto,18598,84,13.19,250.61,0.327,34.2,0,0.55,Mortgage,Central,Active/Closed,Non-Default,Poor,High
+CUST0666,Male,31,Master,Employed,Married,2,79671.0,677.0,1,LOAN00666,Personal,22821,24,14.36,1087.42,0.453,12.3,0,0.87,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0667,Male,24,High School,Employed,Married,1,57585.0,780.0,0,LOAN00667,Home,295810,60,10.31,5438.47,0.398,2.2,0,0.82,Mortgage,East,Defaulted,Default,Very Good,Medium
+CUST0668,Male,54,Master,Self-Employed,Single,0,73034.0,850.0,0,LOAN00668,Home,252115,360,11.01,777.42,0.246,4.9,1,0.88,Own,Central,Active/Closed,Non-Default,Excellent,High
+CUST0669,Male,58,High School,Employed,Married,4,76451.0,653.0,2,LOAN00669,Personal,12197,60,10.5,224.63,0.287,11.4,0,0.76,Own,Central,Defaulted,Default,Fair,High
+CUST0670,Male,24,Bachelor,Self-Employed,Married,3,79374.0,573.0,1,LOAN00670,Personal,17499,360,7.69,52.35,0.242,0.2,0,0.77,Other,East,Active/Closed,Non-Default,Poor,Very High
+CUST0671,Male,58,High School,Self-Employed,Single,1,70894.0,777.0,0,LOAN00671,Personal,19842,48,5.04,434.21,0.331,0.7,0,0.82,Mortgage,East,Active/Closed,Non-Default,Very Good,High
+CUST0672,Female,39,High School,Self-Employed,Single,2,101517.0,745.0,1,LOAN00672,Auto,68533,360,9.63,208.7,0.155,8.3,0,0.91,Own,West,Defaulted,Default,Very Good,Very High
+CUST0673,Male,26,Bachelor,Employed,Married,0,77819.0,643.0,1,LOAN00673,Education,61775,60,7.09,1102.58,0.238,7.5,0,0.71,Rent,South,Active/Closed,Non-Default,Fair,High
+CUST0674,Female,54,Diploma,Self-Employed,Married,2,60085.0,634.0,1,LOAN00674,Business,154915,12,8.93,14062.41,0.29,30.5,1,0.62,Rent,North,Defaulted,Default,Fair,Medium
+CUST0675,Male,38,Bachelor,Employed,Married,2,55217.0,626.0,1,LOAN00675,Home,177469,60,8.82,3218.7,0.472,10.2,0,0.47,Own,West,Active/Closed,Non-Default,Fair,Medium
+CUST0676,Other,33,Bachelor,Retired,Single,1,47722.0,654.0,1,LOAN00676,Auto,82974,36,8.91,2510.19,0.329,31.3,0,0.95,Other,South,Defaulted,Default,Fair,Low
+CUST0677,Male,61,High School,Self-Employed,Married,4,83907.0,704.0,1,LOAN00677,Business,98674,12,14.81,9440.63,0.466,0.2,1,0.78,Rent,North,Active/Closed,Non-Default,Good,Very High
+CUST0678,Male,43,High School,Employed,Single,2,51300.0,638.0,0,LOAN00678,Personal,10575,180,10.34,64.82,0.343,5.4,0,0.71,Mortgage,South,Active/Closed,Non-Default,Fair,Medium
+CUST0679,Other,39,Bachelor,Employed,Married,1,55652.0,647.0,0,LOAN00679,Auto,60800,36,13.3,1913.51,0.263,0.5,0,0.69,Mortgage,South,Defaulted,Default,Fair,Medium
+CUST0680,Female,65,Diploma,Employed,Single,2,88276.0,728.0,3,LOAN00680,Education,76423,120,10.99,706.85,0.343,26.4,0,0.82,Rent,Central,Active/Closed,Non-Default,Good,Very High
+CUST0681,Female,31,Master,Self-Employed,Single,0,74216.0,577.0,2,LOAN00681,Personal,40685,36,17.75,1330.74,0.23,1.9,1,0.66,Own,West,Active/Closed,Non-Default,Poor,High
+CUST0682,Male,21,Bachelor,Employed,Single,1,91368.0,652.0,1,LOAN00682,Business,124166,36,13.56,3916.75,0.633,2.6,0,0.63,Own,East,Active/Closed,Non-Default,Fair,Very High
+CUST0683,Male,44,Master,Employed,Married,1,82557.0,562.0,3,LOAN00683,Education,53510,360,11.73,166.07,0.528,16.7,0,0.68,Own,Central,Active/Closed,Non-Default,Poor,Very High
+CUST0684,Female,27,Bachelor,Employed,Single,1,39113.0,688.0,0,LOAN00684,Personal,46875,48,16.38,1136.52,0.392,2.1,0,0.96,Rent,Central,Active/Closed,Non-Default,Good,Low
+CUST0685,Female,45,Bachelor,Self-Employed,Married,2,67753.0,535.0,2,LOAN00685,Personal,24275,60,12.14,453.7,0.214,4.3,1,0.47,Rent,East,Defaulted,Default,Poor,High
+CUST0686,Female,41,Bachelor,Self-Employed,Married,1,91779.0,747.0,0,LOAN00686,Personal,19913,60,11.1,368.72,0.266,14.4,0,0.88,Rent,Central,Active/Closed,Non-Default,Very Good,Very High
+CUST0687,Female,35,Diploma,Self-Employed,Married,2,43112.0,581.0,0,LOAN00687,Home,294310,60,14.63,5622.79,0.203,15.3,1,0.79,Own,South,Active/Closed,Non-Default,Fair,Low
+CUST0688,Male,21,Diploma,Self-Employed,Married,2,79234.0,547.0,1,LOAN00688,Home,265861,240,14.97,1273.58,0.36,2.2,0,0.73,Rent,South,Defaulted,Default,Poor,Very High
+CUST0689,Female,32,Master,Employed,Married,1,64137.0,661.0,1,LOAN00689,Auto,39074,84,12.89,525.13,0.234,4.9,0,0.8,Rent,South,Active/Closed,Non-Default,Fair,High
+CUST0690,Male,27,Bachelor,Employed,Single,3,26395.0,808.0,1,LOAN00690,Personal,25870,48,6.43,573.61,0.265,5.3,0,0.98,Mortgage,West,Active/Closed,Non-Default,Excellent,Low
+CUST0691,Male,35,Master,Self-Employed,Married,0,72633.0,741.0,0,LOAN00691,Business,94714,240,12.64,444.52,0.212,5.3,0,0.84,Rent,East,Active/Closed,Non-Default,Very Good,High
+CUST0692,Male,41,Master,Employed,Single,0,46576.0,544.0,1,LOAN00692,Home,87274,36,15.24,2793.74,0.316,23.0,0,0.78,Mortgage,West,Active/Closed,Non-Default,Poor,Low
+CUST0693,Female,39,Master,Employed,Single,1,39312.0,587.0,0,LOAN00693,Personal,48102,60,13.5,909.93,0.329,15.7,0,0.69,Rent,West,Active/Closed,Non-Default,Fair,Low
+CUST0694,Male,49,Master,Employed,Married,0,65201.0,658.0,0,LOAN00694,Home,151078,360,9.93,461.33,0.294,19.0,1,0.53,Own,North,Defaulted,Default,Fair,High
+CUST0695,Male,45,Bachelor,Employed,Married,0,22521.0,848.0,0,LOAN00695,Auto,88780,60,6.28,1572.59,0.504,11.4,0,0.95,Mortgage,North,Active/Closed,Non-Default,Excellent,Low
+CUST0696,Female,53,Diploma,Employed,Divorced,2,50166.0,610.0,2,LOAN00696,Home,97339,180,11.94,605.34,0.467,21.6,0,0.66,Other,East,Active/Closed,Non-Default,Fair,Medium
+CUST0697,Male,52,Bachelor,Unemployed,Married,1,103126.0,575.0,2,LOAN00697,Personal,29654,84,11.52,393.69,0.396,0.7,1,0.58,Other,North,Defaulted,Default,Poor,Very High
+CUST0698,Female,55,Bachelor,Employed,Widowed,1,79305.0,795.0,2,LOAN00698,Personal,6078,180,9.41,36.94,0.409,1.0,1,0.8,Own,West,Active/Closed,Non-Default,Very Good,Very High
+CUST0699,Male,64,Bachelor,Employed,Single,4,45609.0,695.0,0,LOAN00699,Education,62317,360,10.2,190.76,0.236,13.8,1,0.82,Mortgage,East,Active/Closed,Non-Default,Good,Low
+CUST0700,Female,58,Bachelor,Employed,Single,2,95892.0,759.0,0,LOAN00700,Business,124565,36,4.7,3622.77,0.273,32.6,0,0.94,Own,East,Active/Closed,Non-Default,Very Good,Very High
+CUST0701,Female,46,Bachelor,Self-Employed,Single,3,48175.0,625.0,0,LOAN00701,Home,206397,24,7.7,9262.07,0.378,17.5,0,0.78,Rent,South,Defaulted,Default,Fair,Low
+CUST0702,Male,31,Bachelor,Employed,Single,0,52819.0,672.0,2,LOAN00702,Home,62930,60,11.71,1171.65,0.45,1.1,1,0.7,Mortgage,West,Defaulted,Default,Good,Medium
+CUST0703,Male,55,High School,Unemployed,Married,2,21725.0,744.0,3,LOAN00703,Auto,28993,84,8.93,375.98,0.445,1.8,0,0.79,Mortgage,West,Defaulted,Default,Very Good,Low
+CUST0704,Male,28,Bachelor,Unemployed,Married,3,52634.0,634.0,1,LOAN00704,Auto,16690,36,8.82,504.5,0.332,0.5,0,0.59,Own,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0705,Male,34,High School,Employed,Single,2,95110.0,764.0,0,LOAN00705,Home,122229,12,6.41,10838.66,0.331,3.9,1,0.8,Other,West,Defaulted,Default,Very Good,Very High
+CUST0706,Other,30,Master,Unemployed,Widowed,2,25022.0,682.0,0,LOAN00706,Business,132939,36,8.31,3999.62,0.492,0.6,0,0.88,Mortgage,East,Active/Closed,Non-Default,Good,Low
+CUST0707,Male,22,Diploma,Retired,Divorced,1,18000.0,602.0,2,LOAN00707,Auto,60957,360,15.43,195.45,0.293,31.5,0,0.72,Own,North,Defaulted,Default,Fair,Low
+CUST0708,Female,29,High School,Self-Employed,Single,0,94001.0,679.0,2,LOAN00708,Home,203037,84,7.14,2589.69,0.468,6.0,0,0.77,Mortgage,West,Active/Closed,Non-Default,Good,Very High
+CUST0709,Male,23,High School,Unemployed,Single,1,81184.0,719.0,0,LOAN00709,Auto,59433,48,14.92,1422.93,0.517,1.0,1,0.79,Own,Central,Active/Closed,Non-Default,Good,Very High
+CUST0710,Female,41,Bachelor,Employed,Single,1,21108.0,730.0,2,LOAN00710,Business,69145,36,9.51,2103.35,0.292,16.5,0,0.85,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0711,Female,46,Bachelor,Employed,Single,3,75121.0,677.0,2,LOAN00711,Education,23338,36,8.54,703.64,0.506,8.9,0,0.94,Rent,South,Active/Closed,Non-Default,Good,High
+CUST0712,Female,28,Diploma,Employed,Single,0,69983.0,538.0,0,LOAN00712,Personal,11168,24,14.65,533.5,0.459,7.8,2,0.57,Rent,North,Defaulted,Default,Poor,High
+CUST0713,Male,22,High School,Employed,Married,4,47676.0,545.0,0,LOAN00713,Home,262268,24,13.66,12420.58,0.568,0.7,0,0.75,Mortgage,West,Defaulted,Default,Poor,Low
+CUST0714,Male,26,Bachelor,Retired,Single,4,29324.0,561.0,1,LOAN00714,Home,204120,240,12.91,960.3,0.55,35.7,0,0.75,Rent,South,Defaulted,Default,Poor,Low
+CUST0715,Male,48,Diploma,Employed,Married,0,86819.0,642.0,2,LOAN00715,Home,96628,360,11.16,298.37,0.262,19.9,0,0.67,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0716,Female,49,Bachelor,Self-Employed,Widowed,1,73940.0,652.0,3,LOAN00716,Auto,25949,24,10.61,1195.92,0.506,21.2,0,0.84,Own,Central,Defaulted,Default,Fair,High
+CUST0717,Female,46,Bachelor,Self-Employed,Married,3,75597.0,569.0,3,LOAN00717,Education,70478,12,12.85,6627.87,0.501,13.5,0,0.73,Other,East,Active/Closed,Non-Default,Poor,High
+CUST0718,Other,45,Bachelor,Unemployed,Widowed,4,33321.0,722.0,1,LOAN00718,Education,60705,36,13.31,1910.69,0.423,1.3,0,0.9,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0719,Male,32,Diploma,Retired,Single,1,42358.0,585.0,0,LOAN00719,Business,138692,60,9.16,2523.27,0.375,21.6,0,0.75,Mortgage,South,Active/Closed,Non-Default,Fair,Low
+CUST0720,Female,25,Doctorate,Employed,Married,1,18000.0,592.0,2,LOAN00720,Personal,23309,36,10.76,717.14,0.145,6.0,0,0.76,Other,South,Active/Closed,Non-Default,Fair,Low
+CUST0721,Female,54,Bachelor,Employed,Married,1,59983.0,687.0,2,LOAN00721,Business,67156,36,8.14,2017.29,0.141,1.9,0,1.0,Own,East,Active/Closed,Non-Default,Good,Medium
+CUST0722,Male,57,Bachelor,Employed,Single,2,96654.0,753.0,1,LOAN00722,Education,78459,36,5.53,2299.94,0.139,5.2,1,0.78,Rent,South,Active/Closed,Non-Default,Very Good,Very High
+CUST0723,Male,35,High School,Employed,Single,0,45414.0,834.0,1,LOAN00723,Home,249310,120,8.96,2263.73,0.392,9.8,0,1.0,Rent,East,Active/Closed,Non-Default,Excellent,Low
+CUST0724,Female,64,Bachelor,Employed,Married,2,31507.0,724.0,3,LOAN00724,Education,27633,84,12.02,368.51,0.447,25.9,0,0.82,Mortgage,West,Defaulted,Default,Good,Low
+CUST0725,Female,56,High School,Employed,Married,0,74585.0,798.0,0,LOAN00725,Personal,43140,60,4.0,747.76,0.287,2.7,1,0.89,Own,West,Active/Closed,Non-Default,Very Good,High
+CUST0726,Female,35,Bachelor,Self-Employed,Married,0,83642.0,589.0,1,LOAN00726,Education,61920,48,12.08,1445.83,0.552,15.7,0,0.79,Mortgage,South,Active/Closed,Non-Default,Fair,Very High
+CUST0727,Male,63,Doctorate,Employed,Married,1,52110.0,850.0,0,LOAN00727,Auto,36737,240,7.74,164.92,0.438,34.1,1,0.91,Own,East,Defaulted,Default,Excellent,Medium
+CUST0728,Female,43,Bachelor,Employed,Married,1,57327.0,540.0,1,LOAN00728,Personal,24195,360,12.64,75.7,0.153,15.1,1,0.7,Mortgage,West,Active/Closed,Non-Default,Poor,Medium
+CUST0729,Male,26,High School,Self-Employed,Single,1,75806.0,642.0,0,LOAN00729,Auto,26736,24,6.64,1187.97,0.299,3.8,0,0.7,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0730,Male,64,High School,Employed,Married,1,61578.0,722.0,1,LOAN00730,Auto,19995,36,9.56,608.51,0.232,25.9,0,0.81,Mortgage,North,Active/Closed,Non-Default,Good,Medium
+CUST0731,Male,63,Bachelor,Employed,Single,1,87003.0,560.0,2,LOAN00731,Personal,37524,60,10.77,692.76,0.42,11.5,0,0.71,Mortgage,East,Active/Closed,Non-Default,Poor,Very High
+CUST0732,Female,65,High School,Self-Employed,Single,0,123619.0,610.0,2,LOAN00732,Personal,17038,24,9.5,777.36,0.366,17.3,0,0.81,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0733,Female,41,High School,Self-Employed,Widowed,1,32398.0,599.0,0,LOAN00733,Home,255015,48,8.34,5755.9,0.214,21.1,1,0.64,Rent,South,Defaulted,Default,Fair,Low
+CUST0734,Female,43,Master,Self-Employed,Married,4,97055.0,665.0,2,LOAN00734,Auto,99605,60,9.52,1818.12,0.573,23.9,0,0.9,Rent,West,Defaulted,Default,Fair,Very High
+CUST0735,Male,63,Bachelor,Employed,Married,1,67316.0,787.0,3,LOAN00735,Business,33792,60,6.54,600.03,0.402,32.4,0,0.86,Mortgage,West,Active/Closed,Non-Default,Very Good,High
+CUST0736,Female,36,Diploma,Self-Employed,Single,1,100540.0,681.0,0,LOAN00736,Business,105146,36,9.71,3204.32,0.27,4.7,0,0.72,Rent,Central,Active/Closed,Non-Default,Good,Very High
+CUST0737,Male,35,Master,Employed,Married,2,80936.0,653.0,1,LOAN00737,Auto,82186,60,11.4,1525.92,0.315,4.0,0,0.81,Mortgage,North,Active/Closed,Non-Default,Fair,Very High
+CUST0738,Female,45,High School,Employed,Single,4,66345.0,464.0,4,LOAN00738,Education,64171,360,13.37,202.09,0.614,8.0,0,0.59,Mortgage,West,Defaulted,Default,Poor,High
+CUST0739,Male,56,Doctorate,Self-Employed,Single,0,86721.0,730.0,1,LOAN00739,Home,239999,36,12.88,7525.3,0.454,15.4,0,0.9,Own,North,Defaulted,Default,Good,Very High
+CUST0740,Male,31,Diploma,Unemployed,Single,2,38329.0,704.0,3,LOAN00740,Education,31175,84,9.42,406.09,0.496,0.6,1,0.73,Mortgage,East,Active/Closed,Non-Default,Good,Low
+CUST0741,Male,35,Master,Employed,Married,2,47965.0,560.0,2,LOAN00741,Personal,25423,12,15.36,2444.0,0.251,6.4,0,0.66,Rent,East,Defaulted,Default,Poor,Low
+CUST0742,Male,24,Bachelor,Employed,Married,2,82839.0,675.0,2,LOAN00742,Home,198742,12,13.87,18858.96,0.27,3.7,0,0.8,Own,South,Defaulted,Default,Good,Very High
+CUST0743,Female,41,Master,Retired,Married,0,41425.0,702.0,2,LOAN00743,Auto,97655,60,11.32,1811.83,0.312,35.3,0,0.83,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0744,Female,33,Doctorate,Self-Employed,Married,2,84132.0,767.0,1,LOAN00744,Personal,19740,24,8.64,893.56,0.406,11.0,0,0.87,Mortgage,North,Defaulted,Default,Very Good,Very High
+CUST0745,Male,42,Diploma,Employed,Divorced,0,65676.0,626.0,0,LOAN00745,Education,74236,12,11.74,6912.61,0.411,19.5,1,0.64,Rent,East,Active/Closed,Non-Default,Fair,High
+CUST0746,Female,39,Doctorate,Self-Employed,Single,2,18752.0,629.0,1,LOAN00746,Education,25202,24,11.43,1170.11,0.258,0.7,0,0.73,Own,South,Defaulted,Default,Fair,Low
+CUST0747,Male,54,Bachelor,Employed,Single,2,52364.0,677.0,4,LOAN00747,Home,297269,60,13.5,5623.34,0.516,1.7,1,0.74,Mortgage,West,Defaulted,Default,Good,Medium
+CUST0748,Female,34,Bachelor,Employed,Married,0,72366.0,776.0,1,LOAN00748,Home,217566,84,11.08,2877.05,0.236,12.6,1,0.82,Own,North,Active/Closed,Non-Default,Very Good,High
+CUST0749,Female,24,Diploma,Employed,Married,3,56068.0,758.0,2,LOAN00749,Business,103432,36,11.12,3192.6,0.297,3.2,0,1.0,Own,West,Active/Closed,Non-Default,Very Good,Medium
+CUST0750,Female,47,Bachelor,Retired,Widowed,0,18000.0,678.0,1,LOAN00750,Education,51004,84,10.63,671.73,0.171,31.6,1,0.72,Rent,West,Defaulted,Default,Good,Low
+CUST0751,Male,49,High School,Retired,Single,3,89057.0,756.0,2,LOAN00751,Personal,17264,36,9.72,526.17,0.192,21.1,0,0.84,Own,West,Active/Closed,Non-Default,Very Good,Very High
+CUST0752,Female,48,Bachelor,Employed,Divorced,1,68726.0,502.0,2,LOAN00752,Home,118543,60,14.47,2261.6,0.26,7.7,0,0.85,Mortgage,North,Defaulted,Default,Poor,High
+CUST0753,Female,55,Bachelor,Employed,Married,0,74762.0,739.0,0,LOAN00753,Auto,20220,48,6.88,450.23,0.317,22.3,1,0.8,Own,West,Active/Closed,Non-Default,Good,High
+CUST0754,Male,28,Master,Employed,Single,0,54588.0,604.0,1,LOAN00754,Auto,20265,84,13.71,274.33,0.226,8.6,0,0.81,Mortgage,North,Defaulted,Default,Fair,Medium
+CUST0755,Male,36,Master,Retired,Married,4,71693.0,821.0,0,LOAN00755,Personal,20645,360,4.0,59.64,0.5,38.3,1,0.9,Rent,West,Active/Closed,Non-Default,Excellent,High
+CUST0756,Female,62,Bachelor,Retired,Married,0,100366.0,600.0,4,LOAN00756,Home,240714,360,12.64,753.17,0.308,30.0,1,0.68,Rent,West,Active/Closed,Non-Default,Fair,Very High
+CUST0757,Female,56,Diploma,Self-Employed,Widowed,0,53828.0,616.0,0,LOAN00757,Business,129435,12,11.3,12005.1,0.342,19.1,0,0.79,Rent,East,Defaulted,Default,Fair,Medium
+CUST0758,Female,50,Diploma,Self-Employed,Single,1,106674.0,722.0,1,LOAN00758,Auto,19233,240,9.65,87.87,0.503,26.7,1,0.66,Mortgage,West,Defaulted,Default,Good,Very High
+CUST0759,Female,38,Diploma,Self-Employed,Married,2,78768.0,729.0,1,LOAN00759,Business,173403,12,11.67,16136.59,0.356,10.8,0,0.89,Other,North,Active/Closed,Non-Default,Good,Very High
+CUST0760,Female,22,High School,Employed,Married,2,45872.0,647.0,0,LOAN00760,Education,50103,360,11.76,155.54,0.276,2.1,0,0.67,Rent,East,Defaulted,Default,Fair,Low
+CUST0761,Male,33,Diploma,Employed,Married,0,113673.0,708.0,1,LOAN00761,Business,192954,36,6.58,5712.51,0.363,13.6,1,0.72,Mortgage,South,Defaulted,Default,Good,Very High
+CUST0762,Male,24,Diploma,Employed,Married,1,73616.0,717.0,0,LOAN00762,Personal,35158,48,14.75,840.5,0.253,4.7,0,0.79,Mortgage,Central,Defaulted,Default,Good,High
+CUST0763,Male,46,Doctorate,Self-Employed,Married,0,84883.0,724.0,1,LOAN00763,Education,18138,24,10.72,836.77,0.225,25.5,0,0.88,Rent,Central,Active/Closed,Non-Default,Good,Very High
+CUST0764,Female,45,Bachelor,Self-Employed,Married,0,64074.0,650.0,0,LOAN00764,Personal,26320,24,17.44,1287.93,0.394,5.9,1,0.71,Mortgage,West,Active/Closed,Non-Default,Fair,High
+CUST0765,Male,50,Diploma,Employed,Married,1,47481.0,718.0,1,LOAN00765,Auto,68365,120,12.87,643.03,0.275,16.8,0,0.89,Rent,Central,Defaulted,Default,Good,Low
+CUST0766,Female,31,Bachelor,Retired,Divorced,2,63692.0,785.0,1,LOAN00766,Home,57066,360,8.85,172.55,0.457,36.8,0,0.94,Mortgage,South,Active/Closed,Non-Default,Very Good,High
+CUST0767,Female,27,High School,Employed,Single,0,99792.0,588.0,1,LOAN00767,Home,53728,60,11.43,997.82,0.441,1.0,2,0.47,Own,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0768,Female,51,Bachelor,Employed,Married,1,58187.0,617.0,1,LOAN00768,Business,43293,84,10.17,567.81,0.365,26.2,0,0.73,Rent,South,Defaulted,Default,Fair,Medium
+CUST0769,Male,64,Bachelor,Self-Employed,Single,1,69411.0,682.0,3,LOAN00769,Business,65300,120,10.95,603.75,0.512,6.4,1,0.79,Rent,West,Active/Closed,Non-Default,Good,High
+CUST0770,Female,30,Bachelor,Self-Employed,Married,4,102039.0,601.0,0,LOAN00770,Personal,24330,36,14.9,776.53,0.255,9.7,1,0.72,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0771,Male,59,Bachelor,Self-Employed,Married,4,63393.0,545.0,1,LOAN00771,Auto,53870,12,17.18,5260.41,0.439,21.4,0,0.58,Rent,North,Active/Closed,Non-Default,Poor,Medium
+CUST0772,Female,33,Doctorate,Employed,Married,3,76226.0,777.0,3,LOAN00772,Home,84507,12,10.05,7750.0,0.488,2.9,0,0.78,Own,South,Defaulted,Default,Very Good,High
+CUST0773,Male,51,Master,Employed,Married,0,84302.0,521.0,3,LOAN00773,Home,218348,36,18.81,7206.09,0.359,15.6,0,0.59,Rent,North,Active/Closed,Non-Default,Poor,Very High
+CUST0774,Male,27,Bachelor,Self-Employed,Widowed,0,65671.0,650.0,0,LOAN00774,Education,49710,36,4.45,1442.28,0.268,6.1,1,0.76,Other,Central,Active/Closed,Non-Default,Fair,High
+CUST0775,Female,62,Bachelor,Employed,Single,1,71816.0,737.0,1,LOAN00775,Home,123616,12,11.89,11526.16,0.384,22.2,0,0.96,Rent,North,Active/Closed,Non-Default,Good,High
+CUST0776,Male,62,Bachelor,Employed,Married,0,79544.0,700.0,2,LOAN00776,Business,22459,24,14.27,1069.33,0.606,15.0,1,0.66,Mortgage,East,Active/Closed,Non-Default,Good,Very High
+CUST0777,Male,56,Diploma,Self-Employed,Married,1,61180.0,651.0,1,LOAN00777,Personal,8494,24,12.14,396.88,0.317,31.5,1,0.71,Mortgage,West,Defaulted,Default,Fair,Medium
+CUST0778,Female,40,Bachelor,Employed,Single,2,82947.0,598.0,0,LOAN00778,Auto,45253,240,9.5,206.47,0.266,11.4,1,0.77,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0779,Female,24,High School,Self-Employed,Single,3,57966.0,706.0,0,LOAN00779,Auto,23858,24,14.67,1139.92,0.461,3.0,0,0.87,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0780,Female,27,Bachelor,Self-Employed,Widowed,3,55148.0,606.0,1,LOAN00780,Personal,21957,60,12.78,412.72,0.352,0.6,0,0.85,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0781,Female,21,Bachelor,Employed,Divorced,1,31405.0,700.0,0,LOAN00781,Home,207046,60,11.53,3848.64,0.424,2.8,0,0.91,Rent,North,Defaulted,Default,Good,Low
+CUST0782,Female,64,Diploma,Employed,Divorced,2,53924.0,691.0,1,LOAN00782,Education,46043,60,10.77,850.03,0.522,6.2,2,0.55,Mortgage,West,Defaulted,Default,Good,Medium
+CUST0783,Male,65,Doctorate,Self-Employed,Widowed,1,52059.0,706.0,1,LOAN00783,Education,22338,24,16.48,1084.14,0.116,18.5,0,0.82,Mortgage,South,Active/Closed,Non-Default,Good,Medium
+CUST0784,Male,62,Master,Employed,Single,0,56181.0,640.0,0,LOAN00784,Home,135956,36,11.83,4223.32,0.315,28.1,1,0.67,Own,South,Active/Closed,Non-Default,Fair,Medium
+CUST0785,Male,33,Master,Self-Employed,Married,2,83464.0,841.0,0,LOAN00785,Auto,65263,12,7.97,5872.04,0.292,3.2,0,0.98,Own,East,Active/Closed,Non-Default,Excellent,Very High
+CUST0786,Female,42,Bachelor,Self-Employed,Married,0,32035.0,707.0,1,LOAN00786,Personal,43738,48,8.07,984.74,0.23,12.7,1,0.81,Own,South,Defaulted,Default,Good,Low
+CUST0787,Female,41,Master,Self-Employed,Married,1,26557.0,667.0,3,LOAN00787,Personal,38895,36,12.77,1218.39,0.165,5.5,0,0.83,Rent,Central,Active/Closed,Non-Default,Fair,Low
+CUST0788,Male,42,High School,Retired,Married,1,43520.0,700.0,0,LOAN00788,Home,188350,60,13.46,3561.7,0.129,35.2,1,0.5,Mortgage,Central,Active/Closed,Non-Default,Good,Low
+CUST0789,Male,48,Master,Employed,Married,2,75147.0,630.0,4,LOAN00789,Personal,21303,84,10.67,280.67,0.433,16.9,1,0.55,Mortgage,East,Defaulted,Default,Fair,High
+CUST0790,Female,29,High School,Employed,Married,2,71355.0,651.0,0,LOAN00790,Education,32379,60,8.83,587.3,0.256,9.4,0,0.61,Rent,South,Defaulted,Default,Fair,High
+CUST0791,Male,46,Master,Employed,Married,1,48169.0,850.0,0,LOAN00791,Auto,89148,48,12.69,2092.94,0.224,25.0,1,0.89,Rent,South,Defaulted,Default,Excellent,Low
+CUST0792,Female,29,Diploma,Employed,Single,3,90727.0,622.0,0,LOAN00792,Business,27064,48,7.84,608.04,0.331,7.1,1,0.67,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0793,Female,35,Master,Employed,Married,1,50515.0,682.0,1,LOAN00793,Auto,98918,180,16.41,639.72,0.262,12.3,1,0.73,Own,East,Active/Closed,Non-Default,Good,Medium
+CUST0794,Female,30,Master,Employed,Married,1,75174.0,654.0,2,LOAN00794,Business,139588,36,8.3,4199.27,0.525,6.6,0,0.71,Rent,West,Active/Closed,Non-Default,Fair,High
+CUST0795,Male,44,High School,Retired,Married,2,52019.0,602.0,2,LOAN00795,Auto,71302,120,6.67,633.82,0.295,27.7,1,0.69,Own,South,Defaulted,Default,Fair,Medium
+CUST0796,Female,62,Bachelor,Employed,Single,2,45887.0,712.0,0,LOAN00796,Auto,13420,120,7.05,119.72,0.501,22.7,0,0.9,Own,North,Active/Closed,Non-Default,Good,Low
+CUST0797,Female,28,Doctorate,Employed,Married,4,51689.0,698.0,1,LOAN00797,Business,128995,48,7.17,2880.08,0.341,9.1,0,0.73,Own,East,Active/Closed,Non-Default,Good,Medium
+CUST0798,Female,44,Bachelor,Employed,Single,0,81148.0,748.0,0,LOAN00798,Auto,53630,36,9.79,1635.57,0.242,10.8,0,0.76,Own,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0799,Female,36,Master,Employed,Married,2,72943.0,749.0,1,LOAN00799,Personal,9760,60,9.1,177.47,0.258,5.7,3,0.58,Own,West,Defaulted,Default,Very Good,High
+CUST0800,Female,46,Bachelor,Employed,Married,2,86298.0,748.0,1,LOAN00800,Education,25844,24,13.57,1222.96,0.527,10.9,1,0.92,Rent,East,Active/Closed,Non-Default,Very Good,Very High
+CUST0801,Female,47,Bachelor,Employed,Married,3,72942.0,611.0,2,LOAN00801,Business,180257,12,13.15,16996.73,0.454,12.6,0,0.88,Own,East,Active/Closed,Non-Default,Fair,High
+CUST0802,Male,57,Diploma,Employed,Single,0,29554.0,728.0,0,LOAN00802,Education,46249,24,9.83,2116.47,0.229,2.6,0,0.9,Rent,South,Defaulted,Default,Good,Low
+CUST0803,Female,24,Diploma,Employed,Married,2,111517.0,730.0,0,LOAN00803,Auto,47207,36,19.81,1571.08,0.334,3.0,2,0.6,Own,Central,Defaulted,Default,Good,Very High
+CUST0804,Female,44,Master,Unemployed,Married,2,55254.0,576.0,1,LOAN00804,Auto,16541,60,12.79,310.94,0.182,1.0,2,0.58,Own,North,Active/Closed,Non-Default,Poor,Medium
+CUST0805,Male,39,Bachelor,Unemployed,Married,0,58323.0,621.0,2,LOAN00805,Business,148542,180,10.19,909.32,0.33,1.2,1,0.61,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0806,Female,56,Bachelor,Self-Employed,Married,1,61710.0,571.0,2,LOAN00806,Personal,36628,36,9.67,1115.83,0.28,12.7,0,0.64,Rent,South,Active/Closed,Non-Default,Poor,Medium
+CUST0807,Female,59,Bachelor,Employed,Married,1,89490.0,730.0,1,LOAN00807,Auto,65264,360,10.26,199.89,0.252,21.5,0,0.69,Rent,Central,Defaulted,Default,Good,Very High
+CUST0808,Female,30,Bachelor,Unemployed,Married,2,22952.0,695.0,2,LOAN00808,Personal,27962,360,11.39,86.52,0.636,1.8,0,0.83,Other,West,Defaulted,Default,Good,Low
+CUST0809,Male,45,Master,Unemployed,Single,3,60416.0,760.0,1,LOAN00809,Auto,49041,360,5.15,143.24,0.235,1.9,0,0.84,Rent,North,Defaulted,Default,Very Good,Medium
+CUST0810,Male,38,Doctorate,Employed,Single,2,19248.0,678.0,0,LOAN00810,Auto,63394,180,9.0,383.89,0.149,11.7,0,0.82,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0811,Other,39,Bachelor,Self-Employed,Married,2,84899.0,714.0,2,LOAN00811,Personal,15503,48,11.48,360.06,0.424,0.9,0,0.66,Rent,West,Active/Closed,Non-Default,Good,Very High
+CUST0812,Female,56,Master,Employed,Married,1,41250.0,762.0,1,LOAN00812,Personal,47357,12,7.13,4227.8,0.373,33.9,2,0.71,Rent,North,Active/Closed,Non-Default,Very Good,Low
+CUST0813,Male,30,Master,Self-Employed,Married,0,76094.0,631.0,3,LOAN00813,Auto,62992,60,8.3,1137.01,0.353,8.5,0,0.57,Own,North,Defaulted,Default,Fair,High
+CUST0814,Female,53,Bachelor,Retired,Single,0,89861.0,612.0,1,LOAN00814,Personal,19004,60,12.85,357.43,0.591,26.7,0,0.83,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0815,Female,25,Doctorate,Employed,Single,1,83100.0,641.0,1,LOAN00815,Personal,25236,180,6.65,149.52,0.419,1.0,0,0.81,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0816,Female,55,Diploma,Unemployed,Married,1,73936.0,619.0,2,LOAN00816,Education,65426,360,7.24,194.9,0.637,0.3,0,0.73,Mortgage,West,Active/Closed,Non-Default,Fair,High
+CUST0817,Female,64,High School,Self-Employed,Single,0,94659.0,615.0,0,LOAN00817,Home,90404,60,11.03,1672.93,0.314,5.9,1,0.69,Mortgage,West,Active/Closed,Non-Default,Fair,Very High
+CUST0818,Male,54,Master,Retired,Married,1,48466.0,637.0,0,LOAN00818,Home,123209,36,13.04,3868.76,0.255,20.9,0,0.69,Own,West,Active/Closed,Non-Default,Fair,Low
+CUST0819,Male,53,Bachelor,Employed,Single,1,78163.0,746.0,2,LOAN00819,Business,142311,36,11.42,4404.53,0.306,31.6,0,0.88,Mortgage,West,Active/Closed,Non-Default,Very Good,High
+CUST0820,Male,41,Master,Unemployed,Married,0,18000.0,646.0,2,LOAN00820,Personal,19197,12,9.83,1757.01,0.601,1.1,0,0.84,Own,East,Defaulted,Default,Fair,Low
+CUST0821,Female,37,Master,Employed,Widowed,1,49887.0,711.0,3,LOAN00821,Home,248125,60,9.58,4531.59,0.488,13.3,0,0.59,Other,South,Active/Closed,Non-Default,Good,Medium
+CUST0822,Male,42,High School,Employed,Single,0,95638.0,639.0,0,LOAN00822,Auto,21741,60,13.53,411.38,0.294,19.9,0,0.73,Own,Central,Defaulted,Default,Fair,Very High
+CUST0823,Male,57,Master,Employed,Married,3,56529.0,642.0,1,LOAN00823,Education,62201,180,13.08,390.76,0.402,27.7,1,0.67,Own,North,Active/Closed,Non-Default,Fair,Medium
+CUST0824,Male,35,Bachelor,Retired,Single,3,18904.0,701.0,0,LOAN00824,Business,32303,60,10.65,595.72,0.436,37.7,0,0.82,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0825,Female,55,Bachelor,Self-Employed,Married,2,114301.0,689.0,1,LOAN00825,Business,22267,240,9.67,101.75,0.277,33.9,0,0.94,Mortgage,West,Defaulted,Default,Good,Very High
+CUST0826,Female,48,Bachelor,Unemployed,Married,0,59370.0,703.0,1,LOAN00826,Education,72367,60,10.61,1334.09,0.424,0.9,0,0.74,Own,South,Active/Closed,Non-Default,Good,Medium
+CUST0827,Male,27,Master,Retired,Married,2,76819.0,786.0,4,LOAN00827,Personal,31160,180,6.52,184.4,0.474,39.0,0,0.87,Mortgage,North,Active/Closed,Non-Default,Very Good,High
+CUST0828,Male,52,High School,Employed,Married,3,43430.0,628.0,2,LOAN00828,Personal,20832,24,10.05,955.23,0.155,24.6,0,0.6,Own,North,Active/Closed,Non-Default,Fair,Low
+CUST0829,Female,31,Bachelor,Employed,Divorced,2,71249.0,745.0,0,LOAN00829,Home,108149,180,9.03,655.08,0.376,0.9,0,1.0,Own,West,Active/Closed,Non-Default,Very Good,High
+CUST0830,Male,30,Bachelor,Employed,Single,0,70667.0,599.0,0,LOAN00830,Personal,32760,84,13.2,441.48,0.185,8.2,0,0.71,Own,Central,Active/Closed,Non-Default,Fair,High
+CUST0831,Male,29,Master,Employed,Single,2,46927.0,844.0,0,LOAN00831,Auto,55810,24,7.34,2496.1,0.433,7.6,0,0.94,Mortgage,East,Active/Closed,Non-Default,Excellent,Low
+CUST0832,Male,34,Bachelor,Employed,Divorced,3,61264.0,621.0,0,LOAN00832,Auto,99244,36,12.07,3089.52,0.578,14.5,0,0.75,Rent,East,Defaulted,Default,Fair,Medium
+CUST0833,Male,33,High School,Employed,Married,2,31990.0,732.0,0,LOAN00833,Personal,49245,360,12.96,154.52,0.236,5.6,0,0.91,Rent,South,Defaulted,Default,Good,Low
+CUST0834,Male,45,Diploma,Employed,Divorced,2,57372.0,598.0,0,LOAN00834,Education,52627,12,12.36,4927.64,0.158,15.8,0,0.76,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0835,Female,22,Bachelor,Employed,Married,1,86425.0,669.0,0,LOAN00835,Personal,24929,60,8.06,448.97,0.298,0.0,0,1.0,Own,North,Active/Closed,Non-Default,Fair,Very High
+CUST0836,Male,55,Master,Employed,Married,1,48569.0,804.0,1,LOAN00836,Home,172785,36,10.83,5319.38,0.313,11.6,0,0.97,Mortgage,South,Defaulted,Default,Excellent,Low
+CUST0837,Female,27,Diploma,Employed,Married,0,106961.0,619.0,1,LOAN00837,Auto,71423,84,11.05,944.23,0.424,0.6,0,0.71,Rent,South,Active/Closed,Non-Default,Fair,Very High
+CUST0838,Male,41,Diploma,Retired,Married,2,28406.0,845.0,4,LOAN00838,Home,75394,180,7.6,450.69,0.448,30.4,0,0.93,Own,North,Defaulted,Default,Excellent,Low
+CUST0839,Female,38,Doctorate,Self-Employed,Divorced,0,64276.0,695.0,4,LOAN00839,Home,132088,48,14.63,3154.43,0.384,16.3,0,0.79,Rent,North,Active/Closed,Non-Default,Good,High
+CUST0840,Female,23,High School,Retired,Married,1,45559.0,753.0,1,LOAN00840,Personal,8387,48,7.0,186.96,0.356,24.1,0,0.76,Mortgage,West,Defaulted,Default,Very Good,Low
+CUST0841,Male,62,Doctorate,Employed,Single,1,61036.0,725.0,1,LOAN00841,Home,68340,360,4.52,198.41,0.21,18.5,0,0.86,Rent,Central,Active/Closed,Non-Default,Good,Medium
+CUST0842,Female,59,Bachelor,Employed,Single,2,95172.0,714.0,1,LOAN00842,Education,19688,120,8.38,177.82,0.445,7.1,1,0.81,Mortgage,Central,Active/Closed,Non-Default,Good,Very High
+CUST0843,Male,61,Master,Self-Employed,Single,0,48342.0,581.0,0,LOAN00843,Business,107346,240,18.36,529.39,0.514,4.2,2,0.46,Mortgage,East,Active/Closed,Non-Default,Fair,Low
+CUST0844,Other,31,Diploma,Employed,Single,2,55072.0,645.0,2,LOAN00844,Home,246194,48,9.55,5618.87,0.226,6.6,1,0.61,Rent,North,Active/Closed,Non-Default,Fair,Medium
+CUST0845,Male,59,High School,Employed,Single,2,79399.0,770.0,0,LOAN00845,Home,171374,36,7.15,5100.76,0.13,2.8,0,1.0,Rent,West,Active/Closed,Non-Default,Very Good,Very High
+CUST0846,Male,44,Master,Employed,Married,0,67049.0,662.0,0,LOAN00846,Auto,40193,48,10.58,925.95,0.272,15.3,0,0.68,Own,North,Active/Closed,Non-Default,Fair,High
+CUST0847,Male,39,Master,Employed,Married,0,68854.0,698.0,3,LOAN00847,Business,34824,84,13.53,470.66,0.248,0.7,0,0.66,Other,West,Active/Closed,Non-Default,Good,High
+CUST0848,Other,24,Master,Employed,Married,0,43764.0,572.0,2,LOAN00848,Personal,29763,24,13.25,1404.44,0.217,0.6,1,0.51,Own,West,Defaulted,Default,Poor,Low
+CUST0849,Female,46,High School,Employed,Married,3,63425.0,640.0,1,LOAN00849,Home,117817,36,12.27,3674.25,0.177,15.4,1,0.55,Own,West,Active/Closed,Non-Default,Fair,Medium
+CUST0850,Female,58,Master,Self-Employed,Single,1,94895.0,772.0,2,LOAN00850,Education,51120,12,8.13,4606.34,0.347,20.7,0,0.93,Rent,Central,Active/Closed,Non-Default,Very Good,Very High
+CUST0851,Male,62,Master,Employed,Single,1,29591.0,592.0,0,LOAN00851,Auto,97947,48,15.3,2352.77,0.271,1.0,0,0.69,Rent,West,Defaulted,Default,Fair,Low
+CUST0852,Female,52,Bachelor,Employed,Single,0,49659.0,734.0,0,LOAN00852,Personal,10009,180,11.04,61.74,0.365,19.5,0,0.85,Other,West,Active/Closed,Non-Default,Good,Medium
+CUST0853,Male,59,Master,Self-Employed,Married,2,30058.0,701.0,1,LOAN00853,Auto,29091,12,9.31,2649.95,0.277,29.3,0,0.92,Mortgage,South,Active/Closed,Non-Default,Good,Low
+CUST0854,Female,65,Master,Employed,Single,3,76813.0,670.0,0,LOAN00854,Personal,26289,84,11.27,348.24,0.174,25.3,1,0.64,Own,Central,Active/Closed,Non-Default,Good,High
+CUST0855,Male,56,Bachelor,Employed,Single,3,91960.0,659.0,3,LOAN00855,Home,292153,360,8.87,883.52,0.393,4.6,1,0.75,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0856,Male,60,High School,Unemployed,Married,2,42965.0,608.0,4,LOAN00856,Auto,79463,36,6.37,2347.91,0.413,1.2,1,0.76,Own,Central,Defaulted,Default,Fair,Low
+CUST0857,Male,57,Bachelor,Employed,Married,0,42879.0,650.0,1,LOAN00857,Business,181681,84,10.44,2388.67,0.406,23.5,0,0.74,Mortgage,South,Defaulted,Default,Fair,Low
+CUST0858,Male,53,High School,Employed,Single,0,43523.0,750.0,0,LOAN00858,Home,133429,360,6.63,395.21,0.12,1.3,1,0.84,Mortgage,North,Defaulted,Default,Very Good,Low
+CUST0859,Female,56,Bachelor,Employed,Married,0,58465.0,648.0,1,LOAN00859,Personal,49642,360,12.29,154.84,0.085,29.9,0,0.76,Own,West,Defaulted,Default,Fair,Medium
+CUST0860,Male,23,Bachelor,Employed,Married,0,58381.0,816.0,3,LOAN00860,Personal,9627,36,8.59,290.39,0.202,4.5,0,1.0,Mortgage,North,Active/Closed,Non-Default,Excellent,Medium
+CUST0861,Female,29,High School,Employed,Married,0,85060.0,702.0,1,LOAN00861,Business,29535,24,14.77,1412.39,0.295,9.4,1,0.61,Mortgage,West,Defaulted,Default,Good,Very High
+CUST0862,Male,28,Diploma,Self-Employed,Divorced,0,55285.0,637.0,2,LOAN00862,Personal,43502,24,9.51,1984.96,0.336,8.2,0,0.64,Rent,South,Active/Closed,Non-Default,Fair,Medium
+CUST0863,Female,53,High School,Employed,Single,1,74572.0,753.0,1,LOAN00863,Home,281816,84,8.64,3644.82,0.361,26.1,0,0.85,Rent,Central,Active/Closed,Non-Default,Very Good,High
+CUST0864,Male,26,Master,Employed,Single,3,58280.0,735.0,0,LOAN00864,Personal,9076,120,6.09,80.24,0.252,5.1,1,0.69,Own,West,Active/Closed,Non-Default,Good,Medium
+CUST0865,Male,61,Master,Employed,Divorced,2,48615.0,564.0,0,LOAN00865,Education,13507,84,10.19,177.18,0.218,23.8,0,0.65,Own,West,Defaulted,Default,Poor,Low
+CUST0866,Female,59,High School,Employed,Married,3,57732.0,602.0,2,LOAN00866,Home,58294,36,5.46,1707.69,0.542,28.2,0,0.71,Own,South,Defaulted,Default,Fair,Medium
+CUST0867,Male,24,Doctorate,Self-Employed,Married,2,77404.0,686.0,1,LOAN00867,Home,76127,24,13.73,3607.47,0.485,4.0,0,0.87,Own,North,Active/Closed,Non-Default,Good,High
+CUST0868,Male,33,Bachelor,Employed,Married,0,85129.0,561.0,1,LOAN00868,Home,102355,60,12.12,1912.67,0.463,4.9,0,0.66,Rent,West,Defaulted,Default,Poor,Very High
+CUST0869,Female,22,Diploma,Employed,Married,2,59457.0,837.0,0,LOAN00869,Business,194614,60,12.68,3654.85,0.357,1.5,1,0.8,Other,North,Active/Closed,Non-Default,Excellent,Medium
+CUST0870,Female,25,High School,Employed,Divorced,0,38513.0,742.0,3,LOAN00870,Auto,70107,120,4.0,607.59,0.442,6.3,0,0.84,Rent,South,Active/Closed,Non-Default,Very Good,Low
+CUST0871,Male,64,Bachelor,Employed,Widowed,2,86994.0,679.0,1,LOAN00871,Auto,80070,48,15.14,1920.68,0.248,0.6,1,0.65,Rent,East,Active/Closed,Non-Default,Good,Very High
+CUST0872,Male,47,Master,Employed,Married,1,45240.0,662.0,0,LOAN00872,Business,159705,36,10.3,4893.18,0.337,20.3,1,0.62,Mortgage,East,Active/Closed,Non-Default,Fair,Low
+CUST0873,Female,52,Bachelor,Self-Employed,Single,4,75738.0,635.0,1,LOAN00873,Business,116313,36,11.52,3603.12,0.352,32.5,1,0.54,Mortgage,North,Defaulted,Default,Fair,High
+CUST0874,Male,41,High School,Employed,Divorced,0,64454.0,533.0,0,LOAN00874,Home,249372,36,10.31,7641.17,0.194,16.2,0,0.67,Rent,North,Active/Closed,Non-Default,Poor,High
+CUST0875,Male,28,High School,Employed,Single,0,61511.0,550.0,0,LOAN00875,Business,127245,36,15.08,4067.6,0.126,9.9,1,0.53,Other,North,Defaulted,Default,Poor,Medium
+CUST0876,Male,58,Bachelor,Employed,Single,3,54287.0,823.0,0,LOAN00876,Personal,19155,24,7.58,858.62,0.369,24.1,0,1.0,Mortgage,Central,Active/Closed,Non-Default,Excellent,Medium
+CUST0877,Female,28,Diploma,Self-Employed,Divorced,0,83643.0,798.0,2,LOAN00877,Home,190278,36,5.12,5556.12,0.39,0.3,0,0.81,Own,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0878,Female,23,Diploma,Employed,Single,2,18000.0,637.0,0,LOAN00878,Business,116032,12,6.88,10334.58,0.284,4.1,0,0.72,Rent,Central,Defaulted,Default,Fair,Low
+CUST0879,Male,64,Diploma,Self-Employed,Single,2,95002.0,748.0,0,LOAN00879,Personal,42055,36,6.82,1247.87,0.268,10.0,1,0.92,Own,North,Defaulted,Default,Very Good,Very High
+CUST0880,Male,23,Master,Self-Employed,Single,3,49925.0,726.0,1,LOAN00880,Personal,49178,120,11.64,457.52,0.125,2.2,0,0.78,Rent,North,Active/Closed,Non-Default,Good,Medium
+CUST0881,Male,42,Master,Unemployed,Divorced,4,55975.0,700.0,1,LOAN00881,Home,152761,36,8.59,4607.87,0.496,0.6,2,0.61,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0882,Female,26,Bachelor,Employed,Married,4,72811.0,573.0,0,LOAN00882,Auto,78705,84,8.58,1017.36,0.282,2.1,0,0.61,Own,North,Defaulted,Default,Poor,High
+CUST0883,Male,22,Master,Employed,Married,0,93050.0,552.0,2,LOAN00883,Home,74941,84,14.61,1022.5,0.478,1.7,0,0.57,Other,East,Active/Closed,Non-Default,Poor,Very High
+CUST0884,Male,43,Diploma,Unemployed,Single,3,51350.0,734.0,3,LOAN00884,Education,63262,60,4.0,1096.54,0.533,0.8,0,0.99,Other,Central,Active/Closed,Non-Default,Good,Medium
+CUST0885,Female,64,Bachelor,Retired,Married,2,41760.0,532.0,2,LOAN00885,Business,86855,360,17.49,283.46,0.455,32.7,1,0.58,Rent,North,Active/Closed,Non-Default,Poor,Low
+CUST0886,Male,22,Diploma,Unemployed,Married,2,18000.0,634.0,1,LOAN00886,Auto,13545,12,16.46,1314.54,0.464,1.6,0,0.77,Mortgage,West,Active/Closed,Non-Default,Fair,Low
+CUST0887,Female,58,Bachelor,Employed,Single,0,57326.0,652.0,0,LOAN00887,Personal,21346,120,6.56,189.55,0.342,10.4,0,0.65,Own,South,Defaulted,Default,Fair,Medium
+CUST0888,Male,37,Doctorate,Employed,Married,2,21920.0,660.0,0,LOAN00888,Business,129916,360,13.66,410.17,0.432,4.1,0,0.82,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0889,Male,55,Bachelor,Employed,Single,4,51173.0,704.0,0,LOAN00889,Personal,10366,240,11.55,48.18,0.297,23.3,0,0.93,Mortgage,North,Active/Closed,Non-Default,Good,Medium
+CUST0890,Male,54,Bachelor,Self-Employed,Widowed,3,63562.0,629.0,2,LOAN00890,Personal,46582,24,9.0,2115.6,0.427,23.5,0,0.85,Own,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0891,Female,43,Bachelor,Employed,Married,1,49822.0,710.0,0,LOAN00891,Personal,8495,36,9.14,257.54,0.267,22.5,1,0.79,Mortgage,North,Active/Closed,Non-Default,Good,Medium
+CUST0892,Female,50,High School,Employed,Divorced,0,65919.0,691.0,2,LOAN00892,Auto,93701,24,12.46,4390.67,0.354,0.5,1,0.63,Rent,Central,Active/Closed,Non-Default,Good,High
+CUST0893,Female,28,Master,Self-Employed,Single,1,64806.0,845.0,3,LOAN00893,Personal,36821,60,8.58,666.34,0.586,8.5,0,1.0,Own,East,Defaulted,Default,Excellent,High
+CUST0894,Male,42,Bachelor,Employed,Married,3,57791.0,576.0,2,LOAN00894,Personal,19837,84,5.72,249.66,0.447,12.5,0,0.76,Mortgage,North,Active/Closed,Non-Default,Poor,Medium
+CUST0895,Female,64,Bachelor,Unemployed,Married,2,18000.0,647.0,0,LOAN00895,Home,147688,36,16.72,4788.37,0.375,1.2,0,0.63,Own,East,Active/Closed,Non-Default,Fair,Low
+CUST0896,Male,56,Bachelor,Employed,Married,1,36516.0,712.0,0,LOAN00896,Personal,38336,60,11.8,714.33,0.371,3.2,0,0.75,Rent,West,Defaulted,Default,Good,Low
+CUST0897,Male,25,Bachelor,Employed,Widowed,0,79138.0,661.0,0,LOAN00897,Auto,64132,84,10.34,842.42,0.166,3.0,0,0.86,Rent,West,Active/Closed,Non-Default,Fair,Very High
+CUST0898,Female,33,High School,Employed,Married,1,82694.0,580.0,2,LOAN00898,Education,55373,48,11.34,1284.42,0.343,3.4,1,0.68,Own,East,Defaulted,Default,Fair,Very High
+CUST0899,Male,49,Bachelor,Self-Employed,Single,1,29547.0,774.0,0,LOAN00899,Education,34187,180,8.13,205.37,0.206,7.9,0,0.78,Other,Central,Active/Closed,Non-Default,Very Good,Low
+CUST0900,Male,51,Diploma,Employed,Married,3,47076.0,705.0,3,LOAN00900,Personal,26952,120,14.31,256.74,0.449,16.6,0,0.9,Own,North,Active/Closed,Non-Default,Good,Low
+CUST0901,Male,36,Master,Employed,Married,2,88583.0,593.0,1,LOAN00901,Personal,49544,12,14.28,4718.24,0.322,14.6,1,0.63,Rent,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0902,Male,62,Master,Retired,Married,1,44203.0,721.0,1,LOAN00902,Business,58506,60,11.63,1088.5,0.379,34.9,2,0.71,Rent,West,Active/Closed,Non-Default,Good,Low
+CUST0903,Male,50,Master,Employed,Single,1,62547.0,816.0,1,LOAN00903,Personal,23804,36,4.95,693.95,0.438,18.9,0,0.9,Rent,West,Active/Closed,Non-Default,Excellent,Medium
+CUST0904,Female,36,Bachelor,Employed,Married,0,96720.0,677.0,1,LOAN00904,Business,72528,60,9.45,1323.03,0.29,9.7,0,0.86,Own,West,Active/Closed,Non-Default,Good,Very High
+CUST0905,Male,32,Bachelor,Employed,Single,4,57045.0,680.0,1,LOAN00905,Personal,39430,360,10.65,121.19,0.294,6.0,1,0.78,Rent,East,Active/Closed,Non-Default,Good,Medium
+CUST0906,Female,37,High School,Employed,Married,1,53896.0,798.0,1,LOAN00906,Business,157522,240,10.79,727.16,0.341,18.5,1,0.8,Rent,West,Defaulted,Default,Very Good,Medium
+CUST0907,Female,36,Master,Self-Employed,Married,1,66545.0,615.0,0,LOAN00907,Home,123111,48,9.25,2802.06,0.217,10.1,0,0.75,Mortgage,East,Defaulted,Default,Fair,High
+CUST0908,Male,32,Diploma,Employed,Married,1,105775.0,810.0,0,LOAN00908,Home,70348,36,11.48,2178.44,0.319,3.6,0,0.89,Mortgage,South,Active/Closed,Non-Default,Excellent,Very High
+CUST0909,Male,28,Bachelor,Employed,Single,2,74816.0,753.0,2,LOAN00909,Auto,11029,36,5.27,322.51,0.375,2.3,0,1.0,Own,East,Active/Closed,Non-Default,Very Good,High
+CUST0910,Male,40,Diploma,Employed,Married,2,65420.0,611.0,2,LOAN00910,Auto,48471,60,10.71,894.37,0.397,13.4,0,0.73,Mortgage,South,Active/Closed,Non-Default,Fair,High
+CUST0911,Female,23,High School,Self-Employed,Single,2,58464.0,630.0,1,LOAN00911,Home,152584,24,10.21,7006.78,0.395,2.6,0,0.69,Mortgage,South,Active/Closed,Non-Default,Fair,Medium
+CUST0912,Male,36,Bachelor,Employed,Single,0,76854.0,641.0,2,LOAN00912,Auto,98955,60,5.95,1747.38,0.178,0.1,0,0.71,Rent,South,Active/Closed,Non-Default,Fair,High
+CUST0913,Female,50,High School,Employed,Married,1,79513.0,542.0,1,LOAN00913,Education,40235,12,13.36,3800.87,0.191,26.6,0,0.68,Mortgage,North,Defaulted,Default,Poor,Very High
+CUST0914,Male,65,Master,Employed,Divorced,0,41390.0,708.0,0,LOAN00914,Personal,16539,36,8.75,499.62,0.18,24.6,0,0.9,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0915,Female,43,Diploma,Employed,Married,2,80106.0,614.0,1,LOAN00915,Personal,45105,36,14.74,1437.6,0.356,16.5,0,0.64,Own,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0916,Male,48,High School,Employed,Married,0,61675.0,702.0,0,LOAN00916,Home,172767,360,9.27,524.4,0.286,2.1,0,0.98,Own,South,Active/Closed,Non-Default,Good,Medium
+CUST0917,Male,60,Bachelor,Employed,Divorced,2,65546.0,583.0,1,LOAN00917,Personal,31963,120,14.55,305.11,0.073,12.7,0,0.74,Own,West,Active/Closed,Non-Default,Fair,High
+CUST0918,Female,25,High School,Self-Employed,Divorced,3,50546.0,749.0,3,LOAN00918,Auto,18610,36,6.81,552.15,0.629,6.5,2,0.72,Own,North,Active/Closed,Non-Default,Very Good,Medium
+CUST0919,Female,40,Diploma,Employed,Single,3,56200.0,735.0,0,LOAN00919,Personal,22231,24,11.21,1030.13,0.081,19.0,0,0.86,Mortgage,South,Active/Closed,Non-Default,Good,Medium
+CUST0920,Male,60,Bachelor,Retired,Widowed,1,37337.0,627.0,1,LOAN00920,Home,286056,60,9.25,5208.6,0.349,25.7,1,0.66,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0921,Female,64,High School,Retired,Married,1,36279.0,707.0,1,LOAN00921,Personal,31528,36,8.17,947.33,0.413,23.1,1,0.73,Rent,North,Active/Closed,Non-Default,Good,Low
+CUST0922,Female,21,Master,Employed,Married,0,73296.0,694.0,0,LOAN00922,Auto,41005,60,19.0,813.27,0.234,1.3,0,0.91,Mortgage,East,Active/Closed,Non-Default,Good,High
+CUST0923,Female,50,High School,Employed,Single,2,57187.0,791.0,0,LOAN00923,Personal,33155,180,7.64,198.27,0.397,11.4,0,0.92,Rent,East,Defaulted,Default,Very Good,Medium
+CUST0924,Female,41,Diploma,Employed,Married,3,36408.0,603.0,1,LOAN00924,Personal,45968,60,9.86,841.67,0.224,15.7,1,0.69,Mortgage,South,Defaulted,Default,Fair,Low
+CUST0925,Male,40,Master,Self-Employed,Single,0,117895.0,677.0,0,LOAN00925,Personal,17330,60,13.21,326.99,0.341,21.3,0,0.77,Mortgage,East,Defaulted,Default,Good,Very High
+CUST0926,Male,26,Diploma,Employed,Single,1,40258.0,632.0,2,LOAN00926,Business,110921,60,8.19,2000.09,0.108,2.9,1,0.68,Mortgage,Central,Defaulted,Default,Fair,Low
+CUST0927,Male,42,High School,Employed,Single,3,89026.0,683.0,0,LOAN00927,Personal,48141,360,11.71,149.38,0.461,1.5,0,0.75,Rent,North,Defaulted,Default,Good,Very High
+CUST0928,Female,38,Bachelor,Employed,Married,3,32518.0,720.0,3,LOAN00928,Auto,25516,360,12.03,79.4,0.395,18.0,0,0.95,Own,North,Active/Closed,Non-Default,Good,Low
+CUST0929,Female,28,Diploma,Unemployed,Divorced,0,57043.0,677.0,1,LOAN00929,Personal,37385,60,14.23,711.75,0.274,0.1,0,0.66,Own,West,Active/Closed,Non-Default,Good,Medium
+CUST0930,Male,59,Master,Self-Employed,Single,2,64488.0,661.0,0,LOAN00930,Personal,32652,36,17.39,1064.73,0.395,33.3,0,0.77,Rent,North,Active/Closed,Non-Default,Fair,High
+CUST0931,Male,52,Diploma,Employed,Divorced,0,51161.0,752.0,3,LOAN00931,Home,219919,48,6.29,4869.83,0.591,22.6,0,0.86,Other,Central,Defaulted,Default,Very Good,Medium
+CUST0932,Female,53,Master,Self-Employed,Divorced,0,74328.0,790.0,0,LOAN00932,Home,137805,36,13.31,4337.41,0.209,33.0,0,0.89,Rent,East,Defaulted,Default,Very Good,High
+CUST0933,Other,36,Master,Employed,Married,3,66370.0,725.0,3,LOAN00933,Business,76498,60,11.92,1426.94,0.37,3.6,0,0.91,Rent,East,Defaulted,Default,Good,High
+CUST0934,Female,32,Bachelor,Employed,Single,3,47126.0,670.0,0,LOAN00934,Business,143158,60,13.23,2701.63,0.258,0.6,0,0.77,Rent,South,Active/Closed,Non-Default,Good,Low
+CUST0935,Male,58,Master,Unemployed,Married,2,28130.0,636.0,1,LOAN00935,Education,21166,24,11.52,983.51,0.373,1.0,0,0.88,Mortgage,East,Active/Closed,Non-Default,Fair,Low
+CUST0936,Male,54,Bachelor,Employed,Widowed,0,30374.0,721.0,3,LOAN00936,Auto,47769,36,16.13,1540.95,0.29,15.8,0,0.79,Rent,North,Active/Closed,Non-Default,Good,Low
+CUST0937,Male,34,Doctorate,Employed,Married,3,71722.0,712.0,1,LOAN00937,Home,97044,60,9.54,1771.7,0.267,5.3,0,0.86,Rent,Central,Active/Closed,Non-Default,Good,High
+CUST0938,Female,56,High School,Employed,Married,1,37416.0,556.0,1,LOAN00938,Home,52076,240,14.99,249.51,0.274,33.5,0,0.62,Own,East,Active/Closed,Non-Default,Poor,Low
+CUST0939,Male,53,Bachelor,Unemployed,Married,1,47087.0,688.0,1,LOAN00939,Business,194610,60,14.42,3711.21,0.422,1.6,0,0.85,Mortgage,North,Defaulted,Default,Good,Low
+CUST0940,Female,43,Bachelor,Self-Employed,Married,2,83035.0,615.0,1,LOAN00940,Auto,48853,84,8.82,632.88,0.294,16.5,0,0.74,Own,East,Active/Closed,Non-Default,Fair,Very High
+CUST0941,Male,65,Bachelor,Self-Employed,Married,0,74577.0,574.0,0,LOAN00941,Auto,97241,36,16.5,3146.83,0.411,5.7,0,0.69,Mortgage,North,Active/Closed,Non-Default,Poor,High
+CUST0942,Female,22,Bachelor,Self-Employed,Single,2,54091.0,555.0,1,LOAN00942,Personal,11315,60,13.44,213.93,0.426,2.9,0,0.78,Rent,North,Active/Closed,Non-Default,Poor,Medium
+CUST0943,Female,61,Bachelor,Employed,Single,2,84994.0,664.0,2,LOAN00943,Personal,31432,48,6.8,699.36,0.186,25.4,0,0.74,Mortgage,West,Defaulted,Default,Fair,Very High
+CUST0944,Female,41,High School,Employed,Married,0,56025.0,604.0,1,LOAN00944,Business,56175,84,6.15,709.88,0.274,9.8,1,0.68,Mortgage,West,Defaulted,Default,Fair,Medium
+CUST0945,Male,22,High School,Employed,Divorced,0,35648.0,506.0,0,LOAN00945,Home,247519,12,13.23,23355.48,0.47,3.7,0,0.57,Rent,East,Defaulted,Default,Poor,Low
+CUST0946,Male,47,Master,Employed,Single,0,58758.0,661.0,2,LOAN00946,Home,245926,60,13.47,4650.87,0.405,4.8,0,0.8,Mortgage,North,Active/Closed,Non-Default,Fair,Medium
+CUST0947,Male,29,Bachelor,Employed,Widowed,0,77910.0,643.0,1,LOAN00947,Personal,10067,36,4.26,291.55,0.385,2.9,1,0.58,Mortgage,East,Active/Closed,Non-Default,Fair,High
+CUST0948,Female,21,Doctorate,Retired,Married,2,45163.0,684.0,1,LOAN00948,Education,73405,36,11.1,2265.36,0.374,21.3,0,0.76,Rent,North,Active/Closed,Non-Default,Good,Low
+CUST0949,Female,31,Master,Employed,Married,3,84320.0,641.0,3,LOAN00949,Personal,13758,360,13.18,43.25,0.364,10.3,0,0.76,Mortgage,East,Active/Closed,Non-Default,Fair,Very High
+CUST0950,Female,23,Doctorate,Employed,Married,0,48053.0,832.0,1,LOAN00950,Education,50973,36,4.87,1484.87,0.34,3.1,0,1.0,Rent,East,Defaulted,Default,Excellent,Low
+CUST0951,Female,43,Bachelor,Employed,Married,0,51047.0,719.0,1,LOAN00951,Personal,49354,36,8.6,1488.85,0.297,7.9,1,0.76,Own,West,Active/Closed,Non-Default,Good,Medium
+CUST0952,Female,46,Diploma,Employed,Widowed,2,41986.0,643.0,1,LOAN00952,Business,178831,60,12.22,3344.74,0.448,4.6,1,0.81,Own,Central,Defaulted,Default,Fair,Low
+CUST0953,Male,24,High School,Unemployed,Single,3,62042.0,640.0,1,LOAN00953,Education,76742,240,13.05,361.49,0.418,0.1,0,0.79,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0954,Female,38,Master,Employed,Divorced,1,63829.0,794.0,1,LOAN00954,Personal,20417,48,13.51,482.82,0.331,3.3,0,0.89,Mortgage,Central,Active/Closed,Non-Default,Very Good,High
+CUST0955,Male,26,Bachelor,Employed,Single,1,43445.0,752.0,2,LOAN00955,Auto,19502,120,6.94,173.8,0.458,3.6,0,1.0,Other,Central,Active/Closed,Non-Default,Very Good,Low
+CUST0956,Male,55,High School,Self-Employed,Married,2,61283.0,575.0,1,LOAN00956,Home,97087,180,11.05,598.97,0.306,8.7,0,0.74,Other,West,Active/Closed,Non-Default,Poor,Medium
+CUST0957,Female,42,Bachelor,Employed,Married,0,18000.0,607.0,1,LOAN00957,Personal,27522,36,15.46,882.69,0.337,6.2,0,0.69,Rent,Central,Active/Closed,Non-Default,Fair,Low
+CUST0958,Male,63,Doctorate,Employed,Married,0,82115.0,636.0,2,LOAN00958,Business,162781,48,8.24,3670.71,0.327,30.6,0,0.8,Mortgage,Central,Active/Closed,Non-Default,Fair,Very High
+CUST0959,Male,35,Bachelor,Employed,Single,2,61244.0,647.0,0,LOAN00959,Home,87538,36,12.02,2723.89,0.309,8.8,1,0.65,Other,West,Defaulted,Default,Fair,Medium
+CUST0960,Female,42,Bachelor,Employed,Divorced,2,18000.0,635.0,0,LOAN00960,Home,214933,180,17.05,1397.66,0.281,17.5,0,0.61,Rent,North,Active/Closed,Non-Default,Fair,Low
+CUST0961,Male,57,Bachelor,Retired,Single,2,27953.0,683.0,1,LOAN00961,Personal,19561,12,12.76,1838.08,0.281,20.7,0,0.89,Mortgage,North,Active/Closed,Non-Default,Good,Low
+CUST0962,Female,62,Diploma,Self-Employed,Single,2,60725.0,735.0,1,LOAN00962,Home,135301,36,12.85,4241.31,0.26,12.8,0,0.95,Rent,West,Active/Closed,Non-Default,Good,Medium
+CUST0963,Male,32,Bachelor,Employed,Married,2,63562.0,748.0,1,LOAN00963,Business,139145,84,14.33,1893.86,0.324,6.7,0,1.0,Own,East,Active/Closed,Non-Default,Very Good,Medium
+CUST0964,Male,62,Bachelor,Self-Employed,Married,0,87454.0,655.0,1,LOAN00964,Home,166750,60,12.07,3114.61,0.467,6.5,1,0.72,Own,West,Active/Closed,Non-Default,Fair,Very High
+CUST0965,Male,58,High School,Employed,Divorced,1,74209.0,557.0,3,LOAN00965,Business,166166,48,15.86,4010.83,0.47,4.2,0,0.67,Rent,South,Active/Closed,Non-Default,Poor,High
+CUST0966,Male,38,Master,Employed,Married,0,72910.0,610.0,0,LOAN00966,Business,48065,60,9.47,876.95,0.13,17.4,0,0.81,Rent,South,Defaulted,Default,Fair,High
+CUST0967,Female,65,Bachelor,Employed,Single,0,18000.0,641.0,3,LOAN00967,Personal,40548,36,13.98,1283.79,0.344,32.9,0,0.84,Mortgage,West,Active/Closed,Non-Default,Fair,Low
+CUST0968,Male,55,Master,Employed,Married,2,53440.0,595.0,1,LOAN00968,Personal,7891,48,14.74,188.63,0.268,2.8,1,0.76,Mortgage,Central,Active/Closed,Non-Default,Fair,Medium
+CUST0969,Female,50,Master,Employed,Married,3,49652.0,774.0,2,LOAN00969,Business,54930,60,4.27,954.59,0.183,11.2,0,0.9,Rent,North,Active/Closed,Non-Default,Very Good,Medium
+CUST0970,Male,44,Diploma,Employed,Single,4,44011.0,592.0,1,LOAN00970,Home,214037,240,14.23,1018.73,0.378,24.9,2,0.51,Rent,Central,Defaulted,Default,Fair,Low
+CUST0971,Female,62,Bachelor,Unemployed,Married,2,37866.0,691.0,1,LOAN00971,Personal,43472,36,4.0,1255.86,0.453,0.2,1,0.66,Mortgage,West,Active/Closed,Non-Default,Good,Low
+CUST0972,Female,50,Bachelor,Employed,Married,0,40223.0,554.0,1,LOAN00972,Personal,16371,240,15.64,78.88,0.588,20.6,0,0.73,Own,South,Defaulted,Default,Poor,Low
+CUST0973,Female,34,Master,Employed,Married,0,69735.0,737.0,2,LOAN00973,Auto,39447,84,9.8,515.63,0.33,15.6,0,0.74,Own,South,Active/Closed,Non-Default,Good,High
+CUST0974,Male,26,Diploma,Employed,Married,3,81864.0,670.0,0,LOAN00974,Education,45284,12,16.22,4385.76,0.227,7.8,1,0.76,Other,North,Defaulted,Default,Good,Very High
+CUST0975,Male,23,Bachelor,Employed,Married,2,79968.0,793.0,1,LOAN00975,Personal,14521,120,10.17,133.31,0.24,2.4,0,0.97,Mortgage,North,Active/Closed,Non-Default,Very Good,Very High
+CUST0976,Male,36,Bachelor,Employed,Married,2,61966.0,595.0,1,LOAN00976,Personal,41502,12,16.27,4021.2,0.291,2.9,1,0.67,Mortgage,East,Defaulted,Default,Fair,Medium
+CUST0977,Female,27,Diploma,Employed,Married,2,108983.0,638.0,1,LOAN00977,Business,159255,360,7.35,474.89,0.416,1.8,1,0.68,Mortgage,North,Defaulted,Default,Fair,Very High
+CUST0978,Male,34,High School,Self-Employed,Single,2,95079.0,652.0,0,LOAN00978,Education,15897,240,12.55,74.55,0.405,14.2,0,0.9,Rent,North,Active/Closed,Non-Default,Fair,Very High
+CUST0979,Female,29,Bachelor,Employed,Married,3,62766.0,669.0,0,LOAN00979,Auto,51745,36,8.58,1560.69,0.671,10.0,0,0.87,Rent,West,Defaulted,Default,Fair,Medium
+CUST0980,Female,35,Master,Employed,Married,0,54390.0,662.0,1,LOAN00980,Education,63112,36,13.77,1994.51,0.2,10.3,1,0.64,Rent,East,Defaulted,Default,Fair,Medium
+CUST0981,Male,41,Diploma,Employed,Married,2,94437.0,655.0,3,LOAN00981,Home,134332,48,7.14,2998.4,0.405,17.6,0,0.74,Mortgage,West,Defaulted,Default,Fair,Very High
+CUST0982,Female,55,Bachelor,Employed,Married,3,87167.0,654.0,0,LOAN00982,Education,52483,36,10.83,1615.75,0.238,25.9,0,0.71,Own,North,Active/Closed,Non-Default,Fair,Very High
+CUST0983,Male,22,Bachelor,Employed,Divorced,1,33971.0,525.0,1,LOAN00983,Home,62553,48,10.03,1433.9,0.387,2.6,1,0.6,Rent,West,Active/Closed,Non-Default,Poor,Low
+CUST0984,Male,47,Master,Self-Employed,Married,2,93888.0,763.0,1,LOAN00984,Personal,32391,36,9.08,981.45,0.511,24.0,0,0.81,Other,Central,Defaulted,Default,Very Good,Very High
+CUST0985,Female,22,Diploma,Employed,Single,1,61604.0,850.0,1,LOAN00985,Education,16449,60,14.77,314.64,0.448,2.7,0,1.0,Other,East,Active/Closed,Non-Default,Excellent,Medium
+CUST0986,Female,55,Master,Employed,Married,4,46060.0,710.0,1,LOAN00986,Home,257646,24,12.66,12094.33,0.2,18.7,1,0.85,Other,Central,Defaulted,Default,Good,Low
+CUST0987,Female,38,Diploma,Employed,Divorced,0,21457.0,595.0,1,LOAN00987,Business,83981,180,13.4,529.08,0.427,4.7,0,0.65,Rent,West,Active/Closed,Non-Default,Fair,Low
+CUST0988,Male,34,Bachelor,Employed,Single,2,59084.0,602.0,2,LOAN00988,Home,120388,180,4.0,695.58,0.116,11.9,2,0.52,Rent,West,Active/Closed,Non-Default,Fair,Medium
+CUST0989,Male,40,High School,Employed,Widowed,0,64731.0,726.0,2,LOAN00989,Business,171360,60,8.89,3109.9,0.084,10.4,1,0.76,Rent,West,Active/Closed,Non-Default,Good,High
+CUST0990,Female,38,High School,Self-Employed,Married,2,104921.0,709.0,1,LOAN00990,Business,29026,180,11.92,180.48,0.315,5.9,0,0.91,Rent,North,Active/Closed,Non-Default,Good,Very High
+CUST0991,Female,30,Bachelor,Employed,Married,0,86059.0,659.0,1,LOAN00991,Personal,22847,36,8.97,691.57,0.418,9.6,0,0.92,Own,South,Defaulted,Default,Fair,Very High
+CUST0992,Female,45,Diploma,Self-Employed,Single,0,57176.0,737.0,2,LOAN00992,Education,32750,12,14.78,3132.54,0.412,18.8,0,0.73,Mortgage,North,Active/Closed,Non-Default,Good,Medium
+CUST0993,Male,22,Master,Employed,Single,1,73566.0,533.0,1,LOAN00993,Home,121200,60,13.71,2296.94,0.574,3.7,1,0.54,Other,North,Active/Closed,Non-Default,Poor,High
+CUST0994,Female,45,High School,Self-Employed,Widowed,3,88177.0,737.0,0,LOAN00994,Business,184116,48,13.74,4362.78,0.333,4.5,0,0.85,Mortgage,North,Defaulted,Default,Good,Very High
+CUST0995,Male,53,Bachelor,Employed,Single,0,66891.0,698.0,5,LOAN00995,Home,237732,60,11.11,4402.4,0.432,22.7,0,0.72,Rent,Central,Defaulted,Default,Good,High
+CUST0996,Male,56,Diploma,Self-Employed,Married,0,57083.0,605.0,2,LOAN00996,Education,9794,240,9.67,44.75,0.509,8.5,0,0.7,Own,South,Defaulted,Default,Fair,Medium
+CUST0997,Female,51,High School,Employed,Married,2,53292.0,573.0,2,LOAN00997,Home,228672,360,12.09,712.0,0.325,29.8,0,0.74,Mortgage,Central,Active/Closed,Non-Default,Poor,Medium
+CUST0998,Male,34,High School,Retired,Single,1,68480.0,689.0,2,LOAN00998,Personal,28728,60,7.46,514.52,0.417,22.0,0,0.8,Mortgage,East,Active/Closed,Non-Default,Good,High
+CUST0999,Female,21,Bachelor,Employed,Single,3,74086.0,786.0,2,LOAN00999,Personal,45539,120,11.99,424.99,0.424,2.0,0,0.79,Own,South,Defaulted,Default,Very Good,High
+CUST1000,Male,36,Bachelor,Employed,Married,0,58555.0,663.0,3,LOAN01000,Home,128236,24,9.22,5835.81,0.278,14.2,1,0.92,Own,East,Defaulted,Default,Fair,Medium
